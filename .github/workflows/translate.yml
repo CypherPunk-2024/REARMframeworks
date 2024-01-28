@@ -14,7 +14,11 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
+      # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages
+      - name: Adding README - French
+        uses: CypherPunk-2024/REARMframeworks@main
+        with:
+          LANG: fr
       - name: Adding README - Chinese Simplified
         uses: CypherPunk-2024/REARMframeworks@main
         with:
@@ -31,7 +35,3 @@ jobs:
         uses: CypherPunk-2024/REARMframeworks@main
         with:
           LANG: ar
-      - name: Adding README - French
-        uses: CypherPunk-2024/REARMframeworks@main
-        with:
-          LANG: fr
