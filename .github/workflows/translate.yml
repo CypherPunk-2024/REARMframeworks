@@ -19,19 +19,4 @@ jobs:
         uses: CypherPunk-2024/REARMframeworks/generated_pages@main
         with:
           LANG: fr
-      - name: Adding README - Chinese Simplified
-        uses: CypherPunk-2024/REARMframeworks/generated_pages@main
-        with:
-          LANG: zh-CN
-      - name: Adding README - Chinese Traditional
-        uses: CypherPunk-2024/REARMframeworks/generated_pages@main
-        with:
-          LANG: zh-TW
-      - name: Adding README - Hindi
-        uses: CypherPunk-2024/REARMframeworks/generated_pages@main
-        with:
-          LANG: hi
-      - name: Adding README - Arabic
-        uses: CypherPunk-2024/REARMframeworks/generated_pages@main
-        with:
-          LANG: ar
+
