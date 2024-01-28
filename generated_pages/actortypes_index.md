@@ -1,208 +1,208 @@
-# DISARM Actortypes:
+# Désarmer les actes d'action:
 
-<table border="1">
+<table bordure = "1">
 <tr>
-<th>disarm_id</th>
-<th>name</th>
-<th>summary</th>
-<th>sector_ids</th>
+<h> DISARM_ID </ TH>
+<th> nom </th>
+<h> Résumé </th>
+<h> sector_ids </th>
 </tr>
 <tr>
-<td><a href="actortypes/A001.md">A001</a></td>
-<td>data scientist</td>
-<td>Person who can wrangle data, implement machine learning algorithms etc</td>
-<td>S001, S002, S003, S004, S005, S006, S007, S008, S009, S010</td>
+<td> <a href="ACTORTYPES/A001.md"> a001 </a> </td>
+<TD> Data Scientist </td>
+<TD> PERSONNE qui peut s'efforcer de données, implémenter des algorithmes d'apprentissage automatique, etc. </td>
+<TD> S001, S002, S003, S004, S005, S006, S007, S008, S009, S010 </TD>
 </tr>
 <tr>
-<td><a href="actortypes/A002.md">A002</a></td>
-<td>target</td>
-<td>Person being targeted by disinformation campaign</td>
-<td>S001, S002, S003, S004, S005, S006, S007, S008, S009, S010</td>
+<td> <a href="actortypes/a002.md"> a002 </a> </td>
+<TD> Target </td>
+<TD> Personne ciblée par la campagne de désinformation </td>
+<TD> S001, S002, S003, S004, S005, S006, S007, S008, S009, S010 </TD>
 </tr>
 <tr>
-<td><a href="actortypes/A003.md">A003</a></td>
-<td>trusted authority</td>
-<td>Influencer</td>
-<td>S001, S002, S003, S004, S005, S006, S007, S008, S009, S010</td>
+<td> <a href="actortypes/a003.md"> a003 </a> </td>
+<TD> Autorité de confiance </td>
+<TD> Influenceur </td>
+<TD> S001, S002, S003, S004, S005, S006, S007, S008, S009, S010 </TD>
 </tr>
 <tr>
-<td><a href="actortypes/A004.md">A004</a></td>
-<td>activist</td>
-<td></td>
-<td>S002</td>
+<td> <a href="actortypes/a004.md"> a004 </a> </td>
+<td> activiste </td>
+<td> </td>
+<TD> S002 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A005.md">A005</a></td>
-<td>community group</td>
-<td></td>
-<td>S002</td>
+<td> <a href="ACTORTYPES/A005.md"> a005 </a> </td>
+<TD> Groupe communautaire </td>
+<td> </td>
+<TD> S002 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A006.md">A006</a></td>
-<td>educator</td>
-<td></td>
-<td>S002</td>
+<td> <a href="ACTORTYPES/A006.md"> a006 </a> </td>
+<TD> Éducateur </td>
+<td> </td>
+<TD> S002 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A007.md">A007</a></td>
-<td>factchecker</td>
-<td>Someone with the skills to verify whether information posted is factual</td>
-<td>S002</td>
+<td> <a href="actortypes/a007.md"> a007 </a> </td>
+<td> factchecker </td>
+<TD> quelqu'un avec les compétences pour vérifier si les informations publiées sont factuelles </td>
+<TD> S002 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A008.md">A008</a></td>
-<td>library</td>
-<td></td>
-<td>S002</td>
+<td> <a href="actortypes/a008.md"> a008 </a> </td>
+<TD> Library </td>
+<td> </td>
+<TD> S002 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A009.md">A009</a></td>
-<td>NGO</td>
-<td></td>
-<td>S002</td>
+<td> <a href="ACTORTYPES/A009.md"> a009 </a> </td>
+<TD> ONG </td>
+<td> </td>
+<TD> S002 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A010.md">A010</a></td>
-<td>religious organisation</td>
-<td></td>
-<td>S002</td>
+<td> <a href="actortypes/a010.md"> a010 </a> </td>
+<TD> Organisation religieuse </td>
+<td> </td>
+<TD> S002 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A011.md">A011</a></td>
-<td>school</td>
-<td></td>
-<td>S002</td>
+<td> <a href="actortypes/a011.md"> a011 </a> </td>
+<TD> école </td>
+<td> </td>
+<TD> S002 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A012.md">A012</a></td>
-<td>account owner</td>
-<td>Anyone who owns an account online</td>
-<td>S006</td>
+<td> <a href="actortypes/a012.md"> a012 </a> </td>
+<TD> Propriétaire du compte </td>
+<TD> Quiconque possède un compte en ligne </td>
+<TD> S006 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A013.md">A013</a></td>
-<td>content creator</td>
-<td></td>
-<td>S006</td>
+<td> <a href="actortypes/a013.md"> a013 </a> </td>
+<TD> Créateur de contenu </td>
+<td> </td>
+<TD> S006 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A014.md">A014</a></td>
-<td>elves</td>
-<td></td>
-<td>S006</td>
+<td> <a href="actortypes/a014.md"> a014 </a> </td>
+<TD> Elfes </td>
+<td> </td>
+<TD> S006 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A015.md">A015</a></td>
-<td>general public</td>
-<td></td>
-<td>S006</td>
+<td> <a href="actortypes/a015.md"> a015 </a> </td>
+<TD> PUBRIÈRE GÉNÉRAL </TD>
+<td> </td>
+<TD> S006 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A016.md">A016</a></td>
-<td>influencer</td>
-<td></td>
-<td>S006</td>
+<td> <a href="actortypes/a016.md"> a016 </a> </td>
+<TD> Influenceur </td>
+<td> </td>
+<TD> S006 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A017.md">A017</a></td>
-<td>coordinating body</td>
-<td>For example the DHS</td>
-<td>S003</td>
+<td> <a href="actortypes/a017.md"> a017 </a> </td>
+<TD> COORDIONNEMENT CORPS </TD>
+<td> par exemple le DHS </td>
+<TD> S003 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A018.md">A018</a></td>
-<td>government</td>
-<td>Government agencies</td>
-<td>S003</td>
+<td> <a href="actortypes/a018.md"> a018 </a> </td>
+<TD> gouvernement </td>
+<TD> Agences gouvernementales </td>
+<TD> S003 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A019.md">A019</a></td>
-<td>military</td>
-<td></td>
-<td>S003</td>
+<td> <a href="actortypes/a019.md"> a019 </a> </td>
+<TD> militaire </td>
+<td> </td>
+<TD> S003 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A020.md">A020</a></td>
-<td>policy maker</td>
-<td></td>
-<td>S003</td>
+<td> <a href="actortypes/a020.md"> a020 </a> </td>
+<TD> Policy Maker </td>
+<td> </td>
+<TD> S003 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A021.md">A021</a></td>
-<td>media organisation</td>
-<td></td>
-<td>S010</td>
+<td> <a href="actortypes/a021.md"> a021 </a> </td>
+<TD> Organisation des médias </td>
+<td> </td>
+<TD> S010 </TD>
 </tr>
 <tr>
-<td><a href="actortypes/A022.md">A022</a></td>
-<td>company</td>
-<td></td>
-<td>S009</td>
+<td> <a href="actortypes/a022.md"> a022 </a> </td>
+<TD> ENTREPRISE </TD>
+<td> </td>
+<TD> S009 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A023.md">A023</a></td>
-<td>adtech provider</td>
-<td></td>
-<td>S008</td>
+<td> <a href="ACTORTYPES/A023.md"> a023 </a> </td>
+<TD> Fournisseur AdTech </td>
+<td> </td>
+<TD> S008 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A024.md">A024</a></td>
-<td>developer</td>
-<td></td>
-<td>S008</td>
+<td> <a href="actortypes/a024.md"> a024 </a> </td>
+<TD> Développeur </td>
+<td> </td>
+<TD> S008 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A025.md">A025</a></td>
-<td>funding_site_admin</td>
-<td>Funding site admin</td>
-<td>S008</td>
+<td> <a href="actortypes/a025.md"> a025 </a> </td>
+<td> financement_site_admin </td>
+<TD> Financement du site Admin </td>
+<TD> S008 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A026.md">A026</a></td>
-<td>games designer</td>
-<td></td>
-<td>S008</td>
+<td> <a href="ACTORTYPES/A026.md"> a026 </a> </td>
+<TD> Games Designer </td>
+<td> </td>
+<TD> S008 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A027.md">A027</a></td>
-<td>information security</td>
-<td></td>
-<td>S008</td>
+<td> <a href="actortypes/a027.md"> a027 </a> </td>
+<TD> Sécurité de l'information </td>
+<td> </td>
+<TD> S008 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A028.md">A028</a></td>
-<td>platform administrator</td>
-<td></td>
-<td>S008</td>
+<td> <a href="actortypes/a028.md"> a028 </a> </td>
+<TD> Administrateur de plate-forme </td>
+<td> </td>
+<TD> S008 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A029.md">A029</a></td>
-<td>server admininistrator</td>
-<td></td>
-<td>S008</td>
+<td> <a href="actortypes/a029.md"> a029 </a> </td>
+<TD> Administrateur du serveur </td>
+<td> </td>
+<TD> S008 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A030.md">A030</a></td>
-<td>platforms</td>
-<td></td>
-<td>S007</td>
+<td> <a href="actortypes/a030.md"> a030 </a> </td>
+<TD> Plateformes </td>
+<td> </td>
+<TD> S007 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A031.md">A031</a></td>
-<td>social media platform adminstrator</td>
-<td>Person with the authority to make changes to algorithms, take down content etc.</td>
-<td>S007</td>
+<td> <a href="actortypes/a031.md"> a031 </a> </td>
+<TD> Adminstator de la plate-forme de médias sociaux </td>
+<TD> Personne avec le pouvoir d'apporter des modifications aux algorithmes, à éliminer le contenu, etc. </td>
+<TD> S007 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A032.md">A032</a></td>
-<td>social media platform outreach</td>
-<td></td>
-<td>S007</td>
+<td> <a href="actortypes/a032.md"> a032 </a> </td>
+<TD> La plate-forme de médias sociaux Outreach </td>
+<td> </td>
+<TD> S007 </td>
 </tr>
 <tr>
-<td><a href="actortypes/A033.md">A033</a></td>
-<td>social media platform owner</td>
-<td>Person with authority to make changes to a social media company’s business model</td>
-<td>S007</td>
+<td> <a href="actortypes/a033.md"> a033 </a> </td>
+<TD> propriétaire de la plate-forme de médias sociaux </td>
+<TD> Personne avec le pouvoir d'apporter des modifications au modèle commercial d'une entreprise de médias sociaux </td>
+<TD> S007 </td>
 </tr>
-</table>
+</ table>
