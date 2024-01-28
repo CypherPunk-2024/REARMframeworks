@@ -1,53 +1,53 @@
-# DISARM Detections:
+# Désarmez les détections:
 
-<table border="1">
+<table bordure = "1">
 <tr>
-<th>disarm_id</th>
-<th>name</th>
-<th>summary</th>
-<th>metatechnique</th>
-<th>tactic</th>
-<th>responsetype</th>
+<h> DISARM_ID </ TH>
+<th> nom </th>
+<h> Résumé </th>
+<h> MetaTechnique </th>
+<th> Tactique </th>
+<h> ResponseType </th>
 </tr>
 <tr>
-<td><a href="detections/F00001.md">F00001</a></td>
-<td>Analyse aborted / failed campaigns</td>
-<td>Examine failed campaigns. How did they fail? Can we create useful activities that increase these failures?</td>
-<td></td>
-<td>TA01 Strategic Planning</td>
-<td>D01</td>
+<td> <a href="dections/f00001.md"> f00001 </a> </td>
+<TD> Analyser les campagnes abandonnées / échouées </td>
+<TD> Examiner les campagnes ratées.Comment ont-ils échoué?Pouvons-nous créer des activités utiles qui augmentent ces échecs? </td>
+<td> </td>
+<TD> TA01 Planification stratégique </td>
+<TD> D01 </TD>
 </tr>
 <tr>
-<td><a href="detections/F00002.md">F00002</a></td>
-<td>Analyse viral fizzle</td>
-<td>We have no idea what this means. Is it something to do with the way a viral story spreads?</td>
-<td></td>
-<td>TA01 Strategic Planning</td>
-<td>D01</td>
+<td> <a href="dections/f00002.md"> F00002 </a> </td>
+<TD> Analyser le pétillement viral </td>
+<TD> Nous n'avons aucune idée de ce que cela signifie.Est-ce quelque chose à voir avec la façon dont une histoire virale se propage? </td>
+<td> </td>
+<TD> TA01 Planification stratégique </td>
+<TD> D01 </TD>
 </tr>
 <tr>
-<td><a href="detections/F00003.md">F00003</a></td>
-<td>Exploit counter-intelligence vs bad actors</td>
-<td></td>
-<td></td>
-<td>TA01 Strategic Planning</td>
-<td>D01</td>
+<td> <a href="dections/f00003.md"> F00003 </a> </td>
+<TD> Exploiter la contre-intelligence vs de mauvais acteurs </td>
+<td> </td>
+<td> </td>
+<TD> TA01 Planification stratégique </td>
+<TD> D01 </TD>
 </tr>
 <tr>
-<td><a href="detections/F00004.md">F00004</a></td>
-<td>Recruit like-minded converts "people who used to be in-group"</td>
-<td></td>
-<td></td>
-<td>TA01 Strategic Planning</td>
-<td>D01</td>
+<td> <a href="dections/f00004.md"> F00004 </a> </td>
+<TD> recruter des convertis aux vues similaires "des gens qui étaient auprès du groupe" </td>
+<td> </td>
+<td> </td>
+<TD> TA01 Planification stratégique </td>
+<TD> D01 </TD>
 </tr>
 <tr>
-<td><a href="detections/F00005.md">F00005</a></td>
-<td>SWOT Analysis of Cognition in Various Groups</td>
-<td>Strengths, Weaknesses, Opportunities, Threats analysis of groups and audience segments.</td>
-<td></td>
-<td>TA01 Strategic Planning</td>
-<td>D01</td>
+<td> <a href="dections/f000055.md"> F00005 </a> </td>
+<TD> Analyse SWOT de la cognition dans divers groupes </td>
+<TD> Forces, faiblesses, opportunités, analyse des menaces des groupes et des segments d'audience. </td>
+<td> </td>
+<TD> TA01 Planification stratégique </td>
+<TD> D01 </TD>
 </tr>
 <tr>
 <td><a href="detections/F00006.md">F00006</a></td>
@@ -750,23 +750,23 @@
 <td>S4d detection and re-allocation approaches</td>
 <td>S4D is a way to separate out different speakers in text, audio.</td>
 <td>M004 - Friction</td>
-<td>TA15 - Establish Social Assets</td>
-<td>D01</td>
+<TD> TA15 - Établir des actifs sociaux </td>
+<TD> D01 </TD>
 </tr>
 <tr>
-<td><a href="detections/F00094.md">F00094</a></td>
-<td>Registries alert when large batches of newsy URLs get registered together</td>
-<td></td>
-<td>M003 - Daylight</td>
-<td>TA07 Channel Selection</td>
-<td>D01</td>
+<td> <a href="dections/f00094.md"> f00094 </a> </td>
+<TD> Les registres alertent lorsque de grands lots d'URL Newsy sont enregistrés ensemble </td>
+<td> </td>
+<TD> M003 - Daylight </td>
+<TD> Sélection de canaux TA07 </td>
+<TD> D01 </TD>
 </tr>
 <tr>
-<td><a href="detections/F00095.md">F00095</a></td>
-<td>Fact checking</td>
-<td>Process suspicious artefacts, narratives, and incidents</td>
-<td></td>
-<td>TA09 Exposure</td>
-<td>D01</td>
+<td> <a href="dections/f00095.md"> f00095 </a> </td>
+<TD> Contrôle des faits </td>
+<TD> Processus Artefacts suspects, récits et incidents </td>
+<td> </td>
+<TD> TA09 Exposition </TD>
+<TD> D01 </TD>
 </tr>
 </table>
