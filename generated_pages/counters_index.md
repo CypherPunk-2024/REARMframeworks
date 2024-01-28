@@ -2,12 +2,12 @@
 
 <table bordure = "1">
 <tr>
-<th>DISARM_ID</th>
+<h>DISARM_ID</th>
 <th>nom</th>
-<th> Résumé </th>
-<th> MetaTechnique </th>
+<h> Résumé </th>
+<h> MetaTechnique </th>
 <th> Tactique </th>
-<th>ResponseType</th>
+<h> ResponseType</th>
 </tr>
 <tr>
 <td><a href="counters/C00006.md">C00006</a></td>
