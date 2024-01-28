@@ -16,7 +16,7 @@ jobs:
           node-version: 12.x
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages
       - name: Adding README - French
-        uses: CypherPunk-2024/REARMframeworks/generated_pages@main
+        uses: CypherPunk-2024/REARMframeworks@main
         with:
           LANG: fr
 
