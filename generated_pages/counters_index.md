@@ -1,17 +1,17 @@
-# DISARM Counters:
+# Désarmer les compteurs:
 
-<table border="1">
+<table bordure = "1">
 <tr>
-<th>disarm_id</th>
-<th>name</th>
-<th>summary</th>
-<th>metatechnique</th>
-<th>tactic</th>
-<th>responsetype</th>
+<th>DISARM_ID</th>
+<th>nom</th>
+<th> Résumé </th>
+<th> MetaTechnique </th>
+<th> Tactique </th>
+<th>ResponseType</th>
 </tr>
 <tr>
 <td><a href="counters/C00006.md">C00006</a></td>
-<td>Charge for social media</td>
+<td>Facturer les médias sociaux</td>
 <td>Include a paid-for privacy option, e.g. pay Facebook for an option of them not collecting your personal information. There are examples of this not working, e.g. most people don’t use proton mail etc.</td>
 <td>M004 - Friction</td>
 <td>TA01 Strategic Planning</td>
@@ -46,6 +46,7 @@
 <td>Media literacy. Games to identify fake news</td>
 <td>Create and use games to show people the mechanics of disinformation, and how to counter them.</td>
 <td>M001 - Resilience</td>
+<TD> M001 - RÉSILIENCE </TD>
 <td>TA02 Objective Planning</td>
 <td>D02</td>
 </tr>
