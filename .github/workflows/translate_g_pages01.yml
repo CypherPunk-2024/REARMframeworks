@@ -1,0 +1,37 @@
+name: Translate README
+
+on:
+  push:
+    branches:
+      - main
+      - master
+jobs:
+  build:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages
+      - name: Adding README - French
+        uses: CypherPunk-2024/REARMframeworks/generated_pages@main
+        with:
+          LANG: fr
+      - name: Adding README - Chinese Simplified
+        uses: CypherPunk-2024/REARMframeworks/generated_pages@main
+        with:
+          LANG: zh-CN
+      - name: Adding README - Chinese Traditional
+        uses: CypherPunk-2024/REARMframeworks/generated_pages@main
+        with:
+          LANG: zh-TW
+      - name: Adding README - Hindi
+        uses: CypherPunk-2024/REARMframeworks/generated_pages@main
+        with:
+          LANG: hi
+      - name: Adding README - Arabic
+        uses: CypherPunk-2024/REARMframeworks/generated_pages@main
+        with:
+          LANG: ar
