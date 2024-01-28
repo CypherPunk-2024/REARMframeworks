@@ -1,4 +1,4 @@
-name: Translate README
+name: Translate g_pages 01
 
 on:
   push:
