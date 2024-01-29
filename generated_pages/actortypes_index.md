@@ -32,8 +32,7 @@
 <TD> S002 </td>
 </tr>
 <tr>
-<td> <a href="ACTORTYPES/A005.md"> a005 </a> </td>
-<TD> Groupe communautaire </td>
+<td> <a href="ACTORTYPES/A005.md"> a005 </a> </td><TD> Groupe communautaire </td>
 <td> </td>
 <TD> S002 </td>
 </tr>
@@ -79,21 +78,20 @@
 <TD> Quiconque possède un compte en ligne </td>
 <TD> S006 </td>
 </tr>
-<tr>
-<td> <a href="actortypes/a013.md"> a013 </a> </td>
-<TD> Créateur de contenu </td>
+<tr><td> <a href="actortypes/a013.md"> a013 </a> </td>
+<Td> Créatueur de Contenu </TD>
 <td> </td>
 <TD> S006 </td>
 </tr>
 <tr>
 <td> <a href="actortypes/a014.md"> a014 </a> </td>
-<TD> Elfes </td>
+<TD> ELFES </TD>
 <td> </td>
 <TD> S006 </td>
 </tr>
 <tr>
 <td> <a href="actortypes/a015.md"> a015 </a> </td>
-<TD> PUBRIÈRE GÉNÉRAL </TD>
+<TD> Pubrière Général </td>
 <td> </td>
 <TD> S006 </td>
 </tr>
@@ -105,19 +103,19 @@
 </tr>
 <tr>
 <td> <a href="actortypes/a017.md"> a017 </a> </td>
-<TD> COORDIONNEMENT CORPS </TD>
-<td> par exemple le DHS </td>
+<TD> Corps de coordination </td>
+<td> par exemple le dhs </td>
 <TD> S003 </td>
 </tr>
 <tr>
 <td> <a href="actortypes/a018.md"> a018 </a> </td>
-<TD> gouvernement </td>
-<TD> Agences gouvernementales </td>
+<TD> GOUVERNEMENT </TD>
+<TD> Agences GOUVERNAMENTALES </TD>
 <TD> S003 </td>
 </tr>
 <tr>
 <td> <a href="actortypes/a019.md"> a019 </a> </td>
-<TD> militaire </td>
+<TD> MILIRE </TD>
 <td> </td>
 <TD> S003 </td>
 </tr>
@@ -127,21 +125,20 @@
 <td> </td>
 <TD> S003 </td>
 </tr>
-<tr>
-<td> <a href="actortypes/a021.md"> a021 </a> </td>
-<TD> Organisation des médias </td>
+<tr><td> <a href="actortypes/a021.md"> a021 </a> </td>
+<TD> Organisation des Médias </td>
 <td> </td>
 <TD> S010 </TD>
 </tr>
 <tr>
 <td> <a href="actortypes/a022.md"> a022 </a> </td>
-<TD> ENTREPRISE </TD>
+<TD> Entreprise </td>
 <td> </td>
 <TD> S009 </td>
 </tr>
 <tr>
 <td> <a href="ACTORTYPES/A023.md"> a023 </a> </td>
-<TD> Fournisseur AdTech </td>
+<TD> FournisSEUR ADTECH </TD>
 <td> </td>
 <TD> S008 </td>
 </tr>
@@ -153,8 +150,8 @@
 </tr>
 <tr>
 <td> <a href="actortypes/a025.md"> a025 </a> </td>
-<td> financement_site_admin </td>
-<TD> Financement du site Admin </td>
+<TD> financier_site_admin </td>
+<TD> Financier du Site Admin </td>
 <TD> S008 </td>
 </tr>
 <tr>
@@ -165,18 +162,17 @@
 </tr>
 <tr>
 <td> <a href="actortypes/a027.md"> a027 </a> </td>
-<TD> Sécurité de l'information </td>
+<TD> SÉCURÉ DE L'ONFORMATION </TD>
 <td> </td>
 <TD> S008 </td>
 </tr>
 <tr>
 <td> <a href="actortypes/a028.md"> a028 </a> </td>
-<TD> Administrateur de plate-forme </td>
+<TD> Administrateur de plaque-Forme </td>
 <td> </td>
 <TD> S008 </td>
 </tr>
-<tr>
-<td> <a href="actortypes/a029.md"> a029 </a> </td>
+<tr><td> <a href="actortypes/a029.md"> a029 </a> </td>
 <TD> Administrateur du serveur </td>
 <td> </td>
 <TD> S008 </td>

@@ -1,1774 +1,1647 @@
-# DISARM Techniques:
+# Désarmer les techniques:
 
-<table border="1">
+<table bordure = "1">
 <tr>
-<th>disarm_id</th>
-<th>name</th>
-<th>summary</th>
-<th>tactic_id</th>
+<h> DISARM_ID </ TH>
+<th> nom </th>
+<h> Résumé </th>
+<h> tactic_id </th>
 </tr>
 <tr>
-<td><a href="techniques/T0002.md">T0002</a></td>
-<td>Facilitate State Propaganda</td>
-<td>Organise citizens around pro-state messaging. Coordinate paid or volunteer groups to push state propaganda.</td>
-<td>TA02</td>
+<td> <a href="techniques/t0002.md"> t0002 </a> </td>
+<TD> Faciliter la propagande de l'état </td>
+<TD> Organiser les citoyens autour de la messagerie pro-State.Coordonner les groupes payants ou bénévoles pour pousser la propagande de l'État. </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0003.md">T0003</a></td>
-<td>Leverage Existing Narratives</td>
-<td>Use or adapt existing narrative themes, where narratives are the baseline stories of a target audience. Narratives form the bedrock of our worldviews. New information is understood through a process firmly grounded in this bedrock. If new information is not consitent with the prevailing narratives of an audience, it will be ignored. Effective campaigns will frame their misinformation in the context of these narratives. Highly effective campaigns will make extensive use of audience-appropriate archetypes and meta-narratives throughout their content creation and amplifiction practices.</td>
-<td>TA14</td>
+<td> <a href="techniques/t0003.md"> t0003 </a> </td>
+<TD> Tirez parti des récits existants </td><TD> Utiliser ou adapter les thèmes narratifs existants, où les récits sont les histoires de base d'un public cible.Les récits forment le fondement de nos visions du monde.De nouvelles informations sont comprises à travers un processus fermement ancré dans ce fondement.Si de nouvelles informations ne sont pas considérées avec les récits dominants d'un public, il sera ignoré.Des campagnes efficaces encadrent leur désinformation dans le contexte de ces récits.Les campagnes très efficaces utiliseront largement les archétypes et les méta-narratifs adaptés au public tout au long de leurs pratiques de création de contenu et d'amplification. </td>
+<TD> TA14 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0004.md">T0004</a></td>
-<td>Develop Competing Narratives</td>
-<td>Advance competing narratives connected to same issue ie: on one hand deny incident while at same time expresses dismiss. Suppressing or discouraging narratives already spreading requires an alternative. The most simple set of narrative techniques in response would be the construction and promotion of contradictory alternatives centred on denial, deflection, dismissal, counter-charges, excessive standards of proof, bias in prohibition or enforcement, and so on. These competing narratives allow loyalists cover, but are less compelling to opponents and fence-sitters than campaigns built around existing narratives or highly explanatory master narratives. Competing narratives, as such, are especially useful in the "firehose of misinformation" approach.</td>
-<td>TA14</td>
+<td> <a href="techniques/t0004.md"> t0004 </a> </td>
+<TD> Développer des récits concurrents </td><TD> Advance des récits concurrents liés à la même question, c'est-à-dire: d'une part, nier l'incident tout en exprime le rejet.La suppression des récits ou décourageant déjà la propagation nécessite une alternative.L'ensemble le plus simple de techniques narratives en réponse serait la construction et la promotion d'alternatives contradictoires centrées sur le déni, la déviation, le licenciement, les contre-charges, les normes excessives de preuve, les biais d'interdiction ou d'application, etc.Ces récits concurrents permettent aux loyalistes de couvrir, mais sont moins convaincants pour les adversaires et les sitters de clôture que les campagnes construites autour des récits existants ou des récits maîtres hautement explicatifs.Les récits concurrents, en tant que tels, sont particulièrement utiles dans l'approche "Firehose of Misinformation". </td>
+<TD> TA14 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0007.md">T0007</a></td>
-<td>Create Inauthentic Social Media Pages and Groups</td>
-<td>Create key social engineering assets needed to amplify content, manipulate algorithms, fool public and/or specific incident/campaign targets. Computational propaganda depends substantially on false perceptions of credibility and acceptance. By creating fake users and groups with a variety of interests and commitments, attackers can ensure that their messages both come from trusted sources and appear more widely adopted than they actually are.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0007.md"> t0007 </a> </td>
+<TD> Créer des pages et des groupes de médias sociaux inauthentiques </td><TD> Créez des actifs clés d'ingénierie sociale nécessaires pour amplifier le contenu, manipuler des algorithmes, idiot public et / ou cibles d'incident / campagne spécifiques.La propagande informatique dépend considérablement des fausses perceptions de crédibilité et d'acceptation.En créant de faux utilisateurs et des groupes avec une variété d'intérêts et d'engagements, les attaquants peuvent s'assurer que leurs messages proviennent de sources de confiance et semblent plus largement adoptés qu'ils ne le sont réellement. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0009.md">T0009</a></td>
-<td>Create Fake Experts</td>
-<td>Stories planted or promoted in computational propaganda operations often make use of experts fabricated from whole cloth, sometimes specifically for the story itself.</td>
-<td>TA16</td>
+<td> <a href="techniques/t0009.md"> t0009 </a> </td>
+<TD> Créer de faux experts </td>
+<TD> Les histoires plantées ou promues dans les opérations de propagande de calcul utilisent souvent des experts fabriqués à partir de tissu entier, parfois spécifiquement pour l'histoire elle-même. </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0009.001.md">T0009.001</a></td>
-<td>Utilise Academic/Pseudoscientific Justifications</td>
-<td>Utilise Academic/Pseudoscientific Justifications</td>
-<td>TA16</td>
+<td> <a href="techniques/t0009.001.md"> t0009.001 </a> </td>
+<TD> Utiliser les justifications académiques / pseudoscientifiques </td>
+<TD> Utiliser les justifications académiques / pseudoscientifiques </td>
+<TD> TA16 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0010.md">T0010</a></td>
-<td>Cultivate Ignorant Agents</td>
-<td>Cultivate propagandists for a cause, the goals of which are not fully comprehended, and who are used cynically by the leaders of the cause. Independent actors use social media and specialised web sites to strategically reinforce and spread messages compatible with their own. Their networks are infiltrated and used by state media disinformation organisations to amplify the state’s own disinformation strategies against target populations. Many are traffickers in conspiracy theories or hoaxes, unified by a suspicion of Western governments and mainstream media. Their narratives, which appeal to leftists hostile to globalism and military intervention and nationalists against immigration, are frequently infiltrated and shaped by state-controlled trolls and altered news items from agencies such as RT and Sputnik. Also know as "useful idiots" or "unwitting agents".</td>
-<td>TA15</td>
-</tr>
-<tr>
-<td><a href="techniques/T0011.md">T0011</a></td>
-<td>Compromise Legitimate Accounts</td>
-<td>Hack or take over legimate accounts to distribute misinformation or damaging content.</td>
-<td>TA16</td>
+<tr><td> <a href="techniques/t0010.md"> t0010 </a> </td>
+<TD> Cultiver les agents ignorants </td>
+<TD> Cultive les propagandistes pour une cause, dont les objectifs ne sont pas pleinement comprise et qui sont utilisés cyniquement par les dirigeants de la cause.Les acteurs indépendants utilisent les médias sociaux et les sites Web spécialisés pour renforcer et diffuser stratégiquement les messages compatibles avec les leurs.Leurs réseaux sont infiltrés et utilisés par les organisations de désinformation des médias d'État pour amplifier les propres stratégies de désinformation de l'État contre les populations cibles.Beaucoup sont des trafiquants de théories du complot ou de canuline, unifiés par un soupçon de gouvernements occidentaux et de médias grand public.Leurs récits, qui font appel aux gauchistes hostiles au mondialisme et à l'intervention militaire et aux nationalistes contre l'immigration, sont fréquemment infiltrés et façonnés par des trolls contrôlés par l'État et des nouvelles modifiées d'agences telles que RT et Spoutnik.CONNAISSEZ également sous le nom de "idiots utiles" ou "agents involontaires". </td>
+<TD> TA15 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0013.md">T0013</a></td>
-<td>Create Inauthentic Websites</td>
-<td>Create media assets to support inauthentic organisations (e.g. think tank), people (e.g. experts) and/or serve as sites to distribute malware/launch phishing operations.</td>
-<td>TA15</td>
+<tr><td> <a href="techniques/t0011.md"> t0011 </a> </td>
+<TD> Compromis les comptes légitimes </td>
+<TD> Hack ou reprendre les comptes LegIAM pour distribuer une désinformation ou un dommage au contenu. </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0014.md">T0014</a></td>
-<td>Prepare Fundraising Campaigns</td>
-<td>Fundraising campaigns refer to an influence operation’s systematic effort to seek financial support for a charity, cause, or other enterprise using online activities that further promote operation information pathways while raising a profit. Many influence operations have engaged in crowdfunding services on platforms including Tipee, Patreon, and GoFundMe. An operation may use its previously prepared fundraising campaigns (see: Develop Information Pathways) to promote operation messaging while raising money to support its activities.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0013.md"> t0013 </a> </td>
+<TD> Créer des sites Web inauthentiques </td>
+<TD> Créez des actifs médiatiques pour soutenir les organisations inauthentiques (par exemple le groupe de réflexion), les personnes (par exemple des experts) et / ou servir de sites pour distribuer des opérations de phishing malware / lancement. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0014.001.md">T0014.001</a></td>
-<td>Raise Funds from Malign Actors</td>
-<td>Raising funds from malign actors may include contributions from foreign agents, cutouts or proxies, shell companies, dark money groups, etc.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0014.md"> t0014 </a> </td>
+<TD> Préparer les campagnes de collecte de fonds </td>Les campagnes de collecte de fonds <TD> se réfèrent à l'effort systématique d'une opération d'influence pour rechercher un soutien financier pour un organisme de bienfaisance, une cause ou une autre entreprise en utilisant des activités en ligne qui favorisent davantage les voies d'information de l'opération tout en augmentant les bénéfices.De nombreuses opérations d'influence se sont engagées dans des services de financement participatif sur des plates-formes telles que Tipee, Patreon et GoFundMe.Une opération peut utiliser ses campagnes de collecte de fonds précédemment préparées (voir: développer des voies d'information) pour promouvoir la messagerie des opérations tout en collectant des fonds pour soutenir ses activités. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0014.002.md">T0014.002</a></td>
-<td>Raise Funds from Ignorant Agents</td>
-<td>Raising funds from ignorant agents may include scams, donations intended for one stated purpose but then used for another, etc.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0014.001.md"> T0014.001 </a> </td>
+<TD> collecter des fonds des acteurs malignes </td>
+<TD> La collecte de fonds des acteurs malignes peut inclure les contributions d'agents étrangers, de découpes ou de procurations, des sociétés écrans, des groupes d'argent sombre, etc. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0015.md">T0015</a></td>
-<td>Create Hashtags and Search Artefacts</td>
-<td>Create one or more hashtags and/or hashtag groups. Many incident-based campaigns will create hashtags to promote their fabricated event. Creating a hashtag for an incident can have two important effects: 1. Create a perception of reality around an event. Certainly only "real" events would be discussed in a hashtag. After all, the event has a name!, and 2. Publicise the story more widely through trending lists and search behaviour. Asset needed to direct/control/manage "conversation" connected to launching new incident/campaign with new hashtag for applicable social media sites).</td>
-<td>TA06</td>
+<td> <a href="techniques/t0014.002.md"> T0014.002 </a> </td>
+<TD> collecter des fonds auprès d'agents ignorants </td><TD> La collecte de fonds d'agents ignorants peut inclure des escroqueries, des dons destinés à un objectif indiqué mais ensuite utilisé pour un autre, etc. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0016.md">T0016</a></td>
-<td>Create Clickbait</td>
-<td>Create attention grabbing headlines (outrage, doubt, humour) required to drive traffic & engagement. This is a key asset.</td>
-<td>TA05</td>
+<td> <a href="techniques/t0015.md"> t0015 </a> </td>
+<TD> Créer des hashtags et des artefacts de recherche </td>
+<TD> Créez un ou plusieurs hashtags et / ou des groupes de hashtag.De nombreuses campagnes basées sur les incidents créeront des hashtags pour promouvoir leur événement fabriqué.La création d'un hashtag pour un incident peut avoir deux effets importants: 1. Créez une perception de la réalité autour d'un événement.Certes, seuls les «vrais» événements seraient discutés dans un hashtag.Après tout, l'événement a un nom!, Et 2. Publier l'histoire plus largement par des listes de tendances et des comportements de recherche.Asset nécessaire pour diriger / contrôler / gérer la "conversation" liée au lancement de nouveaux incidents / campagne avec de nouveaux hashtag pour les sites de médias sociaux applicables). </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0017.md">T0017</a></td>
-<td>Conduct Fundraising</td>
-<td>Fundraising campaigns refer to an influence operation’s systematic effort to seek financial support for a charity, cause, or other enterprise using online activities that further promote operation information pathways while raising a profit. Many influence operations have engaged in crowdfunding services166 on platforms including Tipee, Patreon, and GoFundMe. An operation may use its previously prepared fundraising campaigns to promote operation messaging while raising money to support its activities.</td>
-<td>TA10</td>
+<td> <a href="techniques/t0016.md"> t0016 </a> </td>
+<TD> Créer Clickbait </td><TD> Créez les gros titres de l'attention (outrage, doute, humour) nécessaires pour générer du trafic et de l'engagement.Ceci est un atout clé. </td>
+<TD> TA05 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0017.001.md">T0017.001</a></td>
-<td>Conduct Crowdfunding Campaigns</td>
-<td>An influence operation may Conduct Crowdfunding Campaigns on platforms such as GoFundMe, GiveSendGo, Tipeee, Patreon, etc.</td>
-<td>TA10</td>
+<td> <a href="techniques/t0017.md"> t0017 </a> </td>
+<TD> Effectuer une collecte de fonds </td>
+Les campagnes de collecte de fonds <TD> se réfèrent à l'effort systématique d'une opération d'influence pour rechercher un soutien financier pour un organisme de bienfaisance, une cause ou une autre entreprise en utilisant des activités en ligne qui favorisent davantage les voies d'information de l'opération tout en augmentant les bénéfices.De nombreuses opérations d'influence se sont engagées dans des services de financement participatif166 sur des plateformes telles que Tipee, Patreon et GoFundMe.Une opération peut utiliser ses campagnes de collecte de fonds précédemment préparées pour promouvoir la messagerie des opérations tout en collectant des fonds pour soutenir ses activités. </td>
+<TD> TA10 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0018.md">T0018</a></td>
-<td>Purchase Targeted Advertisements</td>
-<td>Create or fund advertisements targeted at specific populations</td>
-<td>TA05</td>
+<td> <a href="techniques/t0017.001.md"> T0017.001 </a> </td>
+<TD> Effectuer des campagnes de financement participatif </td><TD> Une opération d'influence peut mener des campagnes de financement participatif sur des plates-formes telles que GoFundMe, GiveNendgo, Tipeee, Patreon, etc. </td>
+<TD> TA10 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0019.md">T0019</a></td>
-<td>Generate Information Pollution</td>
-<td>Flood social channels; drive traffic/engagement to all assets; create aura/sense/perception of pervasiveness/consensus (for or against or both simultaneously) of an issue or topic. "Nothing is true, but everything is possible." Akin to astroturfing campaign.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0018.md"> t0018 </a> </td>
+<TD> Acheter des publicités ciblées </td>
+<TD> Créer ou financer des publicités ciblées sur des populations spécifiques </td>
+<TD> TA05 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0019.001.md">T0019.001</a></td>
-<td>Create Fake Research</td>
-<td>Create fake academic research. Example: fake social science research is often aimed at hot-button social issues such as gender, race and sexuality. Fake science research can target Climate Science debate or pseudoscience like anti-vaxx</td>
-<td>TA06</td>
+<td> <a href="techniques/t0019.md"> T0019 </a> </td>
+<TD> Générer des informations Pollution </TD>
+<TD> Inondation des canaux sociaux;conduisez le trafic / l'engagement vers tous les actifs;Créez une aura / sens / perception de l'omniprésence / consensus (pour ou contre ou les deux simultanément) d'un problème ou d'un sujet."Rien n'est vrai, mais tout est possible."Campez à la campagne Astroturfing. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0019.002.md">T0019.002</a></td>
-<td>Hijack Hashtags</td>
-<td>Hashtag hijacking occurs when users “[use] a trending hashtag to promote topics that are substantially different from its recent context” (VanDam and Tan, 2016) or “to promote one’s own social media agenda” (Darius and Stephany, 2019).</td>
-<td>TA06</td>
+<td> <a href="techniques/t0019.001.md"> T0019.001 </a> </td>
+<TD> Créer de fausses recherches </td><TD> Créez de fausses recherches académiques.Exemple: La fausse recherche en sciences sociales vise souvent les questions sociales à boutons chauds tels que le genre, la race et la sexualité.Une fausse recherche scientifique peut cibler le débat en sciences climatiques ou une pseudoscience comme Anti-Vaxx </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0020.md">T0020</a></td>
-<td>Trial Content</td>
-<td>Iteratively test incident performance (messages, content etc), e.g. A/B test headline/content enagagement metrics; website and/or funding campaign conversion rates</td>
-<td>TA08</td>
+<td> <a href="techniques/t0019.002.md"> T0019.002 </a> </td>
+<TD> Hijack Hashtags </td>
+<TD> Le détournement de hashtag se produit lorsque les utilisateurs «[utilisent] un hashtag tendance pour promouvoir des sujets qui sont sensiblement différents de son contexte récent» (Vandam et Tan, 2016) ou «pour promouvoir son propre programme sur les réseaux sociaux» (Darius et Stephany, 2019). </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0022.md">T0022</a></td>
-<td>Leverage Conspiracy Theory Narratives</td>
-<td>"Conspiracy narratives" appeal to the human desire for explanatory order, by invoking the participation of poweful (often sinister) actors in pursuit of their own political goals. These narratives are especially appealing when an audience is low-information, marginalised or otherwise inclined to reject the prevailing explanation. Conspiracy narratives are an important component of the "firehose of falsehoods" model.</td>
-<td>TA14</td>
+<td> <a href="techniques/t0020.md"> t0020 </a> </td>
+<TD> Contenu d'essai </td>
+<TD> Testez itérativement les performances des incidents (messages, contenu, etc.), par ex.Métriques d'enagagement du test A / B / By;Taux de conversion de la campagne de site Web et / ou de financement </td>
+<TD> TA08 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0022.001.md">T0022.001</a></td>
-<td>Amplify Existing Conspiracy Theory Narratives</td>
-<td>An influence operation may amplify an existing conspiracy theory narrative that aligns with its incident or campaign goals. By amplifying existing conspiracy theory narratives, operators can leverage the power of the existing communities that support and propagate those theories without needing to expend resources creating new narratives or building momentum and buy in around new narratives.</td>
-<td>TA14</td>
+<td> <a href="techniques/t0022.md"> t0022 </a> </td>
+<TD> Tire les récits de la théorie du complot </td><TD> "Narratives de complot" fait appel au désir humain de l'ordre explicatif, en invoquant la participation d'acteurs puissants (souvent sinistres) à la poursuite de leurs propres objectifs politiques.Ces récits sont particulièrement attrayants lorsqu'un public est faible, marginalisé ou autrement enclin à rejeter l'explication dominante.Les récits de complot sont un élément important du modèle "Firehose of Finshoods". </td>
+<TD> TA14 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0022.002.md">T0022.002</a></td>
-<td>Develop Original Conspiracy Theory Narratives</td>
-<td>While this requires more resources than amplifying existing conspiracy theory narratives, an influence operation may develop original conspiracy theory narratives in order to achieve greater control and alignment over the narrative and their campaign goals. Prominent examples include the USSR's Operation INFEKTION disinformation campaign run by the KGB in the 1980s to plant the idea that the United States had invented HIV/AIDS as part of a biological weapons research project at Fort Detrick, Maryland. More recently, Fort Detrick featured prominently in a new conspiracy theory narratives around the origins of the COVID-19 outbreak and pandemic.</td>
-<td>TA14</td>
+<td> <a href="techniques/t0022.001.md"> T0022.001 </a> </td>
+<TD> Amplifiez les récits de théorie du complot existants </td>
+<TD> Une opération d'influence peut amplifier un récit de théorie du complot existant qui s'aligne sur ses objectifs d'incident ou de campagne.En amplifiant les récits existants de la théorie du complot, les opérateurs peuvent tirer parti du pouvoir des communautés existantes qui soutiennent et propagent ces théories sans avoir à dépenser des ressources en créant de nouveaux récits ou en créant une dynamique et en achetant de nouveaux récits. </td>
+<TD> TA14 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0023.md">T0023</a></td>
-<td>Distort Facts</td>
-<td>Change, twist, or exaggerate existing facts to construct a narrative that differs from reality. Examples: images and ideas can be distorted by being placed in an improper content</td>
-<td>TA06</td>
+<tr><td> <a href="techniques/t0022.002.md"> T0022.002 </a> </td>
+<TD> Développer les récits de théorie du complot original </td>
+<TD> Bien que cela nécessite plus de ressources que d'amplifier les récits existants de la théorie du complot, une opération d'influence peut développer des récits originaux de théorie du complot afin d'obtenir un plus grand contrôle et un alignement sur le récit et leurs objectifs de campagne.Les exemples importants incluent la campagne de désinformation de l'infektion de l'opération de l'URSS dirigée par le KGB dans les années 1980 pour planter l'idée que les États-Unis avaient inventé le VIH / sida dans le cadre d'un projet de recherche sur les armes biologiques à Fort Detrick, Maryland.Plus récemment, Fort Detrick a figuré en bonne place dans un nouveau récit de la théorie du complot sur les origines de l'épidémie Covid-19 et de la pandémie </td>
+<TD> TA14 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0023.001.md">T0023.001</a></td>
-<td>Reframe Context</td>
-<td>Reframing context refers to removing an event from its surrounding context to distort its intended meaning. Rather than deny that an event occurred, reframing context frames an event in a manner that may lead the target audience to draw a different conclusion about its intentions.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0023.md"> t0023 </a> </td>
+<TD> Distorter les faits </td><TD> Changez, tournez ou exagérez des faits existants pour construire un récit qui diffère de la réalité.Exemples: Les images et les idées peuvent être déformées en étant placées dans un contenu inapproprié </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0023.002.md">T0023.002</a></td>
-<td>Edit Open-Source Content</td>
-<td>An influence operation may edit open-source content, such as collaborative blogs or encyclopaedias, to promote its narratives on outlets with existing credibility and audiences. Editing open-source content may allow an operation to post content on platforms without dedicating resources to the creation and maintenance of its own assets.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0023.001.md"> t0023.001 </a> </td>
+<TD> Reframe le contexte </td>
+<TD> Le contexte de recadrage fait référence à la suppression d'un événement de son contexte environnant pour déformer sa signification prévue.Plutôt que de nier qu'un événement s'est produit, le recadrage du contexte encadre un événement d'une manière qui pourrait conduire le public cible à tirer une conclusion différente sur ses intentions. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0029.md">T0029</a></td>
-<td>Online Polls</td>
-<td>Create fake online polls, or manipulate existing online polls. Data gathering tactic to target those who engage, and potentially their networks of friends/followers as well</td>
-<td>TA07</td>
+<td> <a href="techniques/t0023.002.md"> t0023.002 </a> </td>
+<TD> Modifier le contenu open-source </td><TD> Une opération d'influence peut éditer du contenu open-source, telles que des blogs collaboratifs ou des encyclopédies, pour promouvoir ses récits sur les points de vente avec la crédibilité et le public existants.L'édition du contenu open source peut permettre à une opération de publier du contenu sur des plateformes sans dédire des ressources à la création et à la maintenance de ses propres actifs. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0039.md">T0039</a></td>
-<td>Bait Legitimate Influencers</td>
-<td>Credibility in a social media environment is often a function of the size of a user's network. "Influencers" are so-called because of their reach, typically understood as: 1) the size of their network (i.e. the number of followers, perhaps weighted by their own influence); and 2) The rate at which their comments are re-circulated (these two metrics are related). Add traditional media players at all levels of credibility and professionalism to this, and the number of potential influencial carriers available for unwitting amplification becomes substantial. By targeting high-influence people and organisations in all types of media with narratives and content engineered to appeal their emotional or ideological drivers, influence campaigns are able to add perceived credibility to their messaging via saturation and adoption by trusted agents such as celebrities, journalists and local leaders.</td>
-<td>TA08</td>
+<td> <a href="techniques/t0029.md"> T0029 </a> </td>
+<TD> Sondages en ligne </td>
+<TD> Créez de faux sondages en ligne ou manipulez les sondages en ligne existants.Tactique de collecte de données pour cibler ceux qui s'engagent, et potentiellement leurs réseaux d'amis / abonnés également </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0040.md">T0040</a></td>
-<td>Demand Insurmountable Proof</td>
-<td>Campaigns often leverage tactical and informational asymmetries on the threat surface, as seen in the Distort and Deny strategies, and the "firehose of misinformation". Specifically, conspiracy theorists can be repeatedly wrong, but advocates of the truth need to be perfect. By constantly escalating demands for proof, propagandists can effectively leverage this asymmetry while also priming its future use, often with an even greater asymmetric advantage. The conspiracist is offered freer rein for a broader range of "questions" while the truth teller is burdened with higher and higher standards of proof.</td>
-<td>TA14</td>
+<td> <a href="techniques/t0039.md"> t0039 </a> </td>
+<TD> Bait Influenceurs légitimes </td><TD> La crédibilité dans un environnement de médias sociaux est souvent fonction de la taille du réseau d'un utilisateur.Les «influenceurs» sont soi-disant en raison de leur portée, généralement comprises comme suit: 1) la taille de leur réseau (c'est-à-dire le nombre d'adeptes, peut-être pondérés par leur propre influence);et 2) le taux auquel leurs commentaires sont re-circulés (ces deux mesures sont liées).Ajoutez les acteurs des médias traditionnels à tous les niveaux de crédibilité et de professionnalisme à cela, et le nombre de transporteurs d'influence potentiels disponibles pour une amplification involontaire devient substantiel.En ciblant les personnes et les organisations à haute influence dans tous les types de médias avec des récits et du contenu conçus pour faire appel à leurs moteurs émotionnels ou idéologiques, les campagnes d'influence sont en mesure d'ajouter de la crédibilité perçue à leur messagerie par saturation et l'adoption par des agents de confiance tels que des célébrités, des journalistes etchefs locaux. </td>
+<TD> TA08 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0042.md">T0042</a></td>
-<td>Seed Kernel of Truth</td>
-<td>Wrap lies or altered context/facts around truths. Influence campaigns pursue a variety of objectives with respect to target audiences, prominent among them: 1. undermine a narrative commonly referenced in the target audience; or 2. promote a narrative less common in the target audience, but preferred by the attacker. In both cases, the attacker is presented with a heavy lift. They must change the relative importance of various narratives in the interpretation of events, despite contrary tendencies. When messaging makes use of factual reporting to promote these adjustments in the narrative space, they are less likely to be dismissed out of hand; when messaging can juxtapose a (factual) truth about current affairs with the (abstract) truth explicated in these narratives, propagandists can undermine or promote them selectively. Context matters.</td>
-<td>TA08</td>
+<td> <a href="techniques/t0040.md"> t0040 </a> </td><TD> exiger une preuve insurmontable </td>
+<TD> Les campagnes exploitent souvent les asymétries tactiques et informationnelles sur la surface de la menace, comme on le voit dans les stratégies de distorsion et de refus, et le "tuyau de feu de la désinformation".Plus précisément, les théoriciens du complot peuvent se tromper à plusieurs reprises, mais les défenseurs de la vérité doivent être parfaits.En augmentant constamment les demandes de preuve, les propagandistes peuvent exploiter efficacement cette asymétrie tout en amorçant son utilisation future, souvent avec un avantage asymétrique encore plus élevé.Le conspiraciste se voit offrir plus de référence pour un éventail plus large de "questions" tandis que le conteur de vérité est accablé par des normes de preuve de plus en plus élevées. </td>
+<TD> TA14 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0043.md">T0043</a></td>
-<td>Chat Apps</td>
-<td>Direct messaging via chat app is an increasing method of delivery. These messages are often automated and new delivery and storage methods make them anonymous, viral, and ephemeral. This is a difficult space to monitor, but also a difficult space to build acclaim or notoriety.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0042.md"> t0042 </a> </td>
+<TD> Noyau de graines de vérité </td><TD> Envelopper des mensonges ou un contexte / des faits modifiés autour des vérités.Les campagnes d'influence poursuivent une variété d'objectifs en ce qui concerne le public cible, de plus en plus: 1. Présenter un récit communément référencé dans le public cible;ou 2. Promouvoir un récit moins courant dans le public cible, mais préféré par l'attaquant.Dans les deux cas, l'attaquant est présenté avec un lourdeur.Ils doivent changer l'importance relative de divers récits dans l'interprétation des événements, malgré les tendances contraires.Lorsque la messagerie utilise des rapports factuels pour promouvoir ces ajustements dans l'espace narratif, ils sont moins susceptibles d'être rejetés d'emblée;Lorsque la messagerie peut juxtaposer une vérité (factuelle) sur les affaires courantes avec la vérité (abstraite) expliquée dans ces récits, les propagandistes peuvent les saper ou les promouvoir sélectivement.Le contexte compte. </td>
+<TD> TA08 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0043.001.md">T0043.001</a></td>
-<td>Use Encrypted Chat Apps</td>
-<td>Examples include Signal, WhatsApp, Discord, Wire, etc.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0043.md"> t0043 </a> </td>
+<TD> Applications de chat </td><TD> La messagerie directe via l'application Chat est une méthode de livraison croissante.Ces messages sont souvent automatisés et les nouvelles méthodes de livraison et de stockage les rendent anonymes, viraux et éphémères.C'est un espace difficile à surveiller, mais aussi un espace difficile pour renforcer les acclamés ou la notoriété. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0043.002.md">T0043.002</a></td>
-<td>Use Unencrypted Chats Apps</td>
-<td>Examples include SMS, etc.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0043.001.md"> T0043.001 </a> </td>
+<TD> Utilisez des applications de chat cryptées </td>
+<TD> Les exemples incluent le signal, WhatsApp, Discord, Wire, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0044.md">T0044</a></td>
-<td>Seed Distortions</td>
-<td>Try a wide variety of messages in the early hours surrounding an incident or event, to give a misleading account or impression.</td>
-<td>TA08</td>
+<td> <a href="techniques/t0043.002.md"> T0043.002 </a> </td>
+<TD> Utilisez des applications de chat non cryptées </td>
+<TD> Les exemples incluent SMS, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0045.md">T0045</a></td>
-<td>Use Fake Experts</td>
-<td>Use the fake experts that were set up during Establish Legitimacy. Pseudo-experts are disposable assets that often appear once and then disappear. Give "credility" to misinformation. Take advantage of credential bias</td>
-<td>TA08</td>
+<td> <a href="techniques/t0044.md"> t0044 </a> </td>
+<TD> Distortions de graines </td>
+<TD> Essayez une grande variété de messages dans les premières heures entourant un incident ou un événement, pour donner un compte ou une impression trompeur. </td>
+<TD> TA08 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0046.md">T0046</a></td>
-<td>Use Search Engine Optimisation</td>
-<td>Manipulate content engagement metrics (ie: Reddit & Twitter) to influence/impact news search results (e.g. Google), also elevates RT & Sputnik headline into Google news alert emails. aka "Black-hat SEO"</td>
-<td>TA08</td>
+<td> <a href="techniques/t0045.md"> t0045 </a> </td>
+<TD> Utilisez de faux experts </td><TD> Utilisez les faux experts qui ont été créés lors de la légitimité établie.Les pseudo-experts sont des actifs jetables qui apparaissent souvent une fois puis disparaissent.Donnez une «crédilité» à la désinformation.Profitez du biais des informations d'identification </td>
+<TD> TA08 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0047.md">T0047</a></td>
-<td>Censor Social Media as a Political Force</td>
-<td>Use political influence or the power of state to stop critical social media comments. Government requested/driven content take downs (see Google Transperancy reports).</td>
-<td>TA18</td>
+<td> <a href="techniques/t0046.md"> t0046 </a> </td>
+<TD> Utilisez l'optimisation des moteurs de recherche </td>
+<TD> Manipuler les mesures d'engagement de contenu (c.-à-d. Reddit & Twitter) pour influencer / impact les résultats de recherche d'actualités (par exemple Google), élève également le titre RT & Sputnik dans les e-mails d'alerte Google News.AKA "SEO-HAT BLACK" </td>
+<TD> TA08 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0048.md">T0048</a></td>
-<td>Harass</td>
-<td>Threatening or harassing believers of opposing narratives refers to the use of intimidation techniques, including cyberbullying and doxing, to discourage opponents from voicing their dissent. An influence operation may threaten or harass believers of the opposing narratives to deter individuals from posting or proliferating conflicting content.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0047.md"> t0047 </a> </td>
+<TD> Les médias sociaux de censure comme force politique </td>
+<TD> Utiliser l'influence politique ou le pouvoir de l'État pour arrêter les commentaires critiques sur les réseaux sociaux.Les contenus demandés / motivés par le gouvernement (voir Google Transperancy Reports). </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0048.001.md">T0048.001</a></td>
-<td>Boycott/"Cancel" Opponents</td>
-<td>Cancel culture refers to the phenomenon in which individuals collectively refrain from supporting an individual, organisation, business, or other entity, usually following a real or falsified controversy. An influence operation may exploit cancel culture by emphasising an adversary’s problematic or disputed behaviour and presenting its own content as an alternative.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0048.md"> t0048 </a> </td>
+<TD> harceler </td><TD> menaçant ou harcelant les croyants des récits opposés fait référence à l'utilisation de techniques d'intimidation, y compris la cyberintimidation et le doxage, pour décourager les adversaires d'exprimer leur dissidence.Une opération d'influence peut menacer ou harceler les croyants des récits opposés pour dissuader les individus de publier ou de proliférer un contenu conflictuel. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0048.002.md">T0048.002</a></td>
-<td>Harass People Based on Identities</td>
-<td>Examples include social identities like gender, sexuality, race, ethnicity, religion, ability, nationality, etc. as well as roles and occupations like journalist or activist.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0048.001.md"> t0048.001 </a> </td>
+<TD> Boycott / "Annuler" adversaires </td>
+<TD> Annuler La culture fait référence au phénomène dans lequel les individus s'abstiennent collectivement de soutenir un individu, une organisation, une entreprise ou une autre entité, suivant généralement une controverse réelle ou falsifiée.Une opération d'influence peut exploiter l'annulation de la culture en mettant l'accent sur le comportement problématique ou contesté d'un adversaire et en présentant son propre contenu comme une alternative. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0048.003.md">T0048.003</a></td>
-<td>Threaten to Dox</td>
-<td>Doxing refers to online harassment in which individuals publicly release private information about another individual, including names, addresses, employment information, pictures, family members, and other sensitive information. An influence operation may dox its opposition to encourage individuals aligned with operation narratives to harass the doxed individuals themselves or otherwise discourage the doxed individuals from posting or proliferating conflicting content.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0048.002.md"> t0048.002 </a> </td>
+<TD> harceler les personnes en fonction des identités </td><TD> Les exemples incluent des identités sociales comme le sexe, la sexualité, la race, l'ethnicité, la religion, la capacité, la nationalité, etc. ainsi que les rôles et les professions comme le journaliste ou le militant. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0048.004.md">T0048.004</a></td>
-<td>Dox</td>
-<td>Doxing refers to online harassment in which individuals publicly release private information about another individual, including names, addresses, employment information, pictures, family members, and other sensitive information. An influence operation may dox its opposition to encourage individuals aligned with operation narratives to harass the doxed individuals themselves or otherwise discourage the doxed individuals from posting or proliferating conflicting content.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0048.003.md"> t0048.003 </a> </td>
+<td> menacer de dox </td>
+<TD> Doxing fait référence au harcèlement en ligne dans lequel les individus divulguent publiquement des informations privées sur une autre personne, y compris les noms, les adresses, les informations sur l'emploi, les images, les membres de la famille et d'autres informations sensibles.Une opération d'influence peut faire de son opposition pour encourager les individus alignés sur les récits d'opération pour harceler les individus doxés eux-mêmes ou décourager les individus doxés de publier ou de proliférer un contenu contradictoire. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0049.md">T0049</a></td>
-<td>Flooding the Information Space</td>
-<td>Flooding and/or mobbing social media channels feeds and/or hashtag with excessive volume of content to control/shape online conversations and/or drown out opposing points of view. Bots and/or patriotic trolls are effective tools to acheive this effect.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0048.004.md"> t0048.004 </a> </td>
+<td> dox </td><TD> Doxing fait référence au harcèlement en ligne dans lequel les individus divulguent publiquement des informations privées sur une autre personne, y compris les noms, les adresses, les informations sur l'emploi, les images, les membres de la famille et d'autres informations sensibles.Une opération d'influence peut faire de son opposition pour encourager les individus alignés sur les récits d'opération pour harceler les individus doxés eux-mêmes ou décourager les individus doxés de publier ou de proliférer un contenu contradictoire. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0049.001.md">T0049.001</a></td>
-<td>Trolls Amplify and Manipulate</td>
-<td>Use trolls to amplify narratives and/or manipulate narratives. Fake profiles/sockpuppets operating to support individuals/narratives from the entire political spectrum (left/right binary). Operating with increased emphasis on promoting local content and promoting real Twitter users generating their own, often divisive political content, as it's easier to amplify existing content than create new/original content. Trolls operate where ever there's a socially divisive issue (issues that can/are be politicized).</td>
-<td>TA17</td>
+<td> <a href="techniques/t0049.md"> t0049 </a> </td>
+<TD> inonder l'espace d'information </td>
+<TD> Les inondations et / ou les canaux de médias sociaux mobilisants alimentent et / ou hashtag avec un volume excessif de contenu pour contrôler / façonner les conversations en ligne et / ou noyer les points de vue opposés.Les robots et / ou les trolls patriotiques sont des outils efficaces pour atteindre cet effet. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0049.002.md">T0049.002</a></td>
-<td>Hijack Existing Hashtag</td>
-<td>Take over an existing hashtag to drive exposure.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0049.001.md"> t0049.001 </a> </td>
+<TD> Les trolls amplifient et manipulent </td><TD> Utilisez des trolls pour amplifier les récits et / ou manipuler les récits.De faux profils / sockpuppets opérant pour soutenir les individus / récits de l'ensemble du spectre politique (binaire gauche / droit).Opérant avec une importance accrue sur la promotion du contenu local et la promotion de vrais utilisateurs de Twitter générant leur propre contenu politique, souvent diviseur, car il est plus facile d'amplifier le contenu existant que de créer un contenu nouveau / original.Les trolls fonctionnent partout où il y a un problème socialement divisant (les problèmes qui peuvent / être politisés). </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0049.003.md">T0049.003</a></td>
-<td>Bots Amplify via Automated Forwarding and Reposting</td>
-<td>Automated forwarding and reposting refer to the proliferation of operation content using automated means, such as artificial intelligence or social media bots. An influence operation may use automated activity to increase content exposure without dedicating the resources, including personnel and time, traditionally required to forward and repost content. Use bots to amplify narratives above algorithm thresholds. Bots are automated/programmed profiles designed to amplify content (ie: automatically retweet or like) and give appearance it's more "popular" than it is. They can operate as a network, to function in a coordinated/orchestrated manner. In some cases (more so now) they are an inexpensive/disposable assets used for minimal deployment as bot detection tools improve and platforms are more responsive.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0049.002.md"> t0049.002 </a> </td>
+<TD> Hijack Hashtag existant </td>
+<TD> reprendre un hashtag existant pour entraîner l'exposition. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0049.004.md">T0049.004</a></td>
-<td>Utilise Spamoflauge</td>
-<td>Spamoflauge refers to the practice of disguising spam messages as legitimate. Spam refers to the use of electronic messaging systems to send out unrequested or unwanted messages in bulk. Simple methods of spamoflauge include replacing letters with numbers to fool keyword-based email spam filters, for example, "you've w0n our jackp0t!". Spamoflauge may extend to more complex techniques such as modifying the grammar or word choice of the language, casting messages as images which spam detectors cannot automatically read, or encapsulating messages in password protected attachments, such as .pdf or .zip files. Influence operations may use spamoflauge to avoid spam filtering systems and increase the likelihood of the target audience receiving operation messaging.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0049.003.md"> t0049.003 </a> </td>
+<TD> Les bots amplifient via le transfert automatisé et le republication </td><TD> Le transfert et le republication automatisés se réfèrent à la prolifération du contenu de l'opération à l'aide de moyens automatisés, tels que l'intelligence artificielle ou les robots de médias sociaux.Une opération d'influence peut utiliser une activité automatisée pour augmenter l'exposition au contenu sans consacrer les ressources, y compris le personnel et le temps, traditionnellement requise pour transmettre et republier le contenu.Utilisez des bots pour amplifier les récits au-dessus des seuils d'algorithme.Les robots sont des profils automatisés / programmés conçus pour amplifier le contenu (c'est-à-dire: retweeter automatiquement ou aimer) et donner l'apparence qu'il est plus "populaire" qu'il ne l'est.Ils peuvent fonctionner comme un réseau, pour fonctionner de manière coordonnée / orchestrée.Dans certains cas (plus maintenant), ils sont des actifs peu coûteux / jetables utilisés pour un déploiement minimal à mesure que les outils de détection de bots s'améliorent et que les plates-formes sont plus réactives. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0049.005.md">T0049.005</a></td>
-<td>Conduct Swarming</td>
-<td>Swarming refers to the coordinated use of accounts to overwhelm the information space with operation content. Unlike information flooding, swarming centres exclusively around a specific event or actor rather than a general narrative. Swarming relies on “horizontal communication” between information assets rather than a top-down, vertical command-and-control approach.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0049.004.md"> T0049.004 </a> </td>
+<TD> Utiliser Spamoflauge </td><TD> Spamoflauge fait référence à la pratique du déguisement des messages de spam comme légitimes.Le spam fait référence à l'utilisation de systèmes de messagerie électronique pour envoyer des messages non proposés ou indésirables en vrac.Les méthodes simples de Spamoflauge incluent le remplacement des lettres par des chiffres pour tromper les filtres de spam par e-mail basés sur les mots clés, par exemple, "Vous avez w0n notre jackp0t!".Spamoflauge peut s'étendre à des techniques plus complexes telles que la modification de la grammaire ou du choix de mots de la langue, en jetant des messages comme des images que les détecteurs de spam ne peuvent pas lire automatiquement ou encapsulant des messages dans des pièces jointes protégées par mot de passe, telles que les fichiers .pdf ou .zip.Les opérations d'influence peuvent utiliser le spamoflauge pour éviter les systèmes de filtrage des spams et augmenter la probabilité que le public cible reçoive la messagerie d'opération. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0049.006.md">T0049.006</a></td>
-<td>Conduct Keyword Squatting</td>
-<td>Keyword squatting refers to the creation of online content, such as websites, articles, or social media accounts, around a specific search engine-optimized term to overwhelm the search results of that term. An influence may keyword squat to increase content exposure to target audience members who query the exploited term in a search engine and manipulate the narrative around the term.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0049.005.md"> T0049.005 </a> </td>
+<TD> Effectuer un essaimage </td><TD> L'essaimage fait référence à l'utilisation coordonnée des comptes pour submerger l'espace d'information avec le contenu de l'opération.Contrairement aux informations sur l'information, les centres d'essaimage sont exclusivement autour d'un événement ou d'un acteur spécifique plutôt qu'un récit général.L'essaimage repose sur la «communication horizontale» entre les actifs d'information plutôt que sur une approche de commande et de contrôle verticale descendante. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0049.007.md">T0049.007</a></td>
-<td>Inauthentic Sites Amplify News and Narratives</td>
-<td>Inauthentic sites circulate cross-post stories and amplify narratives. Often these sites have no masthead, bylines or attribution.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0049.006.md"> t0049.006 </a> </td>
+<TD> Conduisez le mot-clé Squat </td>
+<TD> Les mots clés s'accélèrent référence à la création de contenu en ligne, tels que des sites Web, des articles ou des comptes de médias sociaux, autour d'un terme optimisé par les moteurs de recherche spécifique pour submerger les résultats de recherche de ce terme.Une influence peut s'accroupir des mots clés pour augmenter l'exposition au contenu aux membres du public cibles qui interrogent le terme exploité dans un moteur de recherche et manipuler le récit autour du terme. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0057.md">T0057</a></td>
-<td>Organise Events</td>
-<td>Coordinate and promote real-world events across media platforms, e.g. rallies, protests, gatherings in support of incident narratives.</td>
-<td>TA10</td>
+<td> <a href="techniques/t0049.007.md"> T0049.007 </a> </td><TD> Les sites inauthentiques amplifient les nouvelles et les récits </td>
+<TD> Les sites inauthentiques font circuler des histoires croisées et amplifier les récits.Souvent, ces sites n'ont pas de tête de mât, de règlements ou d'attribution. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0057.001.md">T0057.001</a></td>
-<td>Pay for Physical Action</td>
-<td>Paying for physical action occurs when an influence operation pays individuals to act in the physical realm. An influence operation may pay for physical action to create specific situations and frame them in a way that supports operation narratives, for example, paying a group of people to burn a car to later post an image of the burning car and frame it as an act of protest.</td>
-<td>TA10</td>
+<td> <a href="techniques/t0057.md"> t0057 </a> </td>
+<TD> Organiser les événements </td>
+<TD> coordonner et promouvoir les événements du monde réel sur les plates-formes médiatiques, par ex.Rallies, manifestations, rassemblements à l'appui des récits d'incident. </td>
+<TD> TA10 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0057.002.md">T0057.002</a></td>
-<td>Conduct Symbolic Action</td>
-<td>Symbolic action refers to activities specifically intended to advance an operation’s narrative by signalling something to the audience, for example, a military parade supporting a state’s narrative of military superiority. An influence operation may use symbolic action to create falsified evidence supporting operation narratives in the physical information space.</td>
-<td>TA10</td>
+<td> <a href="techniques/t0057.001.md"> T0057.001 </a> </td>
+<TD> Payer pour l'action physique </td>
+<TD> Le paiement de l'action physique se produit lorsqu'une opération d'influence verse aux individus pour agir dans le domaine physique.Une opération d'influence peut payer une action physique pour créer des situations spécifiques et les encadrer d'une manière qui soutient les récits d'opération, par exemple, le paiement d'un groupe de personnes pour brûler une voiture pour publier plus tard une image de la voiture en feu et la traduire comme un actede protestation. </td>
+<TD> TA10 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0059.md">T0059</a></td>
-<td>Play the Long Game</td>
-<td>Play the long game refers to two phenomena: 1. To plan messaging and allow it to grow organically without conducting your own amplification. This is methodical and slow and requires years for the message to take hold 2. To develop a series of seemingly disconnected messaging narratives that eventually combine into a new narrative.</td>
-<td>TA11</td>
+<tr><td> <a href="techniques/t0057.002.md"> T0057.002 </a> </td>
+<TD> mener une action symbolique </td>
+<TD> L'action symbolique fait référence aux activités spécifiquement destinées à faire avancer le récit d'une opération en signalant quelque chose au public, par exemple, un défilé militaire soutenant le récit de la supériorité militaire d'un État.Une opération d'influence peut utiliser une action symbolique pour créer des preuves falsifiées soutenant les récits d'opération dans l'espace d'information physique. </td>
+<TD> TA10 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0060.md">T0060</a></td>
-<td>Continue to Amplify</td>
-<td>continue narrative or message amplification after the main incident work has finished</td>
-<td>TA11</td>
+<td> <a href="techniques/t0059.md"> t0059 </a> </td>
+<TD> Jouez le long jeu </td>
+<TD> Play Le jeu long fait référence à deux phénomènes: 1. Planifier la messagerie et lui permettre de se développer organiquement sans effectuer votre propre amplification.Ceci est méthodique et lent et nécessite des années pour que le message s'installe 2. pour développer une série de récits de messagerie apparemment déconnectés qui se combinent finalement en un nouveau récit. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0061.md">T0061</a></td>
-<td>Sell Merchandise</td>
-<td>Sell mechandise refers to getting the message or narrative into physical space in the offline world while making money</td>
-<td>TA10</td>
+<td> <a href="techniques/t0060.md"> t0060 </a> </td><TD> Continuez à amplifier </td>
+<TD> Continuer le récit ou l'amplification des messages après la fin des travaux d'incident principal </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0065.md">T0065</a></td>
-<td>Prepare Physical Broadcast Capabilities</td>
-<td>Create or coopt broadcast capabilities (e.g. TV, radio etc).</td>
-<td>TA15</td>
+<td> <a href="techniques/t0061.md"> t0061 </a> </td>
+<TD> Vendre des marchandises </td>
+<TD> Sell Mecandise fait référence à la mise en place du message ou du récit dans l'espace physique dans le monde hors ligne tout en gagnant de l'argent </td>
+<TD> TA10 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0066.md">T0066</a></td>
-<td>Degrade Adversary</td>
-<td>Plan to degrade an adversary’s image or ability to act. This could include preparation and use of harmful information about the adversary’s actions or reputation.</td>
-<td>TA02</td>
+<td> <a href="techniques/t0065.md"> t0065 </a> </td>
+<TD> Préparer les capacités de diffusion physique </td>
+<TD> Créer ou coopt Capacités de diffusion (par exemple TV, radio, etc.). </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0068.md">T0068</a></td>
-<td>Respond to Breaking News Event or Active Crisis</td>
-<td>Media attention on a story or event is heightened during a breaking news event, where unclear facts and incomplete information increase speculation, rumours, and conspiracy theories, which are all vulnerable to manipulation.</td>
-<td>TA14</td>
+<td> <a href="techniques/t0066.md"> t0066 </a> </td>
+<TD> Dégrader l'adversaire </td>
+<TD> Prévoyez de dégrader l'image ou la capacité d'un adversaire à agir.Cela pourrait inclure la préparation et l'utilisation d'informations nocives sur les actions ou la réputation de l'adversaire. </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0072.md">T0072</a></td>
-<td>Segment Audiences</td>
-<td>Create audience segmentations by features of interest to the influence campaign, including political affiliation, geographic location, income, demographics, and psychographics.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0068.md"> t0068 </a> </td>
+<TD> Répondez à l'événement de nouvelles ou en crise active </td><TD> L'attention des médias sur une histoire ou un événement est renforcée lors d'un événement de nouvelles, où des faits peu clairs et des informations incomplètes augmentent la spéculation, les rumeurs et les théories du complot, qui sont toutes vulnérables à la manipulation. </td>
+<TD> TA14 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0072.001.md">T0072.001</a></td>
-<td>Geographic Segmentation</td>
-<td>An influence operation may target populations in a specific geographic location, such as a region, state, or city. An influence operation may use geographic segmentation to Create Localised Content (see: Establish Legitimacy).</td>
-<td>TA13</td>
+<td> <a href="techniques/t0072.md"> t0072 </a> </td>
+<TD> Le public du segment </td>
+<TD> Créer des segmentations d'audience par des caractéristiques d'intérêt pour la campagne d'influence, notamment l'affiliation politique, la localisation géographique, le revenu, la démographie et la psychographie. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0072.002.md">T0072.002</a></td>
-<td>Demographic Segmentation</td>
-<td>An influence operation may target populations based on demographic segmentation, including age, gender, and income. Demographic segmentation may be useful for influence operations aiming to change state policies that affect a specific population sector. For example, an influence operation attempting to influence Medicare funding in the United States would likely target U.S. voters over 65 years of age.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0072.001.md"> t0072.001 </a> </td>
+<TD> Segmentation géographique </td>
+<TD> Une opération d'influence peut cibler les populations dans un emplacement géographique spécifique, comme une région, un état ou une ville.Une opération d'influence peut utiliser la segmentation géographique pour créer un contenu localisé (voir: établir la légitimité). </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0072.003.md">T0072.003</a></td>
-<td>Economic Segmentation</td>
-<td>An influence operation may target populations based on their income bracket, wealth, or other financial or economic division.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0072.002.md"> T0072.002 </a> </td>
+<TD> Segmentation démographique </td><TD> Une opération d'influence peut cibler les populations en fonction de la segmentation démographique, notamment l'âge, le sexe et le revenu.La segmentation démographique peut être utile pour l'influence des opérations visant à modifier les politiques de l'État qui affectent un secteur de la population spécifique.Par exemple, une opération d'influence qui tente d'influencer le financement de Medicare aux États-Unis ciblerait probablement les électeurs américains de plus de 65 ans. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0072.004.md">T0072.004</a></td>
-<td>Psychographic Segmentation</td>
-<td>An influence operation may target populations based on psychographic segmentation, which uses audience values and decision-making processes. An operation may individually gather psychographic data with its own surveys or collection tools or externally purchase data from social media companies or online surveys, such as personality quizzes.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0072.003.md"> T0072.003 </a> </td>
+<TD> Segmentation économique </td>
+<TD> Une opération d'influence peut cibler les populations en fonction de leur tranche de revenus, de sa richesse ou d'une autre division financière ou économique. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0072.005.md">T0072.005</a></td>
-<td>Political Segmentation</td>
-<td>An influence operation may target populations based on their political affiliations, especially when aiming to manipulate voting or change policy.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0072.004.md"> T0072.004 </a> </td>
+<TD> Segmentation psychographique </td><TD> Une opération d'influence peut cibler les populations basées sur la segmentation psychographique, qui utilise les valeurs d'audience et les processus décisionnels.Une opération peut recueillir individuellement des données psychographiques avec ses propres enquêtes ou outils de collecte ou acheter des données à l'extérieur auprès de sociétés de médias sociaux ou d'enquêtes en ligne, telles que les quiz de personnalité </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0073.md">T0073</a></td>
-<td>Determine Target Audiences</td>
-<td>Determining the target audiences (segments of the population) who will receive campaign narratives and artefacts intended to achieve the strategic ends.</td>
-<td>TA01</td>
+<td> <a href="techniques/t0072.005.md"> T0072.005 </a> </td>
+<TD> Segmentation politique </td>
+<TD> Une opération d'influence peut cibler les populations en fonction de leurs affiliations politiques, en particulier lorsqu'ils visaient à manipuler la politique de vote ou de changement. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0074.md">T0074</a></td>
-<td>Determine Strategic Ends</td>
-<td>These are the long-term end-states the campaign aims to bring about. They typically involve an advantageous position vis-a-vis competitors in terms of power or influence.  The strategic goal may be to improve or simply to hold one’s position. Competition occurs in the public sphere in the domains of war, diplomacy, politics, economics, and ideology, and can play out between armed groups, nation-states, political parties, corporations, interest groups, or individuals. </td>
-<td>TA01</td>
+<td> <a href="techniques/t0073.md"> T0073 </a> </td>
+<TD> Déterminer les publics cibles </td>
+<TD> Déterminer les publics cibles (segments de la population) qui recevront des récits de campagne et des artefacts destinés à atteindre les fins stratégiques. </td>
+<TD> TA01 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0074.001.md">T0074.001</a></td>
-<td>Geopolitical Advantage</td>
-<td>Favourable position on the international stage in terms of great power politics or regional rivalry. Geopolitics plays out in the realms of foreign policy, national security, diplomacy, and intelligence. It involves nation-state governments, heads of state, foreign ministers, intergovernmental organisations, and regional security alliances.</td>
-<td>TA01</td>
+<td> <a href="techniques/t0074.md"> t0074 </a> </td><TD> Déterminer les extrémités stratégiques </td>
+<TD> Ce sont les états finaux à long terme que la campagne vise à provoquer.Ils impliquent généralement une position avantageuse vis-à-vis des concurrents en termes de pouvoir ou d'influence.L’objectif stratégique peut être d’améliorer ou simplement de tenir sa position.La concurrence se produit dans la sphère publique dans les domaines de la guerre, de la diplomatie, de la politique, de l'économie et de l'idéologie, et peut jouer entre des groupes armés, des États-nations, des partis politiques, des sociétés, des groupes d'intérêt ou des individus.</td>
+<TD> TA01 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0074.002.md">T0074.002</a></td>
-<td>Domestic Political Advantage</td>
-<td>Favourable position vis-à-vis national or sub-national political opponents such as political parties, interest groups, politicians, candidates.  </td>
-<td>TA01</td>
-</tr>
+<td> <a href="techniques/t0074.001.md"> t0074.001 </a> </td>
+<TD> Avantage géopolitique </td>
+<TD> Position favorable sur la scène internationale en termes de grande politique de puissance ou de rivalité régionale.La géopolitique se déroule dans les domaines de la politique étrangère, de la sécurité nationale, de la diplomatie et des renseignements.Elle implique des gouvernements de l'État-nation, des chefs d'État, des ministres des Affaires étrangères, des organisations intergouvernementales et des alliances de sécurité régionales. </td>
+<TD> TA01 </TD></tr>
 <tr>
-<td><a href="techniques/T0074.003.md">T0074.003</a></td>
-<td>Economic Advantage</td>
-<td>Favourable position domestically or internationally in the realms of commerce, trade, finance, industry. Economics involves nation-states, corporations, banks, trade blocs, industry associations, cartels.  </td>
-<td>TA01</td>
+<td> <a href="techniques/t0074.002.md"> T0074.002 </a> </td>
+<TD> Avantage politique intérieur </td>
+<TD> Position favorable vis-à-vis des opposants politiques nationaux ou infranationaux tels que les partis politiques, les groupes d'intérêt, les politiciens, les candidats.</td>
+<TD> TA01 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0074.004.md">T0074.004</a></td>
-<td>Ideological Advantage</td>
-<td>Favourable position domestically or internationally in the market for ideas, beliefs, and world views. Competition plays out among faith systems, political systems, and value systems. It can involve sub-national, national or supra-national movements.    </td>
-<td>TA01</td>
+<td> <a href="techniques/t0074.003.md"> t0074.003 </a> </td>
+<TD> Avantage économique </td>
+<TD> Position favorable au niveau national ou international dans les domaines du commerce, du commerce, de la finance, de l'industrie.L'économie implique les États-nations, les sociétés, les banques, les blocs commerciaux, les associations industrielles, les cartels.</td>
+<TD> TA01 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0075.md">T0075</a></td>
-<td>Dismiss</td>
-<td>Push back against criticism by dismissing your critics. This might be arguing that the critics use a different standard for you than with other actors or themselves; or arguing that their criticism is biassed.</td>
-<td>TA02</td>
+<td> <a href="techniques/t0074.004.md"> T0074.004 </a> </td>
+<TD> Avantage idéologique </td>
+<TD> Position favorable au niveau national ou international sur le marché des idées, des croyances et des visions du monde.La concurrence se déroule parmi les systèmes religieux, les systèmes politiques et les systèmes de valeurs.Il peut impliquer des mouvements infranationaux, nationaux ou supra-nationaux.</td>
+<TD> TA01 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0075.001.md">T0075.001</a></td>
-<td>Discredit Credible Sources</td>
-<td>Plan to delegitimize the media landscape and degrade public trust in reporting, by discrediting credible sources. This makes it easier to promote influence operation content.</td>
-<td>TA02</td>
+<tr><td> <a href="techniques/t0075.md"> t0075 </a> </td>
+<TD> LIBER </TD>
+<TD> repousser les critiques en rejetant vos critiques.Cela pourrait faire valoir que les critiques utilisent une norme différente pour vous qu'avec d'autres acteurs ou eux-mêmes;ou argumenter que leur critique est biaisée. </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0076.md">T0076</a></td>
-<td>Distort</td>
-<td>Twist the narrative. Take information, or artefacts like images, and change the framing around them.</td>
-<td>TA02</td>
+<td> <a href="techniques/t0075.001.md"> T0075.001 </a> </td>
+<TD> discréditer les sources crédibles </td>
+<TD> prévoit de délégitimer le paysage des médias et de dégrader la confiance du public dans les rapports, en discréditant des sources crédibles.Cela facilite la promotion du contenu de l'opération d'influence. </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0077.md">T0077</a></td>
-<td>Distract</td>
-<td>Shift attention to a different narrative or actor, for instance by accusing critics of the same activity that they’ve accused you of (e.g. police brutality).</td>
-<td>TA02</td>
+<td> <a href="techniques/t0076.md"> t0076 </a> </td>
+<TD> déformer </td>
+<TD> Tournez le récit.Prenez des informations, ou artefacts comme les images et modifiez le cadrage autour d'eux. </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0078.md">T0078</a></td>
-<td>Dismay</td>
-<td>Threaten the critic or narrator of events. For instance, threaten journalists or news outlets reporting on a story.</td>
-<td>TA02</td>
+<td> <a href="techniques/t0077.md"> t0077 </a> </td>
+<TD> Distract </td><TD> déplace l'attention sur un récit ou un acteur différent, par exemple en accusant les critiques de la même activité dont ils vous ont accusé (par exemple la brutalité policière). </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0079.md">T0079</a></td>
-<td>Divide</td>
-<td>Create conflict between subgroups, to widen divisions in a community</td>
-<td>TA02</td>
+<td> <a href="techniques/t0078.md"> t0078 </a> </td>
+<TD> Dismand </td>
+<TD> menacer le critique ou le narrateur des événements.Par exemple, menacer les journalistes ou les médias reportant sur une histoire. </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0080.md">T0080</a></td>
-<td>Map Target Audience Information Environment</td>
-<td>Mapping the target audience information environment analyses the information space itself, including social media analytics, web traffic, and media surveys. Mapping the information environment may help the influence operation determine the most realistic and popular information channels to reach its target audience. Mapping the target audience information environment aids influence operations in determining the most vulnerable areas of the information space to target with messaging.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0079.md"> t0079 </a> </td>
+<TD> Diviser </td>
+<TD> Créer un conflit entre les sous-groupes, pour élargir les divisions dans une communauté </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0080.001.md">T0080.001</a></td>
-<td>Monitor Social Media Analytics</td>
-<td>An influence operation may use social media analytics to determine which factors will increase the operation content’s exposure to its target audience on social media platforms, including views, interactions, and sentiment relating to topics and content types. The social media platform itself or a third-party tool may collect the metrics.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0080.md"> t0080 </a> </td>
+<TD> Carte Environnement d'information du public cible </td><TD> Mappage de l'environnement d'information du public cible analyse l'espace d'information lui-même, y compris l'analyse des médias sociaux, le trafic Web et les enquêtes avec les médias.La cartographie de l'environnement d'information peut aider l'opération d'influence à déterminer les canaux d'information les plus réalistes et les plus populaires pour atteindre son public cible.Cartographie de l'environnement d'information du public cible Les aides influencent les opérations pour déterminer les domaines les plus vulnérables de l'espace d'information à cibler avec la messagerie. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0080.002.md">T0080.002</a></td>
-<td>Evaluate Media Surveys</td>
-<td>An influence operation may evaluate its own or third-party media surveys to determine what type of content appeals to its target audience. Media surveys may provide insight into an audience’s political views, social class, general interests, or other indicators used to tailor operation messaging to its target audience.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0080.001.md"> t0080.001 </a> </td>
+<TD> Surveiller l'analyse des médias sociaux </td>
+<TD> Une opération d'influence peut utiliser l'analyse des médias sociaux pour déterminer quels facteurs augmenteront l'exposition du contenu de l'opération à son public cible sur les plateformes de médias sociaux, y compris les vues, les interactions et le sentiment relatives aux sujets et aux types de contenu.La plate-forme de médias sociaux elle-même ou un outil tiers peut collecter les métriques. </td>
+<TD> TA13 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0080.003.md">T0080.003</a></td>
-<td>Identify Trending Topics/Hashtags</td>
-<td>An influence operation may identify trending hashtags on social media platforms for later use in boosting operation content. A hashtag40 refers to a word or phrase preceded by the hash symbol (#) on social media used to identify messages and posts relating to a specific topic. All public posts that use the same hashtag are aggregated onto a centralised page dedicated to the word or phrase and sorted either chronologically or by popularity.</td>
-<td>TA13</td>
+<tr><td> <a href="techniques/t0080.002.md"> T0080.002 </a> </td>
+<TD> Évaluer les enquêtes médiatiques </td>
+<TD> Une opération d'influence peut évaluer ses propres enquêtes médiatiques ou tiers pour déterminer quel type de contenu fait appel à son public cible.Les enquêtes avec les médias peuvent donner un aperçu des opinions politiques d'un public, de la classe sociale, des intérêts généraux ou d'autres indicateurs utilisés pour adapter la messagerie d'opération à son public cible. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0080.004.md">T0080.004</a></td>
-<td>Conduct Web Traffic Analysis</td>
-<td>An influence operation may conduct web traffic analysis to determine which search engines, keywords, websites, and advertisements gain the most traction with its target audience.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0080.003.md"> T0080.003 </a> </td>
+<TD> Identifier les sujets de tendance / hashtags </td>
+<TD> Une opération d'influence peut identifier les hashtags tendances sur les plateformes de médias sociaux pour une utilisation ultérieure pour augmenter le contenu de l'opération.Un hashtag40 fait référence à un mot ou une phrase précédé par le symbole de hachage (#) sur les médias sociaux utilisés pour identifier les messages et les publications relatives à un sujet spécifique.Tous les publications publiques qui utilisent le même hashtag sont agrégées sur une page centralisée dédiée au mot ou à la phrase et triés soit chronologiquement, soit par popularité. </td><TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0080.005.md">T0080.005</a></td>
-<td>Assess Degree/Type of Media Access</td>
-<td>An influence operation may survey a target audience’s Internet availability and degree of media freedom to determine which target audience members will have access to operation content and on which platforms. An operation may face more difficulty targeting an information environment with heavy restrictions and media control than an environment with independent media, freedom of speech and of the press, and individual liberties.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0080.004.md"> T0080.004 </a> </td>
+<TD> Effectuer une analyse du trafic Web </td>
+<TD> Une opération d'influence peut effectuer une analyse du trafic Web pour déterminer quels moteurs de recherche, mots clés, sites Web et publicités gagnent le plus de traction avec son public cible. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0081.md">T0081</a></td>
-<td>Identify Social and Technical Vulnerabilities</td>
-<td>Identifying social and technical vulnerabilities determines weaknesses within the target audience information environment for later exploitation. Vulnerabilities include decisive political issues, weak cybersecurity infrastructure, search engine data voids, and other technical and non technical weaknesses in the target information environment. Identifying social and technical vulnerabilities facilitates the later exploitation of the identified weaknesses to advance operation objectives.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0080.005.md"> t0080.005 </a> </td>
+<TD> Évaluer le diplôme / type d'accès aux médias </td>
+<TD> Une opération d'influence peut étudier la disponibilité Internet d'un public cible et le degré de liberté des médias pour déterminer quels membres du public cible auront accès au contenu de l'opération et sur quelles plateformes.Une opération peut être confrontée à plus de difficultés à cibler un environnement d'information avec de fortes restrictions et un contrôle des médias qu'un environnement avec des médias indépendants, une liberté d'expression et de la presse et des libertés individuelles. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0081.001.md">T0081.001</a></td>
-<td>Find Echo Chambers</td>
-<td>Find or plan to create areas (social media groups, search term groups, hashtag groups etc) where individuals only engage with people they agree with.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0081.md"> t0081 </a> </td><TD> Identifier les vulnérabilités sociales et techniques </td>
+<TD> L'identification des vulnérabilités sociales et techniques détermine les faiblesses dans l'environnement d'information du public cible pour l'exploitation ultérieure.Les vulnérabilités comprennent des problèmes politiques décisifs, une faible infrastructure de cybersécurité, des vides de données de moteur de recherche et d'autres faiblesses techniques et non techniques dans l'environnement d'information cible.L'identification des vulnérabilités sociales et techniques facilite l'exploitation ultérieure des faiblesses identifiées pour faire progresser les objectifs de l'opération. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0081.002.md">T0081.002</a></td>
-<td>Identify Data Voids</td>
-<td>A data void refers to a word or phrase that results in little, manipulative, or low-quality search engine data. Data voids are hard to detect and relatively harmless until exploited by an entity aiming to quickly proliferate false or misleading information during a phenomenon that causes a high number of individuals to query the term or phrase. In the Plan phase, an influence operation may identify data voids for later exploitation in the operation. A 2019 report by Michael Golebiewski identifies five types of data voids. (1) “Breaking news” data voids occur when a keyword gains popularity during a short period of time, allowing an influence operation to publish false content before legitimate news outlets have an opportunity to publish relevant information. (2) An influence operation may create a “strategic new terms” data void by creating their own terms and publishing information online before promoting their keyword to the target audience. (3) An influence operation may publish content on “outdated terms” that have decreased in popularity, capitalising on most search engines’ preferences for recency. (4) “Fragmented concepts” data voids separate connections between similar ideas, isolating segment queries to distinct search engine results. (5) An influence operation may use “problematic queries” that previously resulted in disturbing or inappropriate content to promote messaging until mainstream media recontextualizes the term.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0081.001.md"> t0081.001 </a> </td>
+<TD> Trouver des chambres d'écho </td>
+<TD> Trouver ou planifier pour créer des domaines (groupes de médias sociaux, groupes de termes de recherche, groupes de hashtag, etc.) où les individus n'engagent qu'avec des personnes avec lesquelles ils sont d'accord. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0081.003.md">T0081.003</a></td>
-<td>Identify Existing Prejudices</td>
-<td>An influence operation may exploit existing racial, religious, demographic, or social prejudices to further polarise its target audience from the rest of the public.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0081.002.md"> T0081.002 </a> </td>
+<TD> Identifier les vides des données </td><TD> Un vide de données fait référence à un mot ou à une phrase qui se traduit par des données de moteur de recherche peu, manipulateur ou de faible qualité.Les vides des données sont difficiles à détecter et relativement inoffensifs jusqu'à exploiter par une entité visant à proliférer rapidement des informations fausses ou trompeuses pendant un phénomène qui fait que un nombre élevé d'individus interroge le terme ou la phrase.Dans la phase du plan, une opération d'influence peut identifier les vides de données pour une exploitation ultérieure dans l'opération.Un rapport de 2019 de Michael Golebiewski identifie cinq types de vides de données.(1) Les vides de données «Breaking News» se produisent lorsqu'un mot-clé gagne en popularité pendant une courte période, permettant à une opération d'influence de publier un faux contenu avant que les médias légitimes n'aient la possibilité de publier des informations pertinentes.(2) Une opération d'influence peut créer des données «de nouveaux termes stratégiques» vides en créant leurs propres termes et en publiant des informations en ligne avant de promouvoir leur mot-clé au public cible.(3) Une opération d'influence peut publier du contenu sur des «termes obsolètes» qui ont diminué en popularité, capitalisant sur la plupart des préférences de récence des moteurs de recherche.(4) Les données «concepts fragmentées» vides les connexions séparées entre des idées similaires, isolant les requêtes de segment aux résultats distincts des moteurs de recherche.(5) Une opération d'influence peut utiliser des «requêtes problématiques» qui entraînaient auparavant un contenu dérangeant ou inapproprié pour promouvoir la messagerie jusqu'à ce que les médias grand public recontextualisent le terme. </td><TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0081.004.md">T0081.004</a></td>
-<td>Identify Existing Fissures</td>
-<td>An influence operation may identify existing fissures to pit target populations against one another or facilitate a “divide-and-conquer" approach to tailor operation narratives along the divides.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0081.003.md"> t0081.003 </a> </td>
+<TD> Identifier les préjugés existants </td>
+<TD> Une opération d'influence peut exploiter les préjugés raciaux, religieux, démographiques ou sociaux existants pour polariser davantage son public cible du reste du public. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0081.005.md">T0081.005</a></td>
-<td>Identify Existing Conspiracy Narratives/Suspicions</td>
-<td>An influence operation may assess preexisting conspiracy theories or suspicions in a population to identify existing narratives that support operational objectives.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0081.004.md"> t0081.004 </a> </td>
+<TD> Identifier les fissures existantes </td>
+<TD> Une opération d'influence peut identifier les fissures existantes pour cibler les populations cibles les unes contre les autres ou faciliter une approche "diviser et conquérir" pour adapter les récits d'opération le long des divisions. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0081.006.md">T0081.006</a></td>
-<td>Identify Wedge Issues</td>
-<td>A wedge issue is a divisive political issue, usually concerning a social phenomenon, that divides individuals along a defined line. An influence operation may exploit wedge issues by intentionally polarising the public along the wedge issue line and encouraging opposition between factions.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0081.005.md"> T0081.005 </a> </td>
+<TD> Identifier les récits / soupçons de complot existants </td>
+<TD> Une opération d'influence peut évaluer les théories du complot préexistantes ou les soupçons dans une population pour identifier les récits existants qui soutiennent les objectifs opérationnels. </td>
+<TD> TA13 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0081.007.md">T0081.007</a></td>
-<td>Identify Target Audience Adversaries</td>
-<td>An influence operation may identify or create a real or imaginary adversary to centre operation narratives against. A real adversary may include certain politicians or political parties while imaginary adversaries may include falsified “deep state”62 actors that, according to conspiracies, run the state behind public view.</td>
-<td>TA13</td>
+<tr><td> <a href="techniques/t0081.006.md"> t0081.006 </a> </td>
+<TD> Identifier les problèmes de coin </td>
+<TD> Un problème de coin est un problème politique de division, généralement concernant un phénomène social, qui divise les individus le long d'une ligne définie.Une opération d'influence peut exploiter les problèmes de coin en polarisant intentionnellement le public le long de la ligne des problèmes de coin et en encourageant l'opposition entre les factions. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0081.008.md">T0081.008</a></td>
-<td>Identify Media System Vulnerabilities</td>
-<td>An influence operation may exploit existing weaknesses in a target’s media system. These weaknesses may include existing biases among media agencies, vulnerability to false news agencies on social media, or existing distrust of traditional media sources. An existing distrust among the public in the media system’s credibility holds high potential for exploitation by an influence operation when establishing alternative news agencies to spread operation content.</td>
-<td>TA13</td>
+<td> <a href="techniques/t0081.007.md"> t0081.007 </a> </td>
+<TD> Identifier les adversaires du public cible </td>
+<TD> Une opération d'influence peut identifier ou créer un adversaire réel ou imaginaire pour centrer les récits d'opération.Un véritable adversaire peut inclure certains politiciens ou partis politiques tandis que les adversaires imaginaires peuvent inclure des acteurs falsifiés «État profond» 62 qui, selon des complots, dirigent l'État derrière le point de vue du public. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0082.md">T0082</a></td>
-<td>Develop New Narratives</td>
-<td>Actors may develop new narratives to further strategic or tactical goals, especially when existing narratives adequately align with the campaign goals. New narratives provide more control in terms of crafting the message to achieve specific goals. However, new narratives may require more effort to disseminate than adapting or adopting existing narratives.</td>
-<td>TA14</td>
+<td> <a href="techniques/t0081.008.md"> T0081.008 </a> </td>
+<TD> Identifier les vulnérabilités du système multimédia </td><TD> Une opération d'influence peut exploiter les faiblesses existantes dans le système multimédia d'une cible.Ces faiblesses peuvent inclure les biais existants entre les agences de médias, la vulnérabilité aux fausses agences de presse sur les réseaux sociaux ou la méfiance existante envers les sources médiatiques traditionnelles.Une méfiance existante parmi le public dans la crédibilité du système médiatique est un potentiel élevé d'exploitation par une opération d'influence lors de l'établissement d'agences de presse alternatives pour diffuser le contenu de l'opération. </td>
+<TD> TA13 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0083.md">T0083</a></td>
-<td>Integrate Target Audience Vulnerabilities into Narrative</td>
-<td>An influence operation may seek to exploit the preexisting weaknesses, fears, and enemies of the target audience for integration into the operation’s narratives and overall strategy. Integrating existing vulnerabilities into the operational approach conserves resources by exploiting already weak areas of the target information environment instead of forcing the operation to create new vulnerabilities in the environment.</td>
-<td>TA14</td>
+<td> <a href="techniques/t0082.md"> t0082 </a> </td>
+<TD> Développer de nouveaux récits </td>
+Les acteurs <TD> peuvent développer de nouveaux récits à de nouveaux objectifs stratégiques ou tactiques, en particulier lorsque les récits existants s'alignent adéquatement sur les objectifs de la campagne.Les nouveaux récits fournissent plus de contrôle en termes de création du message pour atteindre des objectifs spécifiques.Cependant, de nouveaux récits peuvent nécessiter plus d'efforts pour se disséminer que d'adapter ou d'adopter des récits existants. </td>
+<TD> TA14 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0084.md">T0084</a></td>
-<td>Reuse Existing Content</td>
-<td>When an operation recycles content from its own previous operations or plagiarises from external operations. An operation may launder information to conserve resources that would have otherwise been utilised to develop new content.</td>
-<td>TA06</td>
+<tr><td> <a href="techniques/t0083.md"> t0083 </a> </td>
+<TD> Intégrer les vulnérabilités du public cible dans le récit </td>
+<TD> Une opération d'influence peut chercher à exploiter les faiblesses, les peurs et les ennemis préexistants du public cible pour intégrer dans les récits de l'opération et la stratégie globale.L'intégration des vulnérabilités existantes dans l'approche opérationnelle conserve les ressources en exploitant des zones déjà faibles de l'environnement d'information cible au lieu de forcer l'opération à créer de nouvelles vulnérabilités dans l'environnement. </td>
+<TD> TA14 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0084.001.md">T0084.001</a></td>
-<td>Use Copypasta</td>
-<td>Copypasta refers to a piece of text that has been copied and pasted multiple times across various online platforms. A copypasta’s final form may differ from its original source text as users add, delete, or otherwise edit the content as they repost the text.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0084.md"> t0084 </a> </td>
+<TD> Réutiliser le contenu existant </td>
+<TD> Lorsqu'une opération recycle le contenu de ses propres opérations ou plagiations précédentes à partir d'opérations externes.Une opération peut blanchir des informations pour conserver des ressources qui auraient autrement été utilisées pour développer de nouveaux contenus. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0084.002.md">T0084.002</a></td>
-<td>Plagiarise Content</td>
-<td>An influence operation may take content from other sources without proper attribution. This content may be either misinformation content shared by others without malicious intent but now leveraged by the campaign as disinformation or disinformation content from other sources.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0084.001.md"> t0084.001 </a> </td>
+<TD> Utilisez Copypasta </td><TD> Copypasta fait référence à un texte qui a été copié et collé plusieurs fois sur diverses plateformes en ligne.Le formulaire final d'un Copypasta peut différer de son texte source d'origine lorsque les utilisateurs ajoutent, suppriment ou modifient autrement le contenu car ils republient le texte. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0084.003.md">T0084.003</a></td>
-<td>Deceptively Labelled or Translated</td>
-<td>An influence operation may take authentic content from other sources and add deceptive labels or deceptively translate the content into other langauges.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0084.002.md"> T0084.002 </a> </td>
+<TD> Plagiarise Content </td>
+<TD> Une opération d'influence peut prendre du contenu d'autres sources sans attribution appropriée.Ce contenu peut être soit un contenu de désinformation partagé par d'autres sans intention malveillante, mais maintenant exploité par la campagne comme une désinformation ou un contenu de désinformation d'autres sources. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0084.004.md">T0084.004</a></td>
-<td>Appropriate Content</td>
-<td>An influence operation may take content from other sources with proper attribution. This content may be either misinformation content shared by others without malicious intent but now leveraged by the campaign as disinformation or disinformation content from other sources. Examples include the appropriation of content from one inauthentic news site to another inauthentic news site or network in ways that align with the originators licencing or terms of service.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0084.003.md"> T0084.003 </a> </td>
+<td> étiqueté trompeusement ou traduit </td>
+<TD> Une opération d'influence peut prendre un contenu authentique d'autres sources et ajouter des étiquettes trompeuses ou traduire trompeusement le contenu dans d'autres langauges. </td>
+<TD> TA06 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0085.md">T0085</a></td>
-<td>Develop Text-Based Content</td>
-<td>Creating and editing false or misleading text-based artefacts, often aligned with one or more specific narratives, for use in a disinformation campaign.</td>
-<td>TA06</td>
+<tr><td> <a href="techniques/t0084.004.md"> T0084.004 </a> </td>
+<TD> Contenu approprié </td>
+<TD> Une opération d'influence peut prendre le contenu d'autres sources avec une attribution appropriée.Ce contenu peut être soit un contenu de désinformation partagé par d'autres sans intention malveillante, mais maintenant exploité par la campagne comme une désinformation ou un contenu de désinformation provenant d'autres sources.Les exemples incluent l'appropriation du contenu d'un site d'information inauthentique à un autre site ou réseau d'informations inauthentiques d'une manière qui s'aligne sur les licences ou les conditions d'utilisation des autorités. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0085.001.md">T0085.001</a></td>
-<td>Develop AI-Generated Text</td>
-<td>AI-generated texts refers to synthetic text composed by computers using text-generating AI technology. Autonomous generation refers to content created by a bot without human input, also known as bot-created content generation. Autonomous generation represents the next step in automation after language generation and may lead to automated journalism. An influence operation may use read fakes or autonomous generation to quickly develop and distribute content to the target audience.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0085.md"> t0085 </a> </td>
+<TD> Développer du contenu textuel </td>
+<TD> Création et modification des artefacts de texte faux ou trompeurs, souvent alignés sur un ou plusieurs récits spécifiques, pour une utilisation dans une campagne de désinformation. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0085.002.md">T0085.002</a></td>
-<td>Develop False or Altered Documents</td>
-<td>Develop False or Altered Documents</td>
-<td>TA06</td>
+<td> <a href="techniques/t0085.001.md"> t0085.001 </a> </td>
+<TD> Développer du texte généré par l'AI </td>Les textes générés par des AI <TD> se réfèrent au texte synthétique composé par des ordinateurs à l'aide de la technologie d'IA générant du texte.La génération autonome fait référence au contenu créé par un bot sans entrée humaine, également connu sous le nom de génération de contenu créée par des bot.La génération autonome représente la prochaine étape de l'automatisation après la génération de la langue et peut conduire à un journalisme automatisé.Une opération d'influence peut utiliser des contrefaçons en lecture ou une génération autonome pour développer et distribuer rapidement du contenu au public cible. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0085.003.md">T0085.003</a></td>
-<td>Develop Inauthentic News Articles</td>
-<td>An influence operation may develop false or misleading news articles aligned to their campaign goals or narratives.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0085.002.md"> T0085.002 </a> </td>
+<TD> Développer des documents faux ou modifiés </td>
+<TD> Développer des documents faux ou modifiés </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0086.md">T0086</a></td>
-<td>Develop Image-Based Content</td>
-<td>Creating and editing false or misleading visual artefacts, often aligned with one or more specific narratives, for use in a disinformation campaign. This may include photographing staged real-life situations, repurposing existing digital images, or using image creation and editing technologies.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0085.003.md"> t0085.003 </a> </td>
+<TD> Développer des articles de presse inauthentiques </td>
+<TD> Une opération d'influence peut développer des articles de presse faux ou trompeurs alignés sur les objectifs ou les récits de leur campagne. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0086.001.md">T0086.001</a></td>
-<td>Develop Memes</td>
-<td>Memes are one of the most important single artefact types in all of computational propaganda. Memes in this framework denotes the narrow image-based definition. But that naming is no accident, as these items have most of the important properties of Dawkins' original conception as a self-replicating unit of culture. Memes pull together reference and commentary; image and narrative; emotion and message. Memes are a powerful tool and the heart of modern influence campaigns.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0086.md"> t0086 </a> </td><TD> Développer du contenu basé sur l'image </td>
+<TD> Création et modification des artefacts visuels faux ou trompeurs, souvent alignés sur un ou plusieurs récits spécifiques, pour une utilisation dans une campagne de désinformation.Cela peut inclure la photographie de situations réelles mise en scène, la réutilisation des images numériques existantes ou l'utilisation des technologies de création d'images et d'édition. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0086.002.md">T0086.002</a></td>
-<td>Develop AI-Generated Images (Deepfakes)</td>
-<td>Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual’s face, body, voice, and physical gestures.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0086.001.md"> t0086.001 </a> </td>
+<TD> Développer des mèmes </td>
+<TD> Les mèmes sont l'un des types d'artefacts les plus importants dans toute la propagande de calcul.Les mèmes de ce cadre désignent la définition étroite basée sur l'image.Mais cette dénomination n'est pas un accident, car ces éléments ont la plupart des propriétés importantes de la conception originale de Dawkins en tant qu'unité de culture auto-reproduite.Les mèmes rassemblent la référence et les commentaires;image et récit;émotion et message.Les mèmes sont un outil puissant et le cœur des campagnes d'influence moderne. </td>
+<TD> TA06 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0086.003.md">T0086.003</a></td>
-<td>Deceptively Edit Images (Cheap Fakes)</td>
-<td>Cheap fakes utilise less sophisticated measures of altering an image, video, or audio for example, slowing, speeding, or cutting footage to create a false context surrounding an image or event.</td>
-<td>TA06</td>
+<tr><td> <a href="techniques/t0086.002.md"> T0086.002 </a> </td>
+<TD> Développer des images générées par AI (DeepFakes) </td>
+<TD> Deepfakes se réfèrent aux photos falsifiées générées par l'AI-AI, des vidéos ou des bits sonores.Une opération d'influence peut utiliser Deepfakes pour représenter une situation inauthentique en recréant synthétiquement le visage, le corps, la voix et les gestes physiques d'un individu. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0086.004.md">T0086.004</a></td>
-<td>Aggregate Information into Evidence Collages</td>
-<td>Image files that aggregate positive evidence (Joan Donovan)</td>
-<td>TA06</td>
+<td> <a href="techniques/t0086.003.md"> T0086.003 </a> </td>
+<TD> Modifier Deveceverment Images (FAKEMENTES AUX PROBLÈMES) </TD>
+<TD> Les contrefaçons bon marché utilisent des mesures moins sophistiquées pour modifier une image, une vidéo ou un audio, par exemple, ralentir, accélérer ou couper des images pour créer un faux contexte entourant une image ou un événement. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0087.md">T0087</a></td>
-<td>Develop Video-Based Content</td>
-<td>Creating and editing false or misleading video artefacts, often aligned with one or more specific narratives, for use in a disinformation campaign. This may include staging videos of purportedly real situations, repurposing existing video artefacts, or using AI-generated video creation and editing technologies (including deepfakes).</td>
-<td>TA06</td>
+<td> <a href="techniques/t0086.004.md"> T0086.004 </a> </td>
+<TD> Aggrégat les informations dans les collages de preuves </td>
+<TD> Fichiers d'image qui regroupent des preuves positives (Joan Donovan) </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0087.001.md">T0087.001</a></td>
-<td>Develop AI-Generated Videos (Deepfakes)</td>
-<td>Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual’s face, body, voice, and physical gestures.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0087.md"> t0087 </a> </td>
+<TD> Développer du contenu vidéo </td><TD> Création et modification des artefacts vidéo fausses ou trompeuses, souvent alignés sur un ou plusieurs récits spécifiques, pour une utilisation dans une campagne de désinformation.Cela peut inclure la mise en scène de vidéos de situations prétendument réelles, la réutilisation des artefacts vidéo existants ou l'utilisation des technologies de création vidéo et d'édition générées par l'IA (y compris DeepFakes). </td>.
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0087.002.md">T0087.002</a></td>
-<td>Deceptively Edit Video (Cheap Fakes)</td>
-<td>Cheap fakes utilise less sophisticated measures of altering an image, video, or audio for example, slowing, speeding, or cutting footage to create a false context surrounding an image or event.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0087.001.md"> T0087.001 </a> </td>
+<TD> Développer des vidéos générées par AI (Deepfakes) </td>
+<TD> Deepfakes se réfèrent aux photos falsifiées générées par l'AI-AI, des vidéos ou des bits sonores.Une opération d'influence peut utiliser Deepfakes pour représenter une situation inauthentique en recréant synthétiquement le visage, le corps, la voix et les gestes physiques d'un individu. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0088.md">T0088</a></td>
-<td>Develop Audio-Based Content</td>
-<td>Creating and editing false or misleading audio artefacts, often aligned with one or more specific narratives, for use in a disinformation campaign. This may include creating completely new audio content, repurposing existing audio artefacts (including cheap fakes), or using AI-generated audio creation and editing technologies (including deepfakes).</td>
-<td>TA06</td>
+<td> <a href="techniques/t0087.002.md"> T0087.002 </a> </td>
+<TD> Modifier trompeusement la vidéo (Fakes bon marché) </td><TD> Les contrefaçons bon marché utilisent des mesures moins sophistiquées pour modifier une image, une vidéo ou un audio, par exemple, ralentir, accélérer ou couper des images pour créer un faux contexte entourant une image ou un événement. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0088.001.md">T0088.001</a></td>
-<td>Develop AI-Generated Audio (Deepfakes)</td>
-<td>Deepfakes refer to AI-generated falsified photos, videos, or soundbites. An influence operation may use deepfakes to depict an inauthentic situation by synthetically recreating an individual’s face, body, voice, and physical gestures.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0088.md"> t0088 </a> </td>
+<TD> Développer du contenu audio </td>
+<TD> Création et modification des artefacts audio faux ou trompeurs, souvent alignés sur un ou plusieurs récits spécifiques, pour une utilisation dans une campagne de désinformation.Cela peut inclure la création de contenus audio complètement nouveaux, la réutilisation des artefacts audio existants (y compris les contrefaçons bon marché) ou l'utilisation de technologies de création audio et d'édition générées par l'IA (y compris DeepFakes). </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0088.002.md">T0088.002</a></td>
-<td>Deceptively Edit Audio (Cheap Fakes)</td>
-<td>Cheap fakes utilise less sophisticated measures of altering an image, video, or audio for example, slowing, speeding, or cutting footage to create a false context surrounding an image or event.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0088.001.md"> T0088.001 </a> </td>
+<TD> Développer l'audio généré par l'IA (DeepFakes) </td><TD> Deepfakes se réfèrent aux photos falsifiées générées par l'AI-AI, des vidéos ou des bits sonores.Une opération d'influence peut utiliser Deepfakes pour représenter une situation inauthentique en recréant synthétiquement le visage, le corps, la voix et les gestes physiques d'un individu. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0089.md">T0089</a></td>
-<td>Obtain Private Documents</td>
-<td>Procuring documents that are not publicly available, by whatever means -- whether legal or illegal, highly-resourced or less so. These documents can include authentic non-public documents, authentic non-public documents have been altered, or inauthentic documents intended to appear as if they are authentic non-public documents. All of these types of documents can be "leaked" during later stages in the operation.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0088.002.md"> t0088.002 </a> </td>
+<TD> Modifier Devecely Audio (Fakes bon marché) </td>
+<TD> Les contrefaçons bon marché utilisent des mesures moins sophistiquées pour modifier une image, une vidéo ou un audio, par exemple, ralentir, accélérer ou couper des images pour créer un faux contexte entourant une image ou un événement. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0089.001.md">T0089.001</a></td>
-<td>Obtain Authentic Documents</td>
-<td>Procure authentic documents that are not publicly available, by whatever means -- whether legal or illegal, highly-resourced or less so. These documents can be "leaked" during later stages in the operation.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0089.md"> t0089 </a> </td>
+<TD> obtenir des documents privés </td><TD> Procurer des documents qui ne sont pas accessibles au public, par tous les moyens - qu'ils soient légaux ou illégaux, très ressources ou moins.Ces documents peuvent inclure des documents non publics authentiques, des documents non publics authentiques ont été modifiés ou des documents inauthentiques destinés à apparaître comme s'ils sont des documents non publics authentiques.Tous ces types de documents peuvent être "divulgués" lors des étapes ultérieures de l'opération. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0089.002.md">T0089.002</a></td>
-<td>Create Inauthentic Documents</td>
-<td>Create inauthentic documents intended to appear as if they are authentic non-public documents. These documents can be "leaked" during later stages in the operation.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0089.001.md"> t0089.001 </a> </td>
+<TD> Obtenez des documents authentiques </td>
+<TD> Procurez-vous des documents authentiques qui ne sont pas accessibles au public, par tous les moyens - qu'ils soient légaux ou illégaux, très ressources ou moins.Ces documents peuvent être "divulgués" lors des stades ultérieurs de l'opération. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0089.003.md">T0089.003</a></td>
-<td>Alter Authentic Documents</td>
-<td>Alter authentic documents (public or non-public) to achieve campaign goals. The altered documents are intended to appear as if they are authentic can be "leaked" during later stages in the operation.</td>
-<td>TA06</td>
+<td> <a href="techniques/t0089.002.md"> t0089.002 </a> </td>
+<TD> Créer des documents inauthentiques </td><TD> Créer des documents inauthentiques destinés à apparaître comme si ce sont des documents non publics authentiques.Ces documents peuvent être "divulgués" lors des stades ultérieurs de l'opération. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0090.md">T0090</a></td>
-<td>Create Inauthentic Accounts</td>
-<td>Inauthentic accounts include bot accounts, cyborg accounts, sockpuppet accounts, and anonymous accounts.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0089.003.md"> t0089.003 </a> </td>
+<TD> modifier les documents authentiques </td>
+<TD> modifier des documents authentiques (publics ou non publiques) pour atteindre les objectifs de la campagne.Les documents modifiés sont destinés à apparaître comme s'ils étaient authentiques peuvent être "divulgués" pendant les étapes ultérieures de l'opération. </td>
+<TD> TA06 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0090.001.md">T0090.001</a></td>
-<td>Create Anonymous Accounts</td>
-<td>Anonymous accounts or anonymous users refer to users that access network resources without providing a username or password. An influence operation may use anonymous accounts to spread content without direct attribution to the operation.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0090.md"> t0090 </a> </td>
+<TD> Créer des comptes inauthentiques </td>
+<TD> Les comptes inauthentiques comprennent des comptes de bot, des comptes Cyborg, des comptes Sockpuppet et des comptes anonymes </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0090.002.md">T0090.002</a></td>
-<td>Create Cyborg Accounts</td>
-<td>Cyborg accounts refer to partly manned, partly automated social media accounts. Cyborg accounts primarily act as bots, but a human operator periodically takes control of the account to engage with real social media users by responding to comments and posting original content. Influence operations may use cyborg accounts to reduce the amount of direct human input required to maintain a regular account but increase the apparent legitimacy of the cyborg account by occasionally breaking its bot-like behaviour with human interaction.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0090.001.md"> T0090.001 </a> </td>
+<TD> Créer des comptes anonymes </td><TD> Les comptes anonymes ou les utilisateurs anonymes se réfèrent aux utilisateurs qui accèdent aux ressources du réseau sans fournir de nom d'utilisateur ou de mot de passe.Une opération d'influence peut utiliser des comptes anonymes pour diffuser du contenu sans attribution directe à l'opération. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0090.003.md">T0090.003</a></td>
-<td>Create Bot Accounts</td>
-<td>Bots refer to autonomous internet users that interact with systems or other users while imitating traditional human behaviour. Bots use a variety of tools to stay active without direct human operation, including artificial intelligence and big data analytics. For example, an individual may programme a Twitter bot to retweet a tweet every time it contains a certain keyword or hashtag. An influence operation may use bots to increase its exposure and artificially promote its content across the internet without dedicating additional time or human resources. Amplifier bots promote operation content through reposts, shares, and likes to increase the content’s online popularity. Hacker bots are traditionally covert bots running on computer scripts that rarely engage with users and work primarily as agents of larger cyberattacks, such as a Distributed Denial of Service attacks. Spammer bots are programmed to post content on social media or in comment sections, usually as a supplementary tool. Impersonator bots102 pose as real people by mimicking human behaviour, complicating their detection.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0090.002.md"> T0090.002 </a> </td>
+<TD> Créer des comptes Cyborg </td>
+Les comptes <TD> CYBORG se réfèrent aux comptes de médias sociaux partiellement habités et partiellement automatisés.Les comptes Cyborg agissent principalement comme des bots, mais un opérateur humain prend périodiquement le contrôle du compte pour s'engager avec de vrais utilisateurs de médias sociaux en répondant aux commentaires et en publiant du contenu original.Les opérations d'influence peuvent utiliser les comptes Cyborg pour réduire la quantité de contribution humaine directe requise pour maintenir un compte régulier mais augmenter la légitimité apparente du compte Cyborg en cassant occasionnellement son comportement de type bot avec l'interaction humaine. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0090.004.md">T0090.004</a></td>
-<td>Create Sockpuppet Accounts</td>
-<td>Sockpuppet accounts refer to falsified accounts that either promote the influence operation’s own material or attack critics of the material online. Individuals who control sockpuppet accounts also man at least one other user account.67 Sockpuppet accounts help legitimise operation narratives by providing an appearance of external support for the material and discrediting opponents of the operation.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0090.003.md"> T0090.003 </a> </td><TD> Créer des comptes de bot </td><TD> Les bots se réfèrent aux utilisateurs d'Internet autonomes qui interagissent avec les systèmes ou d'autres utilisateurs tout en imitant le comportement humain traditionnel.Les robots utilisent une variété d'outils pour rester actif sans fonctionnement humain direct, y compris l'intelligence artificielle et l'analyse des mégadonnées.Par exemple, une personne peut programmer un bot Twitter pour retweeter un tweet à chaque fois qu'il contient un certain mot-clé ou un hashtag.Une opération d'influence peut utiliser des robots pour augmenter son exposition et promouvoir artificiellement son contenu sur Internet sans consacrer du temps ou des ressources humaines supplémentaires.Les robots amplificateurs favorisent le contenu de l'opération via les republication, les partages et aiment augmenter la popularité en ligne du contenu.Les bots de pirates sont des robots traditionnellement secrètes fonctionnant sur des scripts informatiques qui s'engagent rarement avec les utilisateurs et travaillent principalement comme des agents de cyberattaques plus grandes, comme un déni de service distribué.Les bots de spammeurs sont programmés pour publier du contenu sur les réseaux sociaux ou dans les sections de commentaires, généralement comme un outil supplémentaire.Impersonateur BOTS102 se présente comme de vraies personnes en imitant le comportement humain, compliquant leur détection. </td><TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0091.md">T0091</a></td>
-<td>Recruit Malign Actors</td>
-<td>Operators recruit bad actors paying recruiting, or exerting control over individuals includes trolls, partisans, and contractors.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0090.004.md"> T0090.004 </a> </td>
+<TD> Créer des comptes sockpuppet </td>
+Les comptes <TD> Sockpuppet se réfèrent à des comptes falsifiés qui promeuvent le matériel de l'opération d'influence, soit les critiques d'attaque du matériel en ligne.Les individus qui contrôlent les comptes Sockpuppet Man homment également au moins un autre compte utilisateur.67 Les comptes SockPuppet aident à légitimer les récits d'opération en fournissant une apparition de soutien externe pour le matériel et discréditant les adversaires de l'opération. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0091.001.md">T0091.001</a></td>
-<td>Recruit Contractors</td>
-<td>Operators recruit paid contractor to support the campaign.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0091.md"> t0091 </a> </td>
+<TD> Recruter les acteurs malignes </td>
+<TD> Les opérateurs recrutent de mauvais acteurs payant le recrutement ou exercent le contrôle des individus comprennent les trolls, les partisans et les entrepreneurs. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0091.002.md">T0091.002</a></td>
-<td>Recruit Partisans</td>
-<td>Operators recruit partisans (ideologically-aligned individuals) to support the campaign.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0091.001.md"> T0091.001 </a> </td>
+<TD> recruter des entrepreneurs </td>
+<TD> Les opérateurs recrutent l'entrepreneur rémunéré pour soutenir la campagne. </td>
+<TD> TA15 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0091.003.md">T0091.003</a></td>
-<td>Enlist Troll Accounts</td>
-<td>An influence operation may hire trolls, or human operators of fake accounts that aim to provoke others by posting and amplifying content about controversial issues. Trolls can serve to discredit an influence operation’s opposition or bring attention to the operation’s cause through debate. Classic trolls refer to regular people who troll for personal reasons, such as attention-seeking or boredom. Classic trolls may advance operation narratives by coincidence but are not directly affiliated with any larger operation. Conversely, hybrid trolls act on behalf of another institution, such as a state or financial organisation, and post content with a specific ideological goal. Hybrid trolls may be highly advanced and institutionalised or less organised and work for a single individual.</td>
-<td>TA15</td>
+<tr><td> <a href="techniques/t0091.002.md"> T0091.002 </a> </td>
+<TD> Recruter les partisans </td>
+<TD> Les opérateurs recrutent des partisans (individus alignés idéologiquement) pour soutenir la campagne. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0092.md">T0092</a></td>
-<td>Build Network</td>
-<td>Operators build their own network, creating links between accounts -- whether authentic or inauthentic -- in order amplify and promote narratives and artefacts, and encourage further growth of ther network, as well as the ongoing sharing and engagement with operational content.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0091.003.md"> T0091.003 </a> </td>
+<TD> Enrôlez les comptes Troll </td><TD> Une opération d'influence peut embaucher des trolls, ou des opérateurs humains de faux comptes qui visent à provoquer les autres en publiant et en amplifiant le contenu sur les problèmes controversés.Les trolls peuvent servir à discréditer l'opposition de l'opération d'influence ou à attirer l'attention sur la cause de l'opération par le débat.Les trolls classiques se réfèrent aux personnes ordinaires qui troll pour des raisons personnelles, comme la recherche d'attention ou l'ennui.Les trolls classiques peuvent faire progresser les récits d'opération par coïncidence mais ne sont pas directement affiliés à une opération plus importante.À l'inverse, les trolls hybrides agissent au nom d'une autre institution, comme une organisation d'État ou financière, et publient du contenu avec un objectif idéologique spécifique.Les trolls hybrides peuvent être très avancés et institutionnalisés ou moins organisés et travailler pour une seule personne. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0092.001.md">T0092.001</a></td>
-<td>Create Organisations</td>
-<td>Influence operations may establish organisations with legitimate or falsified hierarchies, staff, and content to structure operation assets, provide a sense of legitimacy to the operation, or provide institutional backing to operation activities.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0092.md"> t0092 </a> </td>
+<TD> Build Network </td>Les opérateurs <TD> créent leur propre réseau, créant des liens entre les comptes - qu'ils soient authentiques ou inauthentiques - pour amplifier et promouvoir les récits et les artefacts, et encourager la croissance plus approfondie du réseau Ther, ainsi que le partage et l'engagement continu avec le contenu opérationnel.</td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0092.002.md">T0092.002</a></td>
-<td>Use Follow Trains</td>
-<td>A follow train is a group of people who follow each other on a social media platform, often as a way for an individual or campaign to grow its social media following. Follow trains may be a violation of platform Terms of Service. They are also known as follow-for-follow groups.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0092.001.md"> T0092.001 </a> </td>
+<TD> Créer des organisations </td>
+<TD> Les opérations d'influence peuvent établir des organisations avec des hiérarchies, du personnel et du contenu légitimes ou falsifiés pour structurer les actifs de l'opération, donner un sentiment de légitimité à l'opération ou fournir un soutien institutionnel aux activités d'opération. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0092.003.md">T0092.003</a></td>
-<td>Create Community or Sub-Group</td>
-<td>When there is not an existing community or sub-group that meets a campaign's goals, an influence operation may seek to create a community or sub-group.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0092.002.md"> T0092.002 </a> </td>
+<TD> Utiliser Suivez les trains </td><TD> Un train de suivi est un groupe de personnes qui se suivent sur une plate-forme de médias sociaux, souvent pour un individu ou une campagne pour développer ses médias sociaux.Les trains de suivi peuvent être une violation des conditions d'utilisation de la plate-forme.Ils sont également connus sous le nom de groupes suivants. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0093.md">T0093</a></td>
-<td>Acquire/Recruit Network</td>
-<td>Operators acquire an existing network by paying, recruiting, or exerting control over the leaders of the existing network.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0092.003.md"> T0092.003 </a> </td>
+<TD> Créer une communauté ou un sous-groupe </td>
+<TD> Lorsqu'il n'y a pas de communauté ou de sous-groupe existant qui répond aux objectifs d'une campagne, une opération d'influence peut chercher à créer une communauté ou un sous-groupe. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0093.001.md">T0093.001</a></td>
-<td>Fund Proxies</td>
-<td>An influence operation may fund proxies, or external entities that work for the operation. An operation may recruit/train users with existing sympathies towards the operation’s narratives and/or goals as proxies. Funding proxies serves various purposes including: - Diversifying operation locations to complicate attribution - Reducing the workload for direct operation assets</td>
-<td>TA15</td>
+<td> <a href="techniques/t0093.md"> t0093 </a> </td>
+<TD> Acquérir / recruter le réseau </td>
+Les opérateurs <TD> acquièrent un réseau existant en payant, en recrutant ou en exerçant un contrôle sur les dirigeants du réseau existant. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0093.002.md">T0093.002</a></td>
-<td>Acquire Botnets</td>
-<td>A botnet is a group of bots that can function in coordination with each other.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0093.001.md"> T0093.001 </a> </td>
+<TD> Fonds Proxy </td><TD> Une opération d'influence peut financer des procurations ou des entités externes qui fonctionnent pour l'opération.Une opération peut recruter / former des utilisateurs avec des sympathies existantes pour les récits et / ou les objectifs de l'opération en tant que proxys.Les proxys de financement servent diverses fins, notamment: - Diversifier les emplacements des opérations pour compliquer l'attribution - Réduire la charge de travail pour les actifs de fonctionnement direct </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0094.md">T0094</a></td>
-<td>Infiltrate Existing Networks</td>
-<td>Operators deceptively insert social assets into existing networks as group members in order to influence the members of the network and the wider information environment that the network impacts.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0093.002.md"> T0093.002 </a> </td>
+<TD> Acquérir des botnets </td>
+<TD> Un botnet est un groupe de robots qui peuvent fonctionner en coordination les uns avec les autres. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0094.001.md">T0094.001</a></td>
-<td>Identify Susceptible Targets in Networks</td>
-<td>When seeking to infiltrate an existing network, an influence operation may identify individuals and groups that might be susceptible to being co-opted or influenced.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0094.md"> t0094 </a> </td>
+<TD> Infiltre les réseaux existants </td>
+<TD> Les opérateurs insérent Deceptivery les actifs sociaux dans les réseaux existants en tant que membres du groupe afin d'influencer les membres du réseau et l'environnement d'information plus large que le réseau a un impact. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0094.002.md">T0094.002</a></td>
-<td>Utilise Butterfly Attacks</td>
-<td>Butterfly attacks occur when operators pretend to be members of a certain social group, usually a group that struggles for representation. An influence operation may mimic a group to insert controversial statements into the discourse, encourage the spread of operation content, or promote harassment among group members. Unlike astroturfing, butterfly attacks aim to infiltrate and discredit existing grassroots movements, organisations, and media campaigns.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0094.001.md"> T0094.001 </a> </td><TD> Identifier les cibles sensibles dans les réseaux </td>
+<TD> Lorsque vous cherchez à infiltrer un réseau existant, une opération d'influence peut identifier les individus et les groupes qui pourraient être susceptibles d'être cooptés ou influencés. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0095.md">T0095</a></td>
-<td>Develop Owned Media Assets</td>
-<td>An owned media asset refers to an agency or organisation through which an influence operation may create, develop, and host content and narratives. Owned media assets include websites, blogs, social media pages, forums, and other platforms that facilitate the creation and organisation of content.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0094.002.md"> T0094.002 </a> </td>
+<TD> Utilisez des attaques de papillons </td>
+<TD> Les attaques de papillons se produisent lorsque les opérateurs prétendent être membres d'un certain groupe social, généralement un groupe qui lutte pour la représentation.Une opération d'influence peut imiter un groupe pour insérer des déclarations controversées dans le discours, encourager la propagation du contenu de l'opération ou promouvoir le harcèlement entre les membres du groupe.Contrairement à Astroturfing, les attaques de papillons visent à infiltrer et à discréditer les mouvements, les organisations et les campagnes médiatiques existants. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0096.md">T0096</a></td>
-<td>Leverage Content Farms</td>
-<td>Using the services of large-scale content providers for creating and amplifying campaign artefacts at scale.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0095.md"> t0095 </a> </td>
+<TD> Développer les actifs médiatiques détenus </td><TD> Un actif médiatique détenu fait référence à une agence ou une organisation par laquelle une opération d'influence peut créer, développer et héberger du contenu et des récits.Les actifs médiatiques détenus comprennent des sites Web, des blogs, des pages de médias sociaux, des forums et d'autres plateformes qui facilitent la création et l'organisation du contenu. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0096.001.md">T0096.001</a></td>
-<td>Create Content Farms</td>
-<td>An influence operation may create an organisation for creating and amplifying campaign artefacts at scale.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0096.md"> t0096 </a> </td>
+<TD> Tirez parti des fermes de contenu </td>
+<TD> en utilisant les services de fournisseurs de contenu à grande échelle pour la création et l'amplification des artefacts de campagne à grande échelle. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0096.002.md">T0096.002</a></td>
-<td>Outsource Content Creation to External Organisations</td>
-<td>An influence operation may outsource content creation to external companies to avoid attribution, increase the rate of content creation, or improve content quality, i.e., by employing an organisation that can create content in the target audience’s native language. Employed organisations may include marketing companies for tailored advertisements or external content farms for high volumes of targeted media.</td>
-<td>TA15</td>
+<td> <a href="techniques/t0096.001.md"> T0096.001 </a> </td>
+<TD> Créer des fermes de contenu </td>
+<TD> Une opération d'influence peut créer une organisation pour créer et amplifier les artefacts de campagne à grande échelle. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0097.md">T0097</a></td>
-<td>Create Personas</td>
-<td>Creating fake people, often with accounts across multiple platforms. These personas can be as simple as a name, can contain slightly more background like location, profile pictures, backstory, or can be effectively backstopped with indicators like fake identity documents.</td>
-<td>TA16</td>
+<td> <a href="techniques/t0096.002.md"> T0096.002 </a> </td>
+<TD> Externaliser la création de contenu aux organisations externes </td><TD> Une opération d'influence peut externaliser la création de contenu aux entreprises externes pour éviter l'attribution, augmenter le taux de création de contenu ou améliorer la qualité du contenu, c'est-à-dire en utilisant une organisation qui peut créer du contenu dans la langue maternelle du public cible.Les organisations employées peuvent inclure des sociétés de marketing pour des publicités sur mesure ou des fermes de contenu externe pour des volumes élevés de médias ciblés. </td>
+<TD> TA15 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0097.001.md">T0097.001</a></td>
-<td>Backstop Personas</td>
-<td>Create other assets/dossier/cover/fake relationships and/or connections or documents, sites, bylines, attributions, to establish/augment/inflate crediblity/believability</td>
-<td>TA16</td>
+<td> <a href="techniques/t0097.md"> t0097 </a> </td>
+<TD> Créer des personnages </td>
+<TD> Création de fausses personnes, souvent avec des comptes sur plusieurs plateformes.Ces personnages peuvent être aussi simples qu'un nom, peuvent contenir un peu plus d'arrière-plan comme l'emplacement, les images de profil, la trame de fond ou peuvent être efficacement des indemnités avec des indicateurs comme de faux documents d'identité. </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0098.md">T0098</a></td>
-<td>Establish Inauthentic News Sites</td>
-<td>Modern computational propaganda makes use of a cadre of imposter news sites spreading globally. These sites, sometimes motivated by concerns other than propaganda--for instance, click-based revenue--often have some superficial markers of authenticity, such as naming and site-design. But many can be quickly exposed with reference to their owenership, reporting history and adverstising details.</td>
-<td>TA16</td>
+<td> <a href="techniques/t0097.001.md"> T0097.001 </a> </td>
+<TD> Personnes de backstop </td><TD> Créez d'autres actifs / dossier / couverture / fausses relations et / ou connexions ou documents, sites, règlements, attributions, pour établir / augmenter / gonfler la crédibilité / la crédibilité </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0098.001.md">T0098.001</a></td>
-<td>Create Inauthentic News Sites</td>
-<td>Create Inauthentic News Sites</td>
-<td>TA16</td>
+<td> <a href="techniques/t0098.md"> t0098 </a> </td>
+<TD> Établir des sites d'information inauthentiques </td>
+<TD> La propagande de calcul moderne utilise un cadre de sites d'information impartiaux se propageant à l'échelle mondiale.Ces sites, parfois motivés par des préoccupations autres que la propagande - par exemple, les revenus basés sur le clic - ont souvent des marqueurs superficiels d'authenticité, tels que la dénomination et la conception du site.Mais beaucoup peuvent être rapidement exposés en référence à leur owenership, à l'historique des rapports et à des détails d'adverstisation. </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0098.002.md">T0098.002</a></td>
-<td>Leverage Existing Inauthentic News Sites</td>
-<td>Leverage Existing Inauthentic News Sites</td>
-<td>TA16</td>
+<td> <a href="techniques/t0098.001.md"> T0098.001 </a> </td>
+<TD> Créer des sites d'information inauthentiques </td>
+<TD> Créer des sites d'information inauthentiques </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0099.md">T0099</a></td>
-<td>Prepare Assets Impersonating Legitimate Entities</td>
-<td>An influence operation may prepare assets impersonating legitimate entities to further conceal its network identity and add a layer of legitimacy to its operation content. Users will more likely believe and less likely fact-check news from recognisable sources rather than unknown sites. Legitimate entities may include authentic news outlets, public figures, organisations, or state entities. An influence operation may use a wide variety of cyber techniques to impersonate a legitimate entity’s website or social media account. Typosquatting87 is the international registration of a domain name with purposeful variations of the impersonated domain name through intentional typos, top-level domain (TLD) manipulation, or punycode. Typosquatting facilitates the creation of falsified websites by creating similar domain names in the URL box, leaving it to the user to confirm that the URL is correct.</td>
-<td>TA16</td>
+<td> <a href="techniques/t0098.002.md"> T0098.002 </a> </td>
+<TD> Tirez parti des sites d'information inauthentiques existants </td><TD> Tirez parti des sites d'information inauthentiques existants </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0099.001.md">T0099.001</a></td>
-<td>Astroturfing</td>
-<td>Astroturfing occurs when an influence operation disguises itself as grassroots movement or organisation that supports operation narratives. Unlike butterfly attacks, astroturfing aims to increase the appearance of popular support for the operation cause and does not infiltrate existing groups to discredit their objectives.</td>
-<td>TA16</td>
+<td> <a href="techniques/t0099.md"> t0099 </a> </td>
+<TD> Préparer les actifs imitants entités légitimes </td><TD> Une opération d'influence peut préparer les actifs qui se font l'identité d'entités légitimes pour cacher davantage son identité de réseau et ajouter une couche de légitimité à son contenu d'opération.Les utilisateurs croiront plus probablement et moins probablement la vérification des sources reconnaissables plutôt que des sites inconnus.Les entités légitimes peuvent inclure des médias authentiques, des personnalités publiques, des organisations ou des entités étatiques.Une opération d'influence peut utiliser une grande variété de cyber-techniques pour usurper l'identité d'un site Web ou d'un compte de médias sociaux d'une entité légitime.Typosquatting87 est l'enregistrement international d'un nom de domaine avec des variations ciblées du nom de domaine impurné par des fautes de frappe intentionnelles, une manipulation de domaine de haut niveau (TLD) ou du punycode.La typosquat facilite la création de sites Web falsifiés en créant des noms de domaine similaires dans la zone URL, laissant à l'utilisateur pour confirmer que l'URL est correcte. </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0099.002.md">T0099.002</a></td>
-<td>Spoof/Parody Account/Site</td>
-<td>An influence operation may prepare assets impersonating legitimate entities to further conceal its network identity and add a layer of legitimacy to its operation content. Users will more likely believe and less likely fact-check news from recognisable sources rather than unknown sites. Legitimate entities may include authentic news outlets, public figures, organisations, or state entities.</td>
-<td>TA16</td>
+<td> <a href="techniques/t0099.001.md"> t0099.001 </a> </td><td> astroturfing </td>
+<TD> Astroturfing se produit lorsqu'une opération d'influence se déguise en mouvement ou organisation de base qui soutient les récits d'opération.Contrairement aux attaques de papillons, Astroturfing vise à augmenter l'apparition d'un soutien populaire pour la cause de l'opération et n'infiltre pas les groupes existants pour discréditer leurs objectifs. </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0100.md">T0100</a></td>
-<td>Co-Opt Trusted Sources</td>
-<td>An influence operation may co-opt trusted sources by infiltrating or repurposing a source to reach a target audience through existing, previously reliable networks. Co-opted trusted sources may include: - National or local new outlets - Research or academic publications - Online blogs or websites</td>
-<td>TA16</td>
+<td> <a href="techniques/t0099.002.md"> T0099.002 </a> </td>
+<TD> Compte d'assistance / parodie / Site </td>
+<TD> Une opération d'influence peut préparer les actifs qui se font l'identité d'entités légitimes pour cacher davantage son identité de réseau et ajouter une couche de légitimité à son contenu d'opération.Les utilisateurs croiront plus probablement et moins probablement la vérification des sources reconnaissables plutôt que des sites inconnus.Les entités légitimes peuvent inclure des médias authentiques, des personnalités publiques, des organisations ou des entités étatiques. </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0100.001.md">T0100.001</a></td>
-<td>Co-Opt Trusted Individuals</td>
-<td>Co-Opt Trusted Individuals</td>
-<td>TA16</td>
+<td> <a href="techniques/t0100.md"> T0100 </a> </td>
+<TD> Sources de confiance coopt </td><TD> Une opération d'influence peut coopt les sources de confiance en infiltrant ou en réutilisant une source pour atteindre un public cible via des réseaux existants et précédemment fiables.Les sources de confiance cooptées peuvent inclure: - Nouveaux points de vente nationaux ou locaux - Recherche ou publications académiques - Blogs ou sites Web en ligne </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0100.002.md">T0100.002</a></td>
-<td>Co-Opt Grassroots Groups</td>
-<td>Co-Opt Grassroots Groups</td>
-<td>TA16</td>
+<td> <a href="techniques/t0100.001.md"> T0100.001 </a> </td>
+<TD> Individus de confiance coopt </td>
+<TD> Individus de confiance coopt </td>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0100.003.md">T0100.003</a></td>
-<td>Co-Opt Influencers</td>
-<td>Co-opt Influencers</td>
-<td>TA16</td>
+<td> <a href="techniques/t0100.002.md"> T0100.002 </a> </td>
+<TD> COOPT GRASSOOTS GROUPS </TD>
+<TD> COOPT GRASSOOTS GROUPS </TD>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0101.md">T0101</a></td>
-<td>Create Localised Content</td>
-<td>Localised content refers to content that appeals to a specific community of individuals, often in defined geographic areas. An operation may create localised content using local language and dialects to resonate with its target audience and blend in with other local news and social media. Localised content may help an operation increase legitimacy, avoid detection, and complicate external attribution.</td>
-<td>TA05</td>
+<td> <a href="techniques/t0100.003.md"> T0100.003 </a> </td>
+<TD> COO-OPT INFLIGNERS </TD>
+<TD> COO-OPT INFLIGNERS </TD>
+<TD> TA16 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0102.md">T0102</a></td>
-<td>Leverage Echo Chambers/Filter Bubbles</td>
-<td>An echo chamber refers to an internet subgroup, often along ideological lines, where individuals only engage with “others with which they are already in agreement.” A filter bubble refers to an algorithm's placement of an individual in content that they agree with or regularly engage with, possibly entrapping the user into a bubble of their own making. An operation may create these isolated areas of the internet by match existing groups, or aggregating individuals into a single target audience based on shared interests, politics, values, demographics, and other characteristics. Echo chambers and filter bubbles help to reinforce similar biases and content to the same target audience members.</td>
-<td>TA05</td>
+<td> <a href="techniques/t0101.md"> T0101 </a> </td>
+<TD> Créer du contenu localisé </td><TD> Le contenu localisé fait référence au contenu qui fait appel à une communauté spécifique de personnes, souvent dans des zones géographiques définies.Une opération peut créer du contenu localisé à l'aide de la langue locale et des dialectes pour résonner avec son public cible et se fondre dans d'autres nouvelles locales et médias sociaux.Le contenu localisé peut aider une opération à augmenter la légitimité, à éviter la détection et à compliquer l'attribution externe. </td>
+<TD> TA05 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0102.001.md">T0102.001</a></td>
-<td>Use Existing Echo Chambers/Filter Bubbles</td>
-<td>Use existing Echo Chambers/Filter Bubbles</td>
-<td>TA05</td>
+<td> <a href="techniques/t0102.md"> T0102 </a> </td>
+<TD> Tirez en danger les chambres d'écho / bulles de filtre </td><TD> Une chambre d'écho fait référence à un sous-groupe Internet, souvent selon des lignes idéologiques, où les individus ne s'engagent qu'avec «les autres avec lesquels ils sont déjà d'accord».Une bulle de filtre fait référence au placement par un algorithme d'un individu dans le contenu avec lequel il s'accorde ou à s'engager régulièrement, en piégeant éventuellement l'utilisateur dans une bulle de sa propre fabrication.Une opération peut créer ces zones isolées d'Internet en faisant correspondre les groupes existants ou en agrégeant les individus en un seul public cible basé sur des intérêts, des valeurs, des valeurs, des données démographiques et d'autres caractéristiques partagées.Les chambres d'écho et les bulles de filtre aident à renforcer les biais et le contenu similaires aux mêmes membres du public cible. </td>
+<TD> TA05 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0102.002.md">T0102.002</a></td>
-<td>Create Echo Chambers/Filter Bubbles</td>
-<td>Create Echo Chambers/Filter Bubbles</td>
-<td>TA05</td>
+<td> <a href="techniques/t0102.001.md"> T0102.001 </a> </td>
+<TD> Utilisez des chambres d'écho / bulles de filtre existantes </td>
+<TD> Utilisez des chambres d'écho / bulles de filtre existantes </td>
+<TD> TA05 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0102.003.md">T0102.003</a></td>
-<td>Exploit Data Voids</td>
-<td>A data void refers to a word or phrase that results in little, manipulative, or low-quality search engine data. Data voids are hard to detect and relatively harmless until exploited by an entity aiming to quickly proliferate false or misleading information during a phenomenon that causes a high number of individuals to query the term or phrase. In the Plan phase, an influence operation may identify data voids for later exploitation in the operation. A 2019 report by Michael Golebiewski identifies five types of data voids. (1) “Breaking news” data voids occur when a keyword gains popularity during a short period of time, allowing an influence operation to publish false content before legitimate news outlets have an opportunity to publish relevant information. (2) An influence operation may create a “strategic new terms” data void by creating their own terms and publishing information online before promoting their keyword to the target audience. (3) An influence operation may publish content on “outdated terms” that have decreased in popularity, capitalising on most search engines’ preferences for recency. (4) “Fragmented concepts” data voids separate connections between similar ideas, isolating segment queries to distinct search engine results. (5) An influence operation may use “problematic queries” that previously resulted in disturbing or inappropriate content to promote messaging until mainstream media recontextualizes the term.</td>
-<td>TA05</td>
+<td> <a href="techniques/t0102.002.md"> T0102.002 </a> </td><TD> Créer des chambres d'écho / bulles de filtre </td>
+<TD> Créer des chambres d'écho / bulles de filtre </td>
+<TD> TA05 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0103.md">T0103</a></td>
-<td>Livestream</td>
-<td>A livestream refers to an online broadcast capability that allows for real-time communication to closed or open networks.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0102.003.md"> T0102.003 </a> </td>
+<TD> Exploiter les vides des données </td><TD> Un vide de données fait référence à un mot ou à une phrase qui se traduit par des données de moteur de recherche peu, manipulateur ou de faible qualité.Les vides des données sont difficiles à détecter et relativement inoffensifs jusqu'à exploiter par une entité visant à proliférer rapidement des informations fausses ou trompeuses pendant un phénomène qui fait que un nombre élevé d'individus interroge le terme ou la phrase.Dans la phase du plan, une opération d'influence peut identifier les vides de données pour une exploitation ultérieure dans l'opération.Un rapport de 2019 de Michael Golebiewski identifie cinq types de vides de données.(1) Les vides de données «Breaking News» se produisent lorsqu'un mot-clé gagne en popularité pendant une courte période, permettant à une opération d'influence de publier un faux contenu avant que les médias légitimes n'aient la possibilité de publier des informations pertinentes.(2) Une opération d'influence peut créer des données «de nouveaux termes stratégiques» vides en créant leurs propres termes et en publiant des informations en ligne avant de promouvoir leur mot-clé au public cible.(3) Une opération d'influence peut publier du contenu sur des «termes obsolètes» qui ont diminué en popularité, capitalisant sur la plupart des préférences de récence des moteurs de recherche.(4) Les données «concepts fragmentées» vides les connexions séparées entre des idées similaires, isolant les requêtes de segment aux résultats distincts des moteurs de recherche.(5) Une opération d'influence peut utiliser des «requêtes problématiques» qui entraînaient auparavant un contenu dérangeant ou inapproprié pour promouvoir la messagerie jusqu'à ce que les médias grand public recontextualisent le terme. </td><TD> TA05 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0103.001.md">T0103.001</a></td>
-<td>Video Livestream</td>
-<td>A video livestream refers to an online video broadcast capability that allows for real-time communication to closed or open networks.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0103.md"> T0103 </a> </td>
+<TD> Livestream </td>
+<TD> Un livestream fait référence à une capacité de diffusion en ligne qui permet à la communication en temps réel de fermer ou d'ouvrir les réseaux. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0103.002.md">T0103.002</a></td>
-<td>Audio Livestream</td>
-<td>An audio livestream refers to an online audio broadcast capability that allows for real-time communication to closed or open networks.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0103.001.md"> T0103.001 </a> </td>
+<TD> Video Livestream </TD>
+<TD> Une vidéo vidéo fait référence à une capacité de diffusion vidéo en ligne qui permet à la communication en temps réel de fermer ou d'ouvrir les réseaux. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0104.md">T0104</a></td>
-<td>Social Networks</td>
-<td>Social media are interactive digital channels that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0103.002.md"> T0103.002 </a> </td>
+<TD> AUDIO LIVESTREAM </TD>
+<TD> Un livestream audio fait référence à une capacité de diffusion audio en ligne qui permet à la communication en temps réel de fermer ou d'ouvrir les réseaux. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0104.001.md">T0104.001</a></td>
-<td>Mainstream Social Networks</td>
-<td>Examples include Facebook, Twitter, LinkedIn, etc.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0104.md"> T0104 </a> </td>
+<TD> Réseaux sociaux </td><TD> Les médias sociaux sont des canaux numériques interactifs qui facilitent la création et le partage d'informations, d'idées, d'intérêts et d'autres formes d'expression à travers des communautés et des réseaux virtuels. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0104.002.md">T0104.002</a></td>
-<td>Dating Apps</td>
-<td>Dating Apps</td>
-<td>TA07</td>
+<td> <a href="techniques/t0104.001.md"> T0104.001 </a> </td>
+<TD> Réseaux sociaux traditionnels </td>
+<TD> Les exemples incluent Facebook, Twitter, LinkedIn, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0104.003.md">T0104.003</a></td>
-<td>Private/Closed Social Networks</td>
-<td>Social networks that are not open to people outside of family, friends, neighbours, or co-workers. Non-work-related examples include Couple, FamilyWall, 23snaps, and Nextdoor.  Some of the larger social network platforms enable closed communities: examples are Instagram Close Friends and Twitter (X) Circle. Work-related examples of private social networks include LinkedIn, Facebook Workplace, and enterprise communication platforms such as Slack or Microsoft Teams.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0104.002.md"> T0104.002 </a> </td>
+<TD> Applications de datation </td>
+<TD> Applications de datation </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0104.004.md">T0104.004</a></td>
-<td>Interest-Based Networks</td>
-<td>Examples include smaller and niche networks including Gettr, Truth Social, Parler, etc.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0104.003.md"> T0104.003 </a> </td>
+<TD> Réseaux sociaux privés / fermés </td><TD> Réseaux sociaux qui ne sont pas ouverts aux personnes en dehors de la famille, des amis, des voisins ou des collègues.Les exemples non liés au travail incluent le couple, la famille Family, 23SNAPS et NextDoor.Certaines des plus grandes plateformes de réseaux sociaux permettent des communautés fermées: les exemples sont les amis proches Instagram et le cercle Twitter (x).Des exemples de réseaux sociaux privés liés au travail incluent LinkedIn, Facebook Workplace et les plateformes de communication d'entreprise telles que les équipes Slack ou Microsoft. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0104.005.md">T0104.005</a></td>
-<td>Use Hashtags</td>
-<td>Use a dedicated, existing hashtag for the campaign/incident.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0104.004.md"> T0104.004 </a> </td>
+<TD> Réseaux basés sur les intérêts </td>
+<TD> Les exemples incluent des réseaux plus petits et de niche, notamment Gettr, Truth Social, Parler, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0104.006.md">T0104.006</a></td>
-<td>Create Dedicated Hashtag</td>
-<td>Create a campaign/incident specific hashtag.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0104.005.md"> T0104.005 </a> </td>
+<TD> Utilisez des hashtags </td>
+<TD> Utilisez un hashtag dédié et existant pour la campagne / incident. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0105.md">T0105</a></td>
-<td>Media Sharing Networks</td>
-<td>Media sharing networks refer to services whose primary function is the hosting and sharing of specific forms of media. Examples include Instagram, Snapchat, TikTok, Youtube, SoundCloud.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0104.006.md"> T0104.006 </a> </td>
+<TD> Créer des hashtag dédiés </td><TD> Créez un hashtag spécifique à la campagne / incident. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0105.001.md">T0105.001</a></td>
-<td>Photo Sharing</td>
-<td>Examples include Instagram, Snapchat, Flickr, etc</td>
-<td>TA07</td>
+<td> <a href="techniques/t0105.md"> T0105 </a> </td>
+<TD> Réseaux de partage de médias </td>
+<TD> Les réseaux de partage de médias se réfèrent aux services dont la fonction principale est l'hébergement et le partage de formes spécifiques de médias.Les exemples incluent Instagram, Snapchat, Tiktok, YouTube, SoundCloud. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0105.002.md">T0105.002</a></td>
-<td>Video Sharing</td>
-<td>Examples include Youtube, TikTok, ShareChat, Rumble, etc</td>
-<td>TA07</td>
+<td> <a href="techniques/t0105.001.md"> T0105.001 </a> </td>
+<TD> Partage de photos </td>
+<TD> Les exemples incluent Instagram, Snapchat, Flickr, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0105.003.md">T0105.003</a></td>
-<td>Audio Sharing</td>
-<td>Examples include podcasting apps, Soundcloud, etc.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0105.002.md"> T0105.002 </a> </td>
+<TD> Partage vidéo </td>
+<TD> Les exemples incluent YouTube, Tiktok, Sharechat, Rumble, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0106.md">T0106</a></td>
-<td>Discussion Forums</td>
-<td>Platforms for finding, discussing, and sharing information and opinions. Examples include Reddit, Quora, Digg, message boards, interest-based discussion forums, etc.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0105.003.md"> T0105.003 </a> </td>
+<TD> Partage audio </td>
+<TD> Les exemples incluent des applications de podcasting, SoundCloud, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0106.001.md">T0106.001</a></td>
-<td>Anonymous Message Boards</td>
-<td>Examples include the Chans</td>
-<td>TA07</td>
+<td> <a href="techniques/t0106.md"> T0106 </a> </td>
+<TD> Forums de discussion </td><TD> Plateformes pour trouver, discuter et partager des informations et des opinions.Les exemples incluent Reddit, Quora, Digg, les babillards électroniques, les forums de discussion basés sur les intérêts, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0107.md">T0107</a></td>
-<td>Bookmarking and Content Curation</td>
-<td>Platforms for searching, sharing, and curating content and media. Examples include Pinterest, Flipboard, etc.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0106.001.md"> T0106.001 </a> </td>
+<TD> Babillards de messages anonymes </td>
+<TD> Les exemples incluent les Chans </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0108.md">T0108</a></td>
-<td>Blogging and Publishing Networks</td>
-<td>Examples include WordPress, Blogger, Weebly, Tumblr, Medium, etc.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0107.md"> T0107 </a> </td>
+<TD> Bookmarking and Content Curation </td>
+<TD> Plateformes pour la recherche, le partage et la conservation du contenu et des médias.Les exemples incluent Pinterest, Flipboard, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0109.md">T0109</a></td>
-<td>Consumer Review Networks</td>
-<td>Platforms for finding, reviewing, and sharing information about brands, products, services, restaurants, travel destinations, etc. Examples include Yelp, TripAdvisor, etc.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0108.md"> T0108 </a> </td>
+<TD> Blogging and Publishing Networks </td>
+<TD> Les exemples incluent WordPress, Blogger, Weebly, Tumblr, Medium, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0110.md">T0110</a></td>
-<td>Formal Diplomatic Channels</td>
-<td>Leveraging formal, traditional, diplomatic channels to communicate with foreign governments (written documents, meetings, summits, diplomatic visits, etc). This type of diplomacy is conducted by diplomats of one nation with diplomats and other officials of another nation or international organisation.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0109.md"> T0109 </a> </td>
+<TD> Réseaux d'examen des consommateurs </td><TD> Plateformes pour trouver, examiner et partager des informations sur les marques, les produits, les services, les restaurants, les destinations de voyage, etc. Les exemples incluent Yelp, TripAdvisor, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0111.md">T0111</a></td>
-<td>Traditional Media</td>
-<td>Examples include TV, Newspaper, Radio, etc.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0110.md"> T0110 </a> </td>
+<TD> canaux diplomatiques formels </td>
+<TD> Tirant des canaux formels, traditionnels et diplomatiques pour communiquer avec les gouvernements étrangers (documents écrits, réunions, sommets, visites diplomatiques, etc.).Ce type de diplomatie est dirigé par des diplomates d'une nation avec des diplomates et d'autres fonctionnaires d'une autre nation ou d'une organisation internationale. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0111.001.md">T0111.001</a></td>
-<td>TV</td>
-<td>TV</td>
-<td>TA07</td>
+<td> <a href="techniques/t0111.md"> T0111 </a> </td>
+<TD> Médias traditionnels </td>
+<TD> Les exemples incluent la télévision, le journal, la radio, etc. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0111.002.md">T0111.002</a></td>
-<td>Newspaper</td>
-<td>Newspaper</td>
-<td>TA07</td>
+<td> <a href="techniques/t0111.001.md"> T0111.001 </a> </td>
+<TD> TV </TD>
+<TD> TV </TD>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0111.003.md">T0111.003</a></td>
-<td>Radio</td>
-<td>Radio</td>
-<td>TA07</td>
-</tr>
+<td> <a href="techniques/t0111.002.md"> T0111.002 </a> </td>
+<TD> Journal </td>
+<TD> Journal </td>
+<TD> TA07 </TD></tr>
 <tr>
-<td><a href="techniques/T0112.md">T0112</a></td>
-<td>Email</td>
-<td>Delivering content and narratives via email. This can include using list management or high-value individually targeted messaging.</td>
-<td>TA07</td>
+<td> <a href="techniques/t0111.003.md"> T0111.003 </a> </td>
+<td> radio </td>
+<td> radio </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0113.md">T0113</a></td>
-<td>Employ Commercial Analytic Firms</td>
-<td>Commercial analytic firms collect data on target audience activities and evaluate the data to detect trends, such as content receiving high click-rates. An influence operation may employ commercial analytic firms to facilitate external collection on its target audience, complicating attribution efforts and better tailoring the content to audience preferences.</td>
-<td>TA08</td>
+<td> <a href="techniques/t0112.md"> T0112 </a> </td>
+<TD> Email </td>
+<TD> Fournir du contenu et des récits par e-mail.Cela peut inclure l'utilisation de la gestion de la liste ou de la messagerie ciblée individuellement de valeur individuelle. </td>
+<TD> TA07 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0114.md">T0114</a></td>
-<td>Deliver Ads</td>
-<td>Delivering content via any form of paid media or advertising.</td>
-<td>TA09</td>
+<td> <a href="techniques/t0113.md"> T0113 </a> </td>
+<TD> Emploie les sociétés d'analyse commerciale </td>
+<TD> Les entreprises analytiques commerciales collectent des données sur les activités du public cibles et évaluent les données pour détecter les tendances, telles que le contenu recevant des taux de clic élevés.Une opération d'influence peut utiliser des sociétés d'analyse commerciales pour faciliter la collecte externe sur son public cible, compliquer les efforts d'attribution et mieux adapter le contenu aux préférences d'audience. </td>
+<TD> TA08 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0114.001.md">T0114.001</a></td>
-<td>Social Media</td>
-<td>Social Media</td>
-<td>TA09</td>
+<td> <a href="techniques/t0114.md"> T0114 </a> </td>
+<TD> DIFORS ANS </TD>
+<TD> livrer du contenu via toute forme de médias payants ou de publicité. </td>
+<TD> TA09 </TD>
+</tr><tr>
+<td> <a href="techniques/t0114.001.md"> T0114.001 </a> </td>
+<TD> Médias sociaux </td>
+<TD> Médias sociaux </td>
+<TD> TA09 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0114.002.md">T0114.002</a></td>
-<td>Traditional Media</td>
-<td>Examples include TV, Radio, Newspaper, billboards</td>
-<td>TA09</td>
+<td> <a href="techniques/t0114.002.md"> T0114.002 </a> </td>
+<TD> Médias traditionnels </td>
+<TD> Les exemples incluent la télévision, la radio, les journaux, les panneaux d'affichage </td>
+<TD> TA09 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0115.md">T0115</a></td>
-<td>Post Content</td>
-<td>Delivering content by posting via owned media (assets that the operator controls).</td>
-<td>TA09</td>
+<td> <a href="techniques/t0115.md"> T0115 </a> </td>
+<TD> Publier le contenu </td>
+<TD> Livraison du contenu en publiant via des supports possédés (actifs que l'opérateur contrôle). </td>
+<TD> TA09 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0115.001.md">T0115.001</a></td>
-<td>Share Memes</td>
-<td>Memes are one of the most important single artefact types in all of computational propaganda. Memes in this framework denotes the narrow image-based definition. But that naming is no accident, as these items have most of the important properties of Dawkins' original conception as a self-replicating unit of culture. Memes pull together reference and commentary; image and narrative; emotion and message. Memes are a powerful tool and the heart of modern influence campaigns.</td>
-<td>TA09</td>
+<td> <a href="techniques/t0115.001.md"> T0115.001 </a> </td>
+<TD> Partagez des mèmes </td><TD> Les mèmes sont l'un des types d'artefacts les plus importants dans toute la propagande de calcul.Les mèmes de ce cadre désignent la définition étroite basée sur l'image.Mais cette dénomination n'est pas un accident, car ces éléments ont la plupart des propriétés importantes de la conception originale de Dawkins en tant qu'unité de culture auto-reproduite.Les mèmes rassemblent la référence et les commentaires;image et récit;émotion et message.Les mèmes sont un outil puissant et le cœur des campagnes d'influence moderne. </td>
+<TD> TA09 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0115.002.md">T0115.002</a></td>
-<td>Post Violative Content to Provoke Takedown and Backlash</td>
-<td>Post Violative Content to Provoke Takedown and Backlash.</td>
-<td>TA09</td>
+<td> <a href="techniques/t0115.002.md"> T0115.002 </a> </td>
+<TD> Post Contenu Violatif pour provoquer le retrait et les contrecoups </td>
+<TD> Post Contenu violant pour provoquer le retrait et les contrecoups. </td>
+<TD> TA09 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0115.003.md">T0115.003</a></td>
-<td>One-Way Direct Posting</td>
-<td>Direct posting refers to a method of posting content via a one-way messaging service, where the recipient cannot directly respond to the poster’s messaging. An influence operation may post directly to promote operation narratives to the target audience without allowing opportunities for fact-checking or disagreement, creating a false sense of support for the narrative.</td>
-<td>TA09</td>
+<td> <a href="techniques/t0115.003.md"> T0115.003 </a> </td>
+<TD> Publication directe unidirectionnelle </td><TD> La publication directe fait référence à une méthode de publication de contenu via un service de messagerie unidirectionnel, où le destinataire ne peut pas répondre directement à la messagerie de l'affiche.Une opération d'influence peut publier directement pour promouvoir les récits d'opération au public cible sans autoriser des opportunités de vérification des faits ou de désaccord, créant un faux sentiment de soutien au récit. </td>
+<TD> TA09 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0116.md">T0116</a></td>
-<td>Comment or Reply on Content</td>
-<td>Delivering content by replying or commenting via owned media (assets that the operator controls).</td>
-<td>TA09</td>
+<td> <a href="techniques/t0116.md"> T0116 </a> </td>
+<td> commenter ou répondre sur le contenu </td>
+<TD> livrer du contenu en répondant ou en commentant via des supports possédés (actifs que l'opérateur contrôle). </td>
+<TD> TA09 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0116.001.md">T0116.001</a></td>
-<td>Post Inauthentic Social Media Comment</td>
-<td>Use government-paid social media commenters, astroturfers, chat bots (programmed to reply to specific key words/hashtags) influence online conversations, product reviews, web-site comment forums.</td>
-<td>TA09</td>
+<td> <a href="techniques/t0116.001.md"> T0116.001 </a> </td>
+<TD> Post commentaire des médias sociaux inauthentiques </td>
+<TD> Utiliser les commentateurs des médias sociaux payés par le gouvernement, les astroturfers, les robots de chat (programmés pour répondre à des mots / hashtags clés spécifiques influencent les conversations en ligne, les critiques de produits, les forums de commentaires sur site Web. </td>
+<TD> TA09 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0117.md">T0117</a></td>
-<td>Attract Traditional Media</td>
-<td>Deliver content by attracting the attention of traditional media (earned media).</td>
-<td>TA09</td>
+<tr><td> <a href="techniques/t0117.md"> T0117 </a> </td>
+<TD> ATTRIGNER les médias traditionnels </td>
+<TD> Livrer du contenu en attirant l'attention des médias traditionnels (médias gagnés). </td>
+<TD> TA09 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0118.md">T0118</a></td>
-<td>Amplify Existing Narrative</td>
-<td>An influence operation may amplify existing narratives that align with its narratives to support operation objectives.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0118.md"> T0118 </a> </td>
+<TD> Amplifiez le récit existant </td>
+<TD> Une opération d'influence peut amplifier les récits existants qui s'alignent avec ses récits pour soutenir les objectifs de l'opération. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0119.md">T0119</a></td>
-<td>Cross-Posting</td>
-<td>Cross-posting refers to posting the same message to multiple internet discussions, social media platforms or accounts, or news groups at one time. An influence operation may post content online in multiple communities and platforms to increase the chances of content exposure to the target audience.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0119.md"> T0119 </a> </td>
+<TD> Cross-Posting </td>
+<TD> Cross-Posting fait référence à la publication du même message à plusieurs discussions sur Internet, plateformes de médias sociaux ou comptes ou groupes de presse à la fois.Une opération d'influence peut publier du contenu en ligne dans plusieurs communautés et plateformes pour augmenter les chances d'exposition du contenu au public cible. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0119.001.md">T0119.001</a></td>
-<td>Post across Groups</td>
-<td>An influence operation may post content across groups to spread narratives and content to new communities within the target audiences or to new target audiences.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0119.001.md"> T0119.001 </a> </td>
+<TD> Post entre les groupes </td><TD> Une opération d'influence peut publier du contenu entre les groupes pour diffuser des récits et du contenu à de nouvelles communautés au sein du public cible ou à de nouveaux publics cibles. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0119.002.md">T0119.002</a></td>
-<td>Post across Platform</td>
-<td>An influence operation may post content across platforms to spread narratives and content to new communities within the target audiences or to new target audiences. Posting across platforms can also remove opposition and context, helping the narrative spread with less opposition on the cross-posted platform.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0119.002.md"> T0119.002 </a> </td>
+<TD> Poster sur la plate-forme </td>
+<TD> Une opération d'influence peut publier du contenu sur toutes les plateformes pour diffuser des récits et du contenu vers de nouvelles communautés au sein du public cible ou à de nouveaux publics cibles.La publication sur les plateformes peut également supprimer l'opposition et le contexte, aidant le récit à se propager avec moins d'opposition sur la plate-forme croisée. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0119.003.md">T0119.003</a></td>
-<td>Post across Disciplines</td>
-<td>Post Across Disciplines</td>
-<td>TA17</td>
+<td> <a href="techniques/t0119.003.md"> T0119.003 </a> </td>
+<TD> Poster sur les disciplines </td>
+<TD> Poster sur les disciplines </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0120.md">T0120</a></td>
-<td>Incentivize Sharing</td>
-<td>Incentivizing content sharing refers to actions that encourage users to share content themselves, reducing the need for the operation itself to post and promote its own content.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0120.md"> T0120 </a> </td>
+<TD> INCISTIVISER PARTAGE </TD><TD> L'incitation au partage de contenu fait référence aux actions qui encouragent les utilisateurs à partager le contenu eux-mêmes, réduisant la nécessité pour l'opération elle-même de publier et de promouvoir son propre contenu. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0120.001.md">T0120.001</a></td>
-<td>Use Affiliate Marketing Programmes</td>
-<td>Use Affiliate Marketing Programmes</td>
-<td>TA17</td>
+<td> <a href="techniques/t0120.001.md"> T0120.001 </a> </td>
+<TD> Utiliser des programmes de marketing d'affiliation </td>
+<TD> Utiliser des programmes de marketing d'affiliation </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0120.002.md">T0120.002</a></td>
-<td>Use Contests and Prizes</td>
-<td>Use Contests and Prizes</td>
-<td>TA17</td>
+<td> <a href="techniques/t0120.002.md"> T0120.002 </a> </td>
+<TD> Utilisez des concours et des prix </td>
+<TD> Utilisez des concours et des prix </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0121.md">T0121</a></td>
-<td>Manipulate Platform Algorithm</td>
-<td>Manipulating a platform algorithm refers to conducting activity on a platform in a way that intentionally targets its underlying algorithm. After analysing a platform’s algorithm (see: Select Platforms), an influence operation may use a platform in a way that increases its content exposure, avoids content removal, or otherwise benefits the operation’s strategy. For example, an influence operation may use bots to amplify its posts so that the platform’s algorithm recognises engagement with operation content and further promotes the content on user timelines.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0121.md"> T0121 </a> </td>
+<TD> Manipuler l'algorithme de plate-forme </td><TD> La manipulation d'un algorithme de plate-forme fait référence à la conduite de l'activité sur une plate-forme d'une manière qui cible intentionnellement son algorithme sous-jacent.Après avoir analysé l'algorithme d'une plate-forme (voir: Select Plateformes), une opération d'influence peut utiliser une plate-forme d'une manière qui augmente l'exposition de son contenu, évite la suppression du contenu, ou profite autrement à la stratégie de l'opération.Par exemple, une opération d'influence peut utiliser des bots pour amplifier ses publications afin que l'algorithme de la plate-forme reconnaît l'engagement avec le contenu de l'opération et favorise davantage le contenu sur les délais. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0121.001.md">T0121.001</a></td>
-<td>Bypass Content Blocking</td>
-<td>Bypassing content blocking refers to actions taken to circumvent network security measures that prevent users from accessing certain servers, resources, or other online spheres. An influence operation may bypass content blocking to proliferate its content on restricted areas of the internet. Common strategies for bypassing content blocking include: - Altering IP addresses to avoid IP filtering - Using a Virtual Private Network (VPN) to avoid IP filtering - Using a Content Delivery Network (CDN) to avoid IP filtering - Enabling encryption to bypass packet inspection blocking - Manipulating text to avoid filtering by keywords - Posting content on multiple platforms to avoid platform-specific removals - Using local facilities or modified DNS servers to avoid DNS filtering</td>
-<td>TA17</td>
+<td> <a href="techniques/t0121.001.md"> T0121.001 </a> </td>
+<TD> Blocation de contenu de contournement </td><TD> Le contournement du blocage du contenu fait référence aux actions prises pour contourner les mesures de sécurité du réseau qui empêchent les utilisateurs d'accéder à certains serveurs, ressources ou autres sphères en ligne.Une opération d'influence peut contourner le blocage du contenu pour proliférer son contenu sur les zones restreintes d'Internet.Les stratégies courantes pour contourner le blocage du contenu incluent: - La modification des adresses IP pour éviter le filtrage IP - à l'aide d'un réseau privé virtuel (VPN) pour éviter le filtrage IP - à l'aide d'un réseau de livraison de contenu (CDN) pour éviter le filtrage IP - l'activation du cryptage pour contourner le blocage d'inspection des paquets- Manipuler le texte pour éviter le filtrage par des mots clés - publier du contenu sur plusieurs plates-formes pour éviter les éliminations spécifiques à la plate-forme - en utilisant des installations locales ou des serveurs DNS modifiés pour éviter le filtrage DNS </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0122.md">T0122</a></td>
-<td>Direct Users to Alternative Platforms</td>
-<td>Direct users to alternative platforms refers to encouraging users to move from the platform on which they initially viewed operation content and engage with content on alternate information channels, including separate social media channels and inauthentic websites. An operation may drive users to alternative platforms to diversify its information channels and ensure the target audience knows where to access operation content if the initial platform suspends, flags, or otherwise removes original operation assets and content.</td>
-<td>TA17</td>
+<td> <a href="techniques/t0122.md"> T0122 </a> </td>
+<TD> Diriger les utilisateurs vers des plates-formes alternatives </td><TD> Les utilisateurs directs vers des plates-formes alternatives se réfèrent à encourager les utilisateurs à passer de la plate-forme sur laquelle ils ont initialement visionné le contenu de l'opération et à s'engager avec le contenu sur des canaux d'information alternatifs, y compris les canaux de médias sociaux distincts et les sites Web inauthentiques.Une opération peut conduire les utilisateurs vers des plates-formes alternatives pour diversifier ses canaux d'information et s'assurer que le public cible sait où accéder au contenu de l'opération si la plate-forme initiale suspend, des indicateurs ou supprime autrement les actifs de fonctionnement et le contenu d'origine. </td>
+<TD> TA17 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0123.md">T0123</a></td>
-<td>Control Information Environment through Offensive Cyberspace Operations</td>
-<td>Controlling the information environment through offensive cyberspace operations uses cyber tools and techniques to alter the trajectory of content in the information space to either prioritise operation messaging or block opposition messaging.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0123.md"> T0123 </a> </td>
+<TD> Contrôler l'environnement par le biais des opérations de cyberespace offensive </td>
+<TD> Contrôle de l'environnement d'information grâce à des opérations de cyberespace offensive utilise des cyber outils et des techniques pour modifier la trajectoire du contenu dans l'espace d'information pour hiérarchiser la messagerie de l'opération ou bloquer la messagerie d'opposition. </td>
+<TD> TA18 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0123.001.md">T0123.001</a></td>
-<td>Delete Opposing Content</td>
-<td>Deleting opposing content refers to the removal of content that conflicts with operational narratives from selected platforms. An influence operation may delete opposing content to censor contradictory information from the target audience, allowing operation narratives to take priority in the information space.</td>
-<td>TA18</td>
+<tr><td> <a href="techniques/t0123.001.md"> T0123.001 </a> </td>
+<TD> Supprimer le contenu opposé </td>
+<TD> La suppression du contenu opposé fait référence à la suppression du contenu qui entre en conflit avec les récits opérationnels de plates-formes sélectionnées.Une opération d'influence peut supprimer le contenu opposé aux censureurs des informations contradictoires du public cible, permettant aux récits d'opération de prendre la priorité dans l'espace d'information. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0123.002.md">T0123.002</a></td>
-<td>Block Content</td>
-<td>Content blocking refers to actions taken to restrict internet access or render certain areas of the internet inaccessible. An influence operation may restrict content based on both network and content attributes.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0123.002.md"> T0123.002 </a> </td>
+<TD> Bloquer le contenu </td>
+<TD> Le blocage du contenu fait référence aux actions prises pour restreindre l'accès à Internet ou rendre certaines zones d'Internet inaccessibles.Une opération d'influence peut restreindre le contenu en fonction des attributs de réseau et de contenu. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0123.003.md">T0123.003</a></td>
-<td>Destroy Information Generation Capabilities</td>
-<td>Destroying information generation capabilities refers to actions taken to limit, degrade, or otherwise incapacitate an actor’s ability to generate conflicting information. An influence operation may destroy an actor’s information generation capabilities by physically dismantling the information infrastructure, disconnecting resources needed for information generation, or redirecting information generation personnel. An operation may destroy an adversary’s information generation capabilities to limit conflicting content exposure to the target audience and crowd the information space with its own narratives.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0123.003.md"> T0123.003 </a> </td>
+<TD> Détruire les capacités de génération d'informations </td><TD> La destruction des capacités de génération d'informations fait référence aux actions prises pour limiter, dégrader ou impacter autrement la capacité d'un acteur à générer des informations contradictoires.Une opération d'influence peut détruire les capacités de génération d'informations d'un acteur en démantant physiquement l'infrastructure d'information, en déconnectant les ressources nécessaires à la génération d'informations ou en redirigeant le personnel de génération d'informations.Une opération peut détruire les capacités de génération d'informations d'un adversaire pour limiter l'exposition conflictuelle au contenu au public cible et à fouiller l'espace d'information avec ses propres récits. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0123.004.md">T0123.004</a></td>
-<td>Conduct Server Redirect</td>
-<td>A server redirect, also known as a URL redirect, occurs when a server automatically forwards a user from one URL to another using server-side or client-side scripting languages. An influence operation may conduct a server redirect to divert target audience members from one website to another without their knowledge. The redirected website may pose as a legitimate source, host malware, or otherwise aid operation objectives.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0123.004.md"> T0123.004 </a> </td>
+<TD> Conduisez la redirection du serveur </td><TD> Une redirection de serveur, également connue sous le nom de redirection URL, se produit lorsqu'un serveur transfère automatiquement un utilisateur d'une URL vers un autre en utilisant les langages de script côté serveur ou côté client.Une opération d'influence peut effectuer une redirection de serveur pour détourner les membres du public cible d'un site Web à un autre à leur insu.Le site Web redirigé peut présenter une source légitime, un logiciel malveillant hôte ou autrement des objectifs d'opération. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0124.md">T0124</a></td>
-<td>Suppress Opposition</td>
-<td>Operators can suppress the opposition by exploiting platform content moderation tools and processes like reporting non-violative content to platforms for takedown and goading opposition actors into taking actions that result in platform action or target audience disapproval.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0124.md"> T0124 </a> </td>
+<TD> supprimer l'opposition </td>
+Les opérateurs <TD> peuvent supprimer l'opposition en exploitant des outils et des processus de modération de contenu de la plate-forme tels que la signalement du contenu non violant aux plateformes de retrait et de coupure des acteurs de l'opposition à prendre des mesures qui entraînent une action de la plate-forme ou une désapprobation du public cible. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0124.001.md">T0124.001</a></td>
-<td>Report Non-Violative Opposing Content</td>
-<td>Reporting opposing content refers to notifying and providing an instance of a violation of a platform’s guidelines and policies for conduct on the platform. In addition to simply reporting the content, an operation may leverage copyright regulations to trick social media and web platforms into removing opposing content by manipulating the content to appear in violation of copyright laws. Reporting opposing content facilitates the suppression of contradictory information and allows operation narratives to take priority in the information space.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0124.001.md"> T0124.001 </a> </td>
+<TD> Signaler un contenu opposé non violent </td><TD> Les rapports de contenu opposé se réfèrent à la notification et à la fourniture d'une violation des directives et des politiques de plateforme d'une plate-forme sur la plate-forme.En plus de simplement signaler le contenu, une opération peut tirer parti des réglementations sur le droit d'auteur pour inciter les médias sociaux et les plateformes Web pour supprimer le contenu opposé en manipulant le contenu pour violer les lois sur le droit d'auteur.Le signalement de contenu opposé facilite la suppression des informations contradictoires et permet aux récits d'opération de prendre la priorité dans l'espace d'information. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0124.002.md">T0124.002</a></td>
-<td>Goad People into Harmful Action (Stop Hitting Yourself)</td>
-<td>Goad people into actions that violate terms of service or will lead to having their content or accounts taken down.</td>
-<td>TA18</td>
+<td> <a href="techniques/t0124.002.md"> T0124.002 </a> </td>
+<TD> Les gens aiment une action nuisible (arrêtez de vous frapper) </td>
+<TD> Efforcez les personnes dans des actions qui violent les conditions d'utilisation ou conduiront à la démonstration de leur contenu ou de leur compte. </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0124.003.md">T0124.003</a></td>
-<td>Exploit Platform TOS/Content Moderation</td>
-<td>Exploit Platform TOS/Content Moderation</td>
-<td>TA18</td>
+<td> <a href="techniques/t0124.003.md"> T0124.003 </a> </td>
+<TD> Exploiter la plate-forme TOS / Modelation de contenu </td><TD> Exploiter la plate-forme TOS / Modelation de contenu </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0125.md">T0125</a></td>
-<td>Platform Filtering</td>
-<td>Platform filtering refers to the decontextualization of information as claims cross platforms (from Joan Donovan https://www.hks.harvard.edu/publications/disinformation-design-use-evidence-collages-and-platform-filtering-media-manipulation)</td>
-<td>TA18</td>
+<td> <a href="techniques/t0125.md"> T0125 </a> </td>
+<TD> Filtrage de plate-forme </td>
+<TD> Le filtrage de la plate-forme se réfère à la décontextualisation des informations comme réclame les plateformes transversales (de Joan Donovan https://www.hks.harvard.edu/publications/disinformation-design-use-évidence-collages-and-platform-filtering-media-Manipulation) </td>
+<TD> TA18 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0126.md">T0126</a></td>
-<td>Encourage Attendance at Events</td>
-<td>Operation encourages attendance at existing real world event.</td>
-<td>TA10</td>
+<td> <a href="techniques/t0126.md"> T0126 </a> </td>
+<TD> Encourager la fréquentation lors des événements </td>
+<TD> L'opération encourage la fréquentation lors de l'événement réel existant. </td>
+<TD> TA10 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0126.001.md">T0126.001</a></td>
-<td>Call to Action to Attend</td>
-<td>Call to action to attend an event</td>
-<td>TA10</td>
+<td> <a href="techniques/t0126.001.md"> T0126.001 </a> </td>
+<TD> Appel à l'action pour assister à </td>
+<TD> Appel à l'action pour assister à un événement </td>
+<TD> TA10 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0126.002.md">T0126.002</a></td>
-<td>Facilitate Logistics or Support for Attendance</td>
-<td>Facilitate logistics or support for travel, food, housing, etc.</td>
-<td>TA10</td>
+<td> <a href="techniques/t0126.002.md"> T0126.002 </a> </td>
+<TD> Faciliter la logistique ou le soutien à la fréquentation </td>
+<TD> Faciliter la logistique ou le soutien aux voyages, à la nourriture, au logement, etc. </td>
+<TD> TA10 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0127.md">T0127</a></td>
-<td>Physical Violence</td>
-<td>Physical violence refers to the use of force to injure, abuse, damage, or destroy. An influence operation may conduct or encourage physical violence to discourage opponents from promoting conflicting content or draw attention to operation narratives using shock value.</td>
-<td>TA10</td>
+<tr><td> <a href="techniques/t0127.md"> T0127 </a> </td>
+<TD> Violence physique </td>
+<TD> La violence physique fait référence à l'utilisation de la force pour blesser, abuser, endommager ou détruire.Une opération d'influence peut mener ou encourager la violence physique à décourager les adversaires de promouvoir le contenu conflictuel ou d'attirer l'attention sur les récits d'opération en utilisant la valeur du choc. </td>
+<TD> TA10 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0127.001.md">T0127.001</a></td>
-<td>Conduct Physical Violence</td>
-<td>An influence operation may directly Conduct Physical Violence to achieve campaign goals.</td>
-<td>TA10</td>
+<td> <a href="techniques/t0127.001.md"> T0127.001 </a> </td>
+<TD> Effectuer une violence physique </td>
+<TD> Une opération d'influence peut procéder directement à la violence physique pour atteindre les objectifs de la campagne. </td>
+<TD> TA10 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0127.002.md">T0127.002</a></td>
-<td>Encourage Physical Violence</td>
-<td>An influence operation may Encourage others to engage in Physical Violence to achieve campaign goals.</td>
-<td>TA10</td>
+<td> <a href="techniques/t0127.002.md"> T0127.002 </a> </td>
+<TD> Encourager la violence physique </td>
+<TD> Une opération d'influence peut encourager les autres à s'engager dans la violence physique pour atteindre les objectifs de la campagne. </td>
+<TD> TA10 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0128.md">T0128</a></td>
-<td>Conceal Information Assets</td>
-<td>Conceal the identity or provenance of campaign information assets such as accounts, channels, pages etc. to avoid takedown and attribution.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0128.md"> T0128 </a> </td>
+<TD> Cachez les actifs d'information </td><TD> Cachez l'identité ou la provenance des actifs d'information de campagne tels que les comptes, les canaux, les pages, etc. pour éviter le retrait et l'attribution. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0128.001.md">T0128.001</a></td>
-<td>Use Pseudonyms</td>
-<td>An operation may use pseudonyms, or fake names, to mask the identity of operational accounts, channels, pages etc., publish anonymous content, or otherwise use falsified personas to conceal the identity of the operation. An operation may coordinate pseudonyms across multiple platforms, for example, by writing an article under a pseudonym and then posting a link to the article on social media on an account, channel, or page with the same falsified name.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0128.001.md"> T0128.001 </a> </td>
+<TD> Utilisez des pseudonymes </td>
+<TD> Une opération peut utiliser des pseudonymes, ou de faux noms, pour masquer l'identité des comptes opérationnels, des canaux, des pages, etc., publier du contenu anonyme ou autrement utiliser des personnages falsifiés pour cacher l'identité de l'opération.Une opération peut coordonner les pseudonymes sur plusieurs plateformes, par exemple, en écrivant un article sous un pseudonyme, puis en publiant un lien vers l'article sur les réseaux sociaux sur un compte, un canal ou une page avec le même nom falsifié. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0128.002.md">T0128.002</a></td>
-<td>Conceal Network Identity</td>
-<td>Concealing network identity aims to hide the existence an influence operation’s network completely. Unlike concealing sponsorship, concealing network identity denies the existence of any sort of organisation.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0128.002.md"> T0128.002 </a> </td>
+<TD> Cachez l'identité du réseau </td><TD> La dissimulation de l'identité du réseau vise à masquer complètement l'existence d'un réseau de l'opération d'influence.Contrairement à la dissimulation du parrainage, la dissimulation de l'identité du réseau nie l'existence de toute sorte d'organisation. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0128.003.md">T0128.003</a></td>
-<td>Distance Reputable Individuals from Operation</td>
-<td>Distancing reputable individuals from the operation occurs when enlisted individuals, such as celebrities or subject matter experts, actively disengage themselves from operation activities and messaging. Individuals may distance themselves from the operation by deleting old posts or statements, unfollowing operation information assets, or otherwise detaching themselves from the operation’s timeline. An influence operation may want reputable individuals to distance themselves from the operation to reduce operation exposure, particularly if the operation aims to remove all evidence.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0128.003.md"> T0128.003 </a> </td>
+<TD> Distance des individus réputés de l'opération </td>
+<TD> Les individus réputés de la distanciation de l'opération se produisent lorsque des individus enrôlés, tels que des célébrités ou des experts en la matière, se désengagent activement des activités d'opération et de la messagerie.Les individus peuvent se distancier de l'opération en supprimant les anciens postes ou déclarations, en déshabillant les actifs d'informations sur l'opération ou en se détachant autrement du calendrier de l'opération.Une opération d'influence peut vouloir que les individus réputés se distancent de l'opération pour réduire l'exposition aux opérations, en particulier si l'opération vise à supprimer toutes les preuves. </td>
+<TD> TA11 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0128.004.md">T0128.004</a></td>
-<td>Launder Information Assets</td>
-<td>Laundering occurs when an influence operation acquires control of previously legitimate information assets such as accounts, channels, pages etc. from third parties through sale or exchange and often in contravention of terms of use. Influence operations use laundered assets to reach target audience members from within an existing information community and to complicate attribution.</td>
-<td>TA11</td>
+<tr><td> <a href="techniques/t0128.004.md"> T0128.004 </a> </td>
+<TD> Launter les actifs d'information </td>
+Le blanchiment <TD> se produit lorsqu'une opération d'influence acquiert le contrôle des actifs d'information précédemment légitimes tels que les comptes, les canaux, les pages, etc. à partir de tiers à la vente ou à l'échange et souvent en violation des termes d'utilisation.Les opérations influencent utilisent des actifs blanchis pour atteindre les membres du public cibles à partir d'une communauté d'information existante et pour compliquer l'attribution. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0128.005.md">T0128.005</a></td>
-<td>Change Names of Information Assets</td>
-<td>Changing names or brand names of information assets such as accounts, channels, pages etc. An operation may change the names or brand names of its assets throughout an operation to avoid detection or alter the names of newly acquired or repurposed assets to fit operational narratives.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0128.005.md"> T0128.005 </a> </td>
+<TD> Modifier les noms des actifs d'information </td>
+<TD> Modification des noms ou des noms de marque des actifs d'information tels que des comptes, des canaux, des pages, etc.récits opérationnels. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.md">T0129</a></td>
-<td>Conceal Operational Activity</td>
-<td>Conceal the campaign's operational activity to avoid takedown and attribution.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.md"> T0129 </a> </td><TD> Cachez l'activité opérationnelle </td>
+<TD> Cachez l'activité opérationnelle de la campagne pour éviter le retrait et l'attribution. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.001.md">T0129.001</a></td>
-<td>Conceal Network Identity</td>
-<td>Concealing network identity aims to hide the existence an influence operation’s network completely. Unlike concealing sponsorship, concealing network identity denies the existence of any sort of organisation.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.001.md"> T0129.001 </a> </td>
+<TD> Cachez l'identité du réseau </td>
+<TD> La dissimulation de l'identité du réseau vise à masquer complètement l'existence d'un réseau de l'opération d'influence.Contrairement à la dissimulation du parrainage, la dissimulation de l'identité du réseau nie l'existence de toute sorte d'organisation. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.002.md">T0129.002</a></td>
-<td>Generate Content Unrelated to Narrative</td>
-<td>An influence operation may mix its own operation content with legitimate news or external unrelated content to disguise operational objectives, narratives, or existence. For example, an operation may generate "lifestyle" or "cuisine" content alongside regular operation content.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.002.md"> T0129.002 </a> </td>
+<TD> Générez du contenu sans rapport avec le récit </td>
+<TD> Une opération d'influence peut mélanger son propre contenu d'opération avec des nouvelles légitimes ou un contenu externe non lié à déguiser des objectifs opérationnels, des récits ou une existence.Par exemple, une opération peut générer du contenu "lifestyle" ou "cuisine" aux côtés du contenu de fonctionnement régulier. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.003.md">T0129.003</a></td>
-<td>Break Association with Content</td>
-<td>Breaking association with content occurs when an influence operation actively separates itself from its own content. An influence operation may break association with content by unfollowing, unliking, or unsharing its content, removing attribution from its content, or otherwise taking actions that distance the operation from its messaging. An influence operation may break association with its content to complicate attribution or regain credibility for a new operation.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.003.md"> T0129.003 </a> </td><TD> Break Association avec le contenu </td>
+<TD> L'association de rupture avec le contenu se produit lorsqu'une opération d'influence se sépare activement de son propre contenu.Une opération d'influence peut rompre l'association avec le contenu en désabonnement, en liant ou en déconsant son contenu, en supprimant l'attribution de son contenu, ou en prenant des mesures qui distribuent l'opération de sa messagerie.Une opération d'influence peut rompre l'association avec son contenu pour compliquer l'attribution ou retrouver la crédibilité pour une nouvelle opération. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.004.md">T0129.004</a></td>
-<td>Delete URLs</td>
-<td>URL deletion occurs when an influence operation completely removes its website registration, rendering the URL inaccessible. An influence operation may delete its URLs to complicate attribution or remove online documentation that the operation ever occurred.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.004.md"> T0129.004 </a> </td>
+<TD> Supprimer les URL </td>
+La suppression <TD> URL se produit lorsqu'une opération d'influence supprime complètement l'enregistrement de son site Web, ce qui rend l'URL inaccessible.Une opération d'influence peut supprimer ses URL pour compliquer l'attribution ou supprimer la documentation en ligne que l'opération s'est jamais produite. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.005.md">T0129.005</a></td>
-<td>Coordinate on Encrypted/Closed Networks</td>
-<td>Coordinate on encrypted/ closed networks</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.005.md"> T0129.005 </a> </td><TD> Coordonnées sur les réseaux cryptés / fermés </td>
+<TD> Coordonnées sur les réseaux cryptés / fermés </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.006.md">T0129.006</a></td>
-<td>Deny Involvement</td>
-<td>Without "smoking gun" proof (and even with proof), incident creator can or will deny involvement. This technique also leverages the attacker advantages outlined in "Demand insurmountable proof", specifically the asymmetric disadvantage for truth-tellers in a "firehose of misinformation" environment.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.006.md"> T0129.006 </a> </td>
+<TD> refuser l'implication </td>
+<TD> Sans "fumer des armes à feu" (et même avec preuve), le créateur d'incident peut ou niera la participation.Cette technique exploite également les avantages de l'attaquant décrits dans la "demande de preuve insurmontable", en particulier le désavantage asymétrique pour les éteintes de vérité dans un environnement "Firehose of Destroformation". </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.007.md">T0129.007</a></td>
-<td>Delete Accounts/Account Activity</td>
-<td>Deleting accounts and account activity occurs when an influence operation removes its online social media assets, including social media accounts, posts, likes, comments, and other online artefacts. An influence operation may delete its accounts and account activity to complicate attribution or remove online documentation that the operation ever occurred.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.007.md"> T0129.007 </a> </td>
+<TD> Supprimer les comptes / activité des comptes </td><TD> La suppression des comptes et l'activité des comptes se produit lorsqu'une opération d'influence supprime ses actifs de médias sociaux en ligne, y compris les comptes de médias sociaux, les publications, les goûts, les commentaires et autres artefacts en ligne.Une opération d'influence peut supprimer ses comptes et ses activités de comptes pour compliquer l'attribution ou supprimer la documentation en ligne selon laquelle l'opération s'est jamais produite. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.008.md">T0129.008</a></td>
-<td>Redirect URLs</td>
-<td>An influence operation may redirect its falsified or typosquatted URLs to legitimate websites to increase the operation's appearance of legitimacy, complicate attribution, and avoid detection.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.008.md"> T0129.008 </a> </td>
+<TD> Redirection URL </td>
+<TD> Une opération d'influence peut rediriger ses URL falsifiées ou typosquattées vers des sites Web légitimes pour augmenter l'apparence de la légitimité de l'opération, compliquer l'attribution et éviter la détection. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.009.md">T0129.009</a></td>
-<td>Remove Post Origins</td>
-<td>Removing post origins refers to the elimination of evidence that indicates the initial source of operation content, often to complicate attribution. An influence operation may remove post origins by deleting watermarks, renaming files, or removing embedded links in its content.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.009.md"> T0129.009 </a> </td>
+<TD> Supprimez les origines du post </td><TD> La suppression des origines du post fait référence à l'élimination des preuves qui indiquent la source initiale de contenu d'opération, souvent pour compliquer l'attribution.Une opération d'influence peut supprimer les origines du post en supprimant les filigranes, en renommant des fichiers ou en supprimant les liens intégrés dans son contenu. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0129.010.md">T0129.010</a></td>
-<td>Misattribute Activity</td>
-<td>Misattributed activity refers to incorrectly attributed operation activity. For example, a state sponsored influence operation may conduct operation activity in a way that mimics another state so that external entities misattribute activity to the incorrect state. An operation may misattribute their activities to complicate attribution, avoid detection, or frame an adversary for negative behaviour.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0129.010.md"> T0129.010 </a> </td>
+<TD> Misattribute Activity </td>
+<TD> L'activité mal attribuée fait référence à une activité d'opération mal attribuée.Par exemple, une opération d'influence parrainée par l'État peut mener une activité d'opération d'une manière qui imite un autre État afin que les entités externes attribuent une activité à l'état incorrect.Une opération peut maltraiter ses activités pour compliquer l'attribution, éviter la détection ou encadrer un adversaire pour un comportement négatif. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0130.md">T0130</a></td>
-<td>Conceal Infrastructure</td>
-<td>Conceal the campaign's infrastructure to avoid takedown and attribution.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0130.md"> T0130 </a> </td>
+<TD> Cachez l'infrastructure </td>
+<TD> Cachez l'infrastructure de la campagne pour éviter le retrait et l'attribution. </td><TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0130.001.md">T0130.001</a></td>
-<td>Conceal Sponsorship</td>
-<td>Concealing sponsorship aims to mislead or obscure the identity of the hidden sponsor behind an operation rather than entity publicly running the operation. Operations that conceal sponsorship may maintain visible falsified groups, news outlets, non-profits, or other organisations, but seek to mislead or obscure the identity sponsoring, funding, or otherwise supporting these entities. Influence operations may use a variety of techniques to mask the location of their social media accounts to complicate attribution and conceal evidence of foreign interference. Operation accounts may set their location to a false place, often the location of the operation’s target audience, and post in the region’s language</td>
-<td>TA11</td>
+<td> <a href="techniques/t0130.001.md"> T0130.001 </a> </td>
+<TD> Cachez le parrainage </td>
+<TD> La dissimulation du parrainage vise à induire en erreur ou à obscurcir l'identité du sponsor caché derrière une opération plutôt que une entité qui exécute publiquement l'opération.Les opérations qui cachent le parrainage peuvent maintenir des groupes falsifiés visibles, des médias, des organisations à but non lucratif ou d'autres organisations, mais cherchent à induire ou à obscurcir le parrainage, le financement ou le soutien de ces entités.Les opérations d'influence peuvent utiliser une variété de techniques pour masquer l'emplacement de leurs comptes de médias sociaux pour compliquer l'attribution et cacher des preuves d'ingérence étrangère.Les comptes d'opération peuvent définir leur emplacement sur un faux endroit, souvent l'emplacement du public cible de l'opération et publier dans la langue de la région </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0130.002.md">T0130.002</a></td>
-<td>Utilise Bulletproof Hosting</td>
-<td>Hosting refers to services through which storage and computing resources are provided to an individual or organisation for the accommodation and maintenance of one or more websites and related services. Services may include web hosting, file sharing, and email distribution. Bulletproof hosting refers to services provided by an entity, such as a domain hosting or web hosting firm, that allows its customer considerable leniency in use of the service. An influence operation may utilise bulletproof hosting to maintain continuity of service for suspicious, illegal, or disruptive operation activities that stricter hosting services would limit, report, or suspend.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0130.002.md"> T0130.002 </a> </td>
+<TD> Utiliser l'hébergement pare-balles </td><TD> L'hébergement fait référence aux services par lesquels les ressources de stockage et informatique sont fournies à un individu ou à une organisation pour l'adaptation et la maintenance d'un ou plusieurs sites Web et services connexes.Les services peuvent inclure l'hébergement Web, le partage de fichiers et la distribution des e-mails.L'hébergement pare-balles fait référence aux services fournis par une entité, comme une entreprise d'hébergement de domaine ou d'hébergement Web, qui permet à son client une clémence considérable dans l'utilisation du service.Une opération d'influence peut utiliser l'hébergement pare-balles pour maintenir la continuité du service pour des activités de fonctionnement suspectes, illégales ou perturbatrices que les services d'hébergement plus strictes limiteraient, signaleraient ou suspendent. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0130.003.md">T0130.003</a></td>
-<td>Use Shell Organisations</td>
-<td>Use Shell Organisations to conceal sponsorship.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0130.003.md"> T0130.003 </a> </td>
+<TD> Utilisez des organisations de shell </td>
+<TD> Utilisez des organisations Shell pour cacher le parrainage. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0130.004.md">T0130.004</a></td>
-<td>Use Cryptocurrency</td>
-<td>Use Cryptocurrency to conceal sponsorship. Examples include Bitcoin, Monero, and Etherium.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0130.004.md"> T0130.004 </a> </td>
+<TD> Utilisez la crypto-monnaie </td><TD> Utilisez la crypto-monnaie pour cacher le parrainage.Les exemples incluent Bitcoin, Monero et Etherium. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0130.005.md">T0130.005</a></td>
-<td>Obfuscate Payment</td>
-<td>Obfuscate Payment</td>
-<td>TA11</td>
+<td> <a href="techniques/t0130.005.md"> T0130.005 </a> </td>
+<TD> Obsurpation du paiement </td>
+<TD> Obsurpation du paiement </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0131.md">T0131</a></td>
-<td>Exploit TOS/Content Moderation</td>
-<td>Exploiting weaknesses in platforms' terms of service and content moderation policies to avoid takedowns and platform actions.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0131.md"> T0131 </a> </td>
+<TD> Exploiter la modération TOS / Contenu </td>
+<TD> Exploiter les faiblesses des termes d'utilisation des plateformes et des politiques de modération de contenu pour éviter les retraits et les actions de plate-forme. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0131.001.md">T0131.001</a></td>
-<td>Legacy Web Content</td>
-<td>Make incident content visible for a long time, e.g. by exploiting platform terms of service, or placing it where it's hard to remove or unlikely to be removed.</td>
-<td>TA11</td>
+<td> <a href="techniques/t0131.001.md"> T0131.001 </a> </td>
+<TD> Contenu Web hérité </td>
+<TD> rendre le contenu incident visible pendant longtemps, par ex.En exploitant les conditions d'utilisation de la plate-forme, ou en le plaçant là où il est difficile de supprimer ou peu susceptible d'être supprimé. </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0131.002.md">T0131.002</a></td>
-<td>Post Borderline Content</td>
-<td>Post Borderline Content</td>
-<td>TA11</td>
+<td> <a href="techniques/t0131.002.md"> T0131.002 </a> </td>
+<TD> Post Borderline Content </td>
+<TD> Post Borderline Content </td>
+<TD> TA11 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0132.md">T0132</a></td>
-<td>Measure Performance</td>
-<td>A metric used to determine the accomplishment of actions. “Are the actions being executed as planned?”</td>
-<td>TA12</td>
+<Td> <a href="techniques/t0132.md"> T0132 </a> </td><TD> Mesurer les performances </td>
+<TD> Une métrique utilisée pour déterminer l'accomplissement des actions.«Les actions sont-elles exécutées comme prévu?» </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0132.001.md">T0132.001</a></td>
-<td>People Focused</td>
-<td>Measure the performance individuals in achieving campaign goals</td>
-<td>TA12</td>
+<td> <a href="techniques/t0132.001.md"> T0132.001 </a> </td>
+<TD> Les gens ont concentré </td>
+<TD> Mesurez les individus de la performance à atteindre les objectifs de campagne </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0132.002.md">T0132.002</a></td>
-<td>Content Focused</td>
-<td>Measure the performance of campaign content</td>
-<td>TA12</td>
+<td> <a href="techniques/t0132.002.md"> T0132.002 </a> </td>
+<TD> Focus de contenu </td>
+<TD> Mesurez les performances du contenu de la campagne </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0132.003.md">T0132.003</a></td>
-<td>View Focused</td>
-<td>View Focused</td>
-<td>TA12</td>
+<td> <a href="techniques/t0132.003.md"> T0132.003 </a> </td>
+<TD> Afficher Focusd </td>
+<TD> Afficher Focusd </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0133.md">T0133</a></td>
-<td>Measure Effectiveness</td>
-<td>A metric used to measure a current system state. “Are we on track to achieve the intended new system state within the planned timescale?”</td>
-<td>TA12</td>
+<td> <a href="techniques/t0133.md"> T0133 </a> </td>
+<TD> Mesurer l'efficacité </td>
+<TD> Une métrique utilisée pour mesurer un état actuel du système.«Sommes-nous sur la bonne voie pour réaliser le nouvel état prévu dans le cadre de temps prévu?» </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0133.001.md">T0133.001</a></td>
-<td>Behaviour Changes</td>
-<td>Monitor and evaluate behaviour changes from misinformation incidents.</td>
-<td>TA12</td>
+<td> <a href="techniques/t0133.001.md"> T0133.001 </a> </td>
+<TD> Modifications de comportement </td><TD> Surveiller et évaluer les changements de comportement des incidents de désinformation. </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0133.002.md">T0133.002</a></td>
-<td>Content</td>
-<td>Measure current system state with respect to the effectiveness of campaign content.</td>
-<td>TA12</td>
+<td> <a href="techniques/t0133.002.md"> T0133.002 </a> </td>
+<TD> Content </td>
+<TD> Mesurer l'état du système actuel en ce qui concerne l'efficacité du contenu de la campagne. </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0133.003.md">T0133.003</a></td>
-<td>Awareness</td>
-<td>Measure current system state with respect to the effectiveness of influencing awareness.</td>
-<td>TA12</td>
+<td> <a href="techniques/t0133.003.md"> T0133.003 </a> </td>
+<TD> Adoucire </td>
+<TD> Mesurer l'état du système actuel en ce qui concerne l'efficacité de l'influence de la conscience. </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0133.004.md">T0133.004</a></td>
-<td>Knowledge</td>
-<td>Measure current system state with respect to the effectiveness of influencing knowledge.</td>
-<td>TA12</td>
+<td> <a href="techniques/t0133.004.md"> T0133.004 </a> </td>
+<TD> Connaissance </td>
+<TD> Mesurer l'état du système actuel par rapport à l'efficacité de l'influence des connaissances. </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0133.005.md">T0133.005</a></td>
-<td>Action/Attitude</td>
-<td>Measure current system state with respect to the effectiveness of influencing action/attitude.</td>
-<td>TA12</td>
+<td> <a href="techniques/t0133.005.md"> T0133.005 </a> </td>
+<TD> Action / attitude </td>
+<TD> Mesurer l'état du système actuel en ce qui concerne l'efficacité de l'influence de l'action / de l'attitude. </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0134.md">T0134</a></td>
-<td>Measure Effectiveness Indicators (or KPIs)</td>
-<td>Ensuring that Key Performance Indicators are identified and tracked, so that the performance and effectiveness of campaigns, and elements of campaigns, can be measured, during and after their execution.</td>
-<td>TA12</td>
+<td> <a href="techniques/t0134.md"> T0134 </a> </td><TD> Mesurer les indicateurs d'efficacité (ou KPI) </td>
+<TD> s'assurer que les indicateurs de performance clés sont identifiés et suivis, afin que la performance et l'efficacité des campagnes et des éléments de campagnes puissent être mesurés, pendant et après leur exécution. </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0134.001.md">T0134.001</a></td>
-<td>Message Reach</td>
-<td>Monitor and evaluate message reach in misinformation incidents.</td>
-<td>TA12</td>
+<td> <a href="techniques/t0134.001.md"> T0134.001 </a> </td>
+<TD> Message Reach </td>
+<TD> Surveiller et évaluer la portée des messages dans les incidents de désinformation. </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0134.002.md">T0134.002</a></td>
-<td>Social Media Engagement</td>
-<td>Monitor and evaluate social media engagement in misinformation incidents.</td>
-<td>TA12</td>
+<td> <a href="techniques/t0134.002.md"> T0134.002 </a> </td>
+<TD> Engagement des médias sociaux </td>
+<TD> Surveiller et évaluer l'engagement des médias sociaux dans les incidents de désinformation. </td>
+<TD> TA12 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0135.md">T0135</a></td>
-<td>Undermine</td>
-<td>Weaken, debilitate, or subvert a target or their actions. An influence operation may be designed to disparage an opponent; sabotage an opponent’s systems or processes; compromise an opponent’s relationships or support system; impair an opponent’s capability; or thwart an opponent’s initiative.   </td>
-<td>TA02</td>
+<td> <a href="techniques/t0135.md"> T0135 </a> </td>
+<TD> Maisse </td><TD> affaiblir, affaiblir ou renverser une cible ou leurs actions.Une opération d'influence peut être conçue pour dénigrer un adversaire;saboter les systèmes ou les processus d’un adversaire;compromettre les relations ou le système de soutien d'un adversaire;altérer la capacité d'un adversaire;ou contrecarrer l’initiative d’un adversaire.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0135.001.md">T0135.001</a></td>
-<td>Smear</td>
-<td>Denigrate, disparage, or discredit an opponent. This is a common tactical objective in political campaigns with a larger strategic goal. It differs from efforts to harm a target through defamation. If there is no ulterior motive and the sole aim is to cause harm to the target, then choose sub-technique “Defame” of technique “Cause Harm” instead.</td>
-<td>TA02</td>
+<td> <a href="techniques/t0135.001.md"> T0135.001 </a> </td>
+<TD> Structure </td>
+<TD> dénigrer, dénigrer ou discréditer un adversaire.Il s'agit d'un objectif tactique commun dans les campagnes politiques avec un objectif stratégique plus large.Il diffère des efforts pour nuire à une cible par diffamation.S'il n'y a pas de ulurs de motif et que l'objectif unique est de nuire à la cible, alors choisissez la sous-technique «Defame» de la technique «causer du mal» à la place. </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0135.002.md">T0135.002</a></td>
-<td>Thwart</td>
-<td>Prevent the successful outcome of a policy, operation, or initiative. Actors conduct influence operations to stymie or foil proposals, plans, or courses of action which are not in their interest.  </td>
-<td>TA02</td>
+<td> <a href="techniques/t0135.002.md"> T0135.002 </a> </td>
+<td> contrecarre </td><TD> Empêcher le résultat réussi d'une politique, d'une opération ou d'une initiative.Les acteurs mènent des opérations d'influence sur les propositions, les plans ou les plans d'action de fleuret qui ne sont pas dans leur intérêt.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0135.003.md">T0135.003</a></td>
-<td>Subvert</td>
-<td>Sabotage, destroy, or damage a system, process, or relationship. The classic example is the Soviet strategy of “active measures” involving deniable covert activities such as political influence, the use of front organisations, the orchestration of domestic unrest, and the spread of disinformation.  </td>
-<td>TA02</td>
+<td> <a href="techniques/t0135.003.md"> T0135.003 </a> </td>
+<TD> Souffondrent </td>
+<TD> Sabotage, détruire ou endommager un système, un processus ou une relation.L'exemple classique est la stratégie soviétique des «mesures actives» impliquant des activités secrètes déniables telles que l'influence politique, l'utilisation des organisations frontales, l'orchestration des troubles domestiques et la propagation de la désinformation.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0135.004.md">T0135.004</a></td>
-<td>Polarise</td>
-<td>To cause a target audience to divide into two completely opposing groups. This is a special case of subversion. To divide and conquer is an age-old approach to subverting and overcoming an enemy.</td>
-<td>TA02</td>
+<td> <a href="techniques/t0135.004.md"> T0135.004 </a> </td>
+<TD> Polariser </td>
+<TD> pour faire diviser un public cible en deux groupes complètement opposés.Il s'agit d'un cas particulier de subversion.Diviser et conquérir est une approche séculaire pour renverser et surmonter un ennemi. </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0136.md">T0136</a></td>
-<td>Cultivate Support</td>
-<td>Grow or maintain the base of support for the actor, ally, or action. This includes hard core recruitment, managing alliances, and generating or maintaining sympathy among a wider audience, including reputation management and public relations.  Sub-techniques assume support for actor (self) unless otherwise specified. </td>
-<td>TA02</td>
+<td> <a href="techniques/t0136.md"> T0136 </a> </td><TD> Cultiver le support </td>
+<TD> Groous ou maintiennent la base de soutien à l'acteur, à l'allié ou à l'action.Cela comprend le recrutement du cœur dur, la gestion des alliances et la génération ou le maintien de la sympathie parmi un public plus large, y compris la gestion de la réputation et les relations publiques.Les sous-technologies supposent le support pour l'acteur (Self), sauf indication contraire.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0136.001.md">T0136.001</a></td>
-<td>Defend Reputaton</td>
-<td>Preserve a positive perception in the public’s mind following an accusation or adverse event. When accused of a wrongful act, an actor may engage in denial, counter accusations, whataboutism, or conspiracy theories to distract public attention and attempt to maintain a positive image. </td>
-<td>TA02</td>
+<td> <a href="techniques/t0136.001.md"> T0136.001 </a> </td>
+<TD> Défendre la réputon </td>
+<TD> Préservez une perception positive dans l’esprit du public après une accusation ou un événement indésirable.Lorsqu'elle est accusée d'un acte injustifié, un acteur peut s'engager dans le déni, les contre-accusations, ce qui est de manière excessive ou des théories du complot pour distraire l'attention du public et tenter de maintenir une image positive.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0136.002.md">T0136.002</a></td>
-<td>Justify Action</td>
-<td>To convince others to exonerate you of a perceived wrongdoing. When an actor finds it untenable to deny doing something, they may attempt to exonerate themselves with disinformation which claims the action was reasonable. This is a special case of “Defend Reputation”. </td>
-<td>TA02</td>
+<td> <a href="techniques/t0136.002.md"> T0136.002 </a> </td>
+<TD> Justifier l'action </td><TD> pour convaincre les autres de vous exonérer un acte répréhensible perçu.Lorsqu'un acteur trouve qu'il est intenable de nier de faire quelque chose, il peut tenter de s'exonérer avec une désinformation qui affirme que l'action était raisonnable.Il s'agit d'un cas particulier de «défendre la réputation».</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0136.003.md">T0136.003</a></td>
-<td>Energise Supporters</td>
-<td>Raise the morale of those who support the organisation or group. Invigorate constituents with zeal for the mission or activity. Terrorist groups, political movements, and cults may indoctrinate their supporters with ideologies that are based on warped versions of religion or cause harm to others.   </td>
-<td>TA02</td>
+<td> <a href="techniques/t0136.003.md"> T0136.003 </a> </td>
+<Td> dynamiser les supporters </td>
+<TD> Faire le moral de ceux qui soutiennent l'organisation ou le groupe.Revigorer les constituants avec zèle pour la mission ou l'activité.Les groupes terroristes, les mouvements politiques et les cultes peuvent endoctriner leurs partisans avec des idéologies qui sont basées sur des versions déformées de la religion ou nuire aux autres.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0136.004.md">T0136.004</a></td>
-<td>Boost Reputation</td>
-<td>Elevate the estimation of the actor in the public’s mind. Improve their image or standing. Public relations professionals use persuasive overt communications to achieve this goal; manipulators use covert disinformation. </td>
-<td>TA02</td>
+<td> <a href="techniques/t0136.004.md"> T0136.004 </a> </td>
+<TD> Boost Reputation </td><TD> élève l’estimation de l’acteur dans l’esprit du public.Améliorer leur image ou leur position.Les professionnels des relations publiques utilisent des communications manifestes persuasives pour atteindre cet objectif;Les manipulateurs utilisent une désinformation secrète.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0136.005.md">T0136.005</a></td>
-<td>Cultvate Support for Initiative</td>
-<td>Elevate or fortify the public backing for a policy, operation, or idea. Domestic and foreign actors can use artificial means to fabricate or amplify public support for a proposal or action.   </td>
-<td>TA02</td>
+<td> <a href="techniques/t0136.005.md"> T0136.005 </a> </td>
+<TD> Culte le soutien à l'initiative </td>
+<TD> élever ou fortifier le soutien public pour une politique, une opération ou une idée.Les acteurs nationaux et étrangers peuvent utiliser des moyens artificiels pour fabriquer ou amplifier le soutien du public à une proposition ou une action.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0136.006.md">T0136.006</a></td>
-<td>Cultivate Support for Ally</td>
-<td>Elevate or fortify the public backing for a partner. Governments may interfere in other countries’ elections by covertly favouring a party or candidate aligned with their interests. They may also mount an influence operation to bolster the reputation of an ally under attack.    </td>
-<td>TA02</td>
+<td> <a href="techniques/t0136.006.md"> T0136.006 </a> </td>
+<TD> Cultivez le support pour Ally </td>
+<TD> élever ou fortifier le soutien public pour un partenaire.Les gouvernements peuvent interférer dans les élections d'autres pays en favorisant secrètement un parti ou un candidat aligné sur leurs intérêts.Ils peuvent également monter une opération d'influence pour renforcer la réputation d'un allié attaqué.</td>
+<TD> TA02 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0136.007.md">T0136.007</a></td>
-<td>Recruit Members</td>
-<td>Motivate followers to join or subscribe as members of the team. Organisations may mount recruitment drives that use propaganda to entice sympathisers to sign up.   </td>
-<td>TA02</td>
+<tr><td> <a href="techniques/t0136.007.md"> T0136.007 </a> </td>
+<TD> Recruter les membres </td>
+<TD> Motive les abonnés à rejoindre ou à s'abonner en tant que membres de l'équipe.Les organisations peuvent monter des lecteurs de recrutement qui utilisent la propagande pour inciter les sympathisants à s'inscrire.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0136.008.md">T0136.008</a></td>
-<td>Increase Prestige</td>
-<td>Improve personal standing within a community. Gain fame, approbation, or notoriety. Conspiracy theorists, those with special access, and ideologues can gain prominence in a community by propagating disinformation, leaking confidential documents, or spreading hate. </td>
-<td>TA02</td>
+<td> <a href="techniques/t0136.008.md"> T0136.008 </a> </td>
+<TD> Augmentez le prestige </td>
+<TD> Améliorer la position personnelle au sein d'une communauté.Gagner la gloire, l'approbation ou la notoriété.Les théoriciens du complot, les personnes ayant un accès spécial et les idéologues peuvent prendre de l'importance dans une communauté en propageant la désinformation, en divulguant des documents confidentiels ou en répartissant la haine.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0137.md">T0137</a></td>
-<td>Make Money</td>
-<td>Profit from disinformation, conspiracy theories, or online harm. In some cases, the sole objective is financial gain, in other cases the objective is both financial and political. Making money may also be a way to sustain a political campaign. </td>
-<td>TA02</td>
+<td> <a href="techniques/t0137.md"> T0137 </a> </td>
+<TD> Gagnez de l'argent </td>
+<TD> Profit de la désinformation, des théories du complot ou des dommages en ligne.Dans certains cas, le seul objectif est un gain financier, dans d'autres cas, l'objectif est à la fois financier et politique.Gagner de l'argent peut également être un moyen de soutenir une campagne politique.</td><TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0137.001.md">T0137.001</a></td>
-<td>Generate Ad Revenue</td>
-<td>Earn income from digital advertisements published alongside inauthentic content. Conspiratorial, false, or provocative content drives internet traffic. Content owners earn money from impressions of, or clicks on, or conversions of ads published on their websites, social media profiles, or streaming services, or ads published when their content appears in search engine results. Fraudsters simulate impressions, clicks, and conversions, or they spin up inauthentic sites or social media profiles just to generate ad revenue. Conspiracy theorists and political operators generate ad revenue as a byproduct of their operation or as a means of sustaining their campaign.    </td>
-<td>TA02</td>
+<td> <a href="techniques/t0137.001.md"> T0137.001 </a> </td>
+<TD> générer des revenus publicitaires </td>
+<TD> Gagnez les revenus des publicités numériques publiées aux côtés du contenu inauthentique.Le contenu conspirateur, faux ou provocateur stimule le trafic Internet.Les propriétaires de contenu gagnent de l'argent des impressions ou des clics ou des conversions d'annonces publiées sur leurs sites Web, leurs profils de médias sociaux ou les services de streaming, ou des annonces publiées lorsque leur contenu apparaît dans les résultats des moteurs de recherche.Les fraudeurs simulent les impressions, les clics et les conversions, ou ils tournent des sites inauthentiques ou des profils de médias sociaux juste pour générer des revenus publicitaires.Les théoriciens du complot et les opérateurs politiques génèrent des revenus publicitaires en tant que sous-produit de leur opération ou comme moyen de maintenir leur campagne.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0137.002.md">T0137.002</a></td>
-<td>Scam</td>
-<td>Defraud a target or trick a target into doing something that benefits the attacker. A typical scam is where a fraudster convinces a target to pay for something without the intention of ever delivering anything in return. Alternatively, the fraudster may promise benefits which never materialise, such as a fake cure. Criminals often exploit a fear or crisis or generate a sense of urgency. They may use deepfakes to impersonate authority figures or individuals in distress.    </td>
-<td>TA02</td>
+<td> <a href="techniques/t0137.002.md"> T0137.002 </a> </td>
+<TD> Arnaque </td><TD> frauder une cible ou tromper une cible pour faire quelque chose qui profite à l'attaquant.Une arnaque typique est l'endroit où un fraudeur convainc une cible pour payer quelque chose sans l'intention de livrer quoi que ce soit en retour.Alternativement, le fraudeur peut promettre des avantages qui ne se matérialisent jamais, comme un faux remède.Les criminels exploitent souvent une peur ou une crise ou génèrent un sentiment d'urgence.Ils peuvent utiliser Deepfakes pour usurper l'identité de figures d'autorité ou des individus en détresse.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0137.003.md">T0137.003</a></td>
-<td>Raise Funds</td>
-<td>Solicit donations for a cause. Popular conspiracy theorists can attract financial contributions from their followers. Fighting back against the establishment is a popular crowdfunding narrative. </td>
-<td>TA02</td>
+<td> <a href="techniques/t0137.003.md"> T0137.003 </a> </td>
+<TD> collecter des fonds </td>
+<TD> solliciter des dons pour une cause.Les théoriciens du complot populaires peuvent attirer des contributions financières de leurs partisans.La lutte contre l'établissement est un récit populaire de financement participatif.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0137.004.md">T0137.004</a></td>
-<td>Sell Items under False Pretences</td>
-<td>Offer products for sale under false pretences. Campaigns may hijack or create causes built on disinformation to sell promotional merchandise. Or charlatans may amplify victims’ unfounded fears to sell them items of questionable utility such as supplements or survival gear.  </td>
-<td>TA02</td>
+<td> <a href="techniques/t0137.004.md"> T0137.004 </a> </td>
+<TD> Vendre des articles sous de fausses prétextes </td><TD> Offrez des produits à vendre sous de fausses prétextes.Les campagnes peuvent détourner ou créer des causes fondées sur la désinformation pour vendre des marchandises promotionnelles.Ou les charlatans peuvent amplifier les craintes non fondées des victimes pour leur vendre des articles d'utilité douteux tels que des suppléments ou des équipements de survie.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0137.005.md">T0137.005</a></td>
-<td>Extort</td>
-<td>Coerce money or favours from a target by threatening to expose or corrupt information. Ransomware criminals typically demand money. Intelligence agencies demand national secrets. Sexual predators demand favours. The leverage may be critical, sensitive, or embarrassing information.    </td>
-<td>TA02</td>
+<td> <a href="techniques/t0137.005.md"> T0137.005 </a> </td>
+<TD> Extorte </td>
+<TD> Couvre de l'argent ou des faveurs d'une cible en menaçant d'exposer ou de corrompre des informations.Les criminels de ransomware exigent généralement de l'argent.Les agences de renseignement exigent des secrets nationaux.Les prédateurs sexuels exigent des faveurs.L'effet de levier peut être des informations critiques, sensibles ou embarrassantes.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0137.006.md">T0137.006</a></td>
-<td>Manipulate Stocks</td>
-<td>Artificially inflate or deflate the price of stocks or other financial instruments and then trade on these to make profit. The most common securities fraud schemes are called “pump and dump” and “poop and scoop”. </td>
-<td>TA02</td>
+<td> <a href="techniques/t0137.006.md"> T0137.006 </a> </td>
+<TD> Manipuler les actions </td><TD> gonfler ou dégonfler artificiellement le prix des actions ou d'autres instruments financiers, puis les échanger pour réaliser des bénéfices.Les régimes de fraude en valeurs mobilières les plus courants sont appelés «pompage et décharge» et «caca et scoop».</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0138.md">T0138</a></td>
-<td>Motivate to Act</td>
-<td>Persuade, impel, or provoke the target to behave in a specific manner favourable to the attacker. Some common behaviours are joining, subscribing, voting, buying, demonstrating, fighting, retreating, resigning, boycotting.</td>
-<td>TA02</td>
+<td> <a href="techniques/t0138.md"> T0138 </a> </td>
+<TD> Motiver à agir </td>
+<TD> Persuade, impulsion ou provoque la cible pour se comporter de manière spécifique favorable à l'attaquant.Certains comportements communs se joignent, souscrivent, voter, acheter, démontrer, combattre, retirer, démissionner, boycotter. </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0138.001.md">T0138.001</a></td>
-<td>Encourage</td>
-<td>Inspire, animate, or exhort a target to act. An actor can use propaganda, disinformation, or conspiracy theories to stimulate a target to act in its interest.   </td>
-<td>TA02</td>
+<td> <a href="techniques/t0138.001.md"> T0138.001 </a> </td>
+<TD> Encourager </td>
+<TD> Inspirer, animer ou exhorter une cible à agir.Un acteur peut utiliser des théories de propagande, de désinformation ou de complot pour stimuler une cible pour agir dans son intérêt.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0138.002.md">T0138.002</a></td>
-<td>Provoke</td>
-<td>Instigate, incite, or arouse a target to act. Social media manipulators exploit moral outrage to propel targets to spread hate, take to the streets to protest, or engage in acts of violence.  </td>
-<td>TA02</td>
+<td> <a href="techniques/t0138.002.md"> T0138.002 </a> </td>
+<TD> PROVOT </TD><TD> Icigate, inciter ou susciter une cible pour agir.Les manipulateurs des médias sociaux exploitent l'indignation morale pour propulser des objectifs pour répandre la haine, descendre dans les rues pour protester ou s'engager dans des actes de violence.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0138.003.md">T0138.003</a></td>
-<td>Compel</td>
-<td>Force target to take an action or to stop taking an action it has already started. Actors can use the threat of reputational damage alongside military or economic threats to compel a target.</td>
-<td>TA02</td>
+<td> <a href="techniques/t0138.003.md"> T0138.003 </a> </td>
+<td> obliger </td>
+<TD> Force la cible à prendre une action ou à arrêter de prendre une mesure qu'elle a déjà commencé.Les acteurs peuvent utiliser la menace de dommages de réputation aux côtés des menaces militaires ou économiques pour contraindre une cible. </td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0139.md">T0139</a></td>
-<td>Dissuade from Acting</td>
-<td>Discourage, deter, or inhibit the target from actions which would be unfavourable to the attacker. The actor may want the target to refrain from voting, buying, fighting, or supplying. </td>
-<td>TA02</td>
+<td> <a href="techniques/t0139.md"> T0139 </a> </td>
+<td> se dissuade de agir </td>
+<TD> décourage, dissuader ou inhiber la cible des actions qui seraient défavorables à l'attaquant.L'acteur peut vouloir que la cible s'abstienne de voter, d'acheter, de se battre ou de fournir.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0139.001.md">T0139.001</a></td>
-<td>Discourage</td>
-<td>To make a target disinclined or reluctant to act. Manipulators use disinformation to cause targets to question the utility, legality, or morality of taking an action. </td>
-<td>TA02</td>
+<td> <a href="techniques/t0139.001.md"> T0139.001 </a> </td>
+<TD> décourager </td><TD> pour rendre une cible dissoute ou réticent à agir.Les manipulateurs utilisent la désinformation pour provoquer des objectifs pour remettre en question l'utilité, la légalité ou la moralité de la prise d'une action.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0139.002.md">T0139.002</a></td>
-<td>Silence</td>
-<td>Intimidate or incentivise target into remaining silent or prevent target from speaking out. A threat actor may cow a target into silence as a special case of deterrence. Or they may buy the target’s silence. Or they may repress or restrict the target’s speech.   </td>
-<td>TA02</td>
+<td> <a href="techniques/t0139.002.md"> T0139.002 </a> </td>
+<TD> Silence </td>
+<TD> intimider ou inciter la cible à rester silencieux ou empêcher la cible de s'exprimer.Un acteur de menace peut faire l'objet d'une cible dans le silence comme un cas particulier de dissuasion.Ou ils peuvent acheter le silence de la cible.Ou ils peuvent réprimer ou restreindre le discours de la cible.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0139.003.md">T0139.003</a></td>
-<td>Deter</td>
-<td>Prevent target from taking an action for fear of the consequences. Deterrence occurs in the mind of the target, who fears they will be worse off if they take an action than if they don’t. When making threats, aggressors may bluff, feign irrationality, or engage in brinksmanship.</td>
-<td>TA02</td>
+<td> <a href="techniques/t0139.003.md"> T0139.003 </a> </td>
+<TD> Déterminer </td>
+<TD> Empêcher la cible de prendre une mesure par peur des conséquences.La dissuasion se produit dans l'esprit de la cible, qui craint qu'ils ne soient plus mal lotis s'ils prennent une mesure que s'ils ne le font pas.Lorsque vous faites des menaces, les agresseurs peuvent bluff, feindre l'irrationalité ou s'engager dans le bord du bord. </td>
+<TD> TA02 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0140.md">T0140</a></td>
-<td>Cause Harm</td>
-<td>Persecute, malign, or inflict pain upon a target. The objective of a campaign may be to cause fear or emotional distress in a target. In some cases, harm is instrumental to achieving a primary objective, as in coercion, repression, or intimidation. In other cases, harm may be inflicted for the satisfaction of the perpetrator, as in revenge or sadistic cruelty. </td>
-<td>TA02</td>
+<tr><td> <a href="techniques/t0140.md"> T0140 </a> </td>
+<td> provoquer un préjudice </td>
+<TD> persécuter, calomnier ou infliger une douleur à une cible.L'objectif d'une campagne peut être de provoquer la peur ou la détresse émotionnelle dans une cible.Dans certains cas, le préjudice contribue à atteindre un objectif principal, comme dans la coercition, la répression ou l'intimidation.Dans d'autres cas, des préjudices peuvent être infligés à la satisfaction de l'agresseur, comme dans la vengeance ou la cruauté sadique.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0140.001.md">T0140.001</a></td>
-<td>Defame</td>
-<td>Attempt to damage the target’s personal reputation by impugning their character. This can range from subtle attempts to misrepresent or insinuate, to obvious attempts to denigrate or disparage, to blatant attempts to malign or vilify. Slander applies to oral expression. Libel applies to written or pictorial material. Defamation is often carried out by online trolls. The sole aim here is to cause harm to the target. If the threat actor uses defamation as a means of undermining the target, then choose sub-technique “Smear” of technique “Undermine” instead.  </td>
-<td>TA02</td>
+<td> <a href="techniques/t0140.001.md"> T0140.001 </a> </td>
+<TD> Defame </td><TD> tenter de nuire à la réputation personnelle de la cible en conduisant son caractère.Cela peut aller des tentatives subtiles de déformation ou d'insinuation, à des tentatives évidentes de dénigrer ou de dénigrer, à des tentatives flagrantes de calomnie ou de difficulté.La calomnie s'applique à l'expression orale.La diffamation s'applique au matériel écrit ou pictural.La diffamation est souvent effectuée par les trolls en ligne.Le seul objectif ici est de nuire à la cible.Si l'acteur de menace utilise la diffamation comme moyen de saper la cible, choisissez plutôt la «frottis» de la technique de la technique.</td>
+<TD> TA02 </TD>
 </tr>
 <tr>
-<td><a href="techniques/T0140.002.md">T0140.002</a></td>
-<td>Intimidate</td>
-<td>Coerce, bully, or frighten the target. An influence operation may use intimidation to compel the target to act against their will. Or the goal may be to frighten or even terrify the target into silence or submission. In some cases, the goal is simply to make the victim suffer.   </td>
-<td>TA02</td>
+<td> <a href="techniques/t0140.002.md"> T0140.002 </a> </td>
+<td> intimider </td>
+<TD> coerce, intimider ou effrayer la cible.Une opération d'influence peut utiliser l'intimidation pour obliger la cible à agir contre leur testament.Ou l'objectif peut être d'effrayer ou même de terrifier la cible en silence ou en soumission.Dans certains cas, l'objectif est simplement de faire souffrir la victime.</td>
+<TD> TA02 </TD>
 </tr>
-<tr>
-<td><a href="techniques/T0140.003.md">T0140.003</a></td>
-<td>Spread Hate</td>
-<td>Publish and/or propagate demeaning, derisive, or humiliating content targeting an individual or group of individuals with the intent to cause emotional, psychological, or physical distress. Hate speech can cause harm directly or incite others to harm the target. It often aims to stigmatise the target by singling out immutable characteristics such as colour, race, religion, national or ethnic origin, gender, gender identity, sexual orientation, age, disease, or mental or physical disability. Thus, promoting hatred online may involve racism, antisemitism, Islamophobia, xenophobia, sexism, misogyny, homophobia, transphobia, ageism, ableism, or any combination thereof. Motivations for hate speech range from group preservation to ideological superiority to the unbridled infliction of suffering.       </td>
-<td>TA02</td>
+<tr><td> <a href="techniques/t0140.003.md"> T0140.003 </a> </td>
+<TD> Spread Hate </td>
+<TD> publier et / ou propager un contenu dégradant, dérisoire ou humiliant ciblant un individu ou un groupe d'individus ayant l'intention de provoquer une détresse émotionnelle, psychologique ou physique.Le discours de haine peut nuire directement ou inciter les autres à nuire à la cible.Il vise souvent à stigmatiser la cible en distinguant les caractéristiques immuables telles que la couleur, la race, la religion, l'origine nationale ou ethnique, le sexe, l'identité de genre, l'orientation sexuelle, l'âge, la maladie ou l'invalidité mentale ou physique.Ainsi, la promotion de la haine en ligne peut impliquer le racisme, l'antisémitisme, l'islamophobie, la xénophobie, le sexisme, la misogynie, l'homophobie, la transphobie, l'âgisme, le capable ou toute combinaison de celle-ci.Les motivations pour le discours de haine varient de la préservation de groupe à la supériorité idéologique à l'infliction effrénée de la souffrance.</td>
+<TD> TA02 </TD>
 </tr>
-</table>
+</ table>

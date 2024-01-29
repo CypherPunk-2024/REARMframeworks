@@ -1,29 +1,29 @@
-# DISARM Phases:
+# Désarmer les phases:
 
-<table border="1">
+<table bordure = "1">
 <tr>
-<th>disarm_id</th>
-<th>name</th>
-<th>summary</th>
+<h> DISARM_ID </ TH>
+<th> nom </th>
+<h> Résumé </th>
 </tr>
 <tr>
-<td><a href="phases/P01.md">P01</a></td>
-<td>Plan</td>
-<td>Envision the desired outcome. Lay out effective ways of achieving it. Communicate the vision, intent, and decisions, focusing on expected results.</td>
+<td> <a href="phases/p01.md"> p01 </a> </td>
+<TD> PLAN </TD>
+<TD> Envisagez le résultat souhaité.Disposez des moyens efficaces de l'atteindre.Communiquez la vision, l'intention et les décisions, en se concentrant sur les résultats attendus. </td>
 </tr>
 <tr>
-<td><a href="phases/P02.md">P02</a></td>
-<td>Prepare</td>
-<td>Activities conducted before execution to improve the ability to conduct the action. Examples include: development of the ecosystem needed to support the action: people, network, channels, content etc.</td>
+<td> <a href="phases/p02.md"> p02 </a> </td>
+<TD> Préparez </td>
+<TD> Activités menées avant l'exécution pour améliorer la capacité de mener l'action.Les exemples incluent: le développement de l'écosystème nécessaire pour soutenir l'action: personnes, réseau, canaux, contenu, etc. </td>
 </tr>
 <tr>
-<td><a href="phases/P03.md">P03</a></td>
-<td>Execute</td>
-<td>Run the action, from initial exposure to wrap-up and/or maintaining presence etc.</td>
+<td> <a href="phases/p03.md"> p03 </a> </td>
+<td> exécuter </td>
+<TD> Exécutez l'action, de l'exposition initiale à la conclusion et / ou au maintien de la présence, etc. </td>
 </tr>
 <tr>
-<td><a href="phases/P04.md">P04</a></td>
-<td>Assess</td>
-<td>Evaluate effectiveness of action, for use in future plans</td>
+<td> <a href="phases/p04.md"> p04 </a> </td>
+<td> évaluer </td>
+<TD> Évaluer l'efficacité de l'action, pour une utilisation dans les plans futurs </td>
 </tr>
-</table>
+</ table>

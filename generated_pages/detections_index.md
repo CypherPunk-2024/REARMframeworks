@@ -29,8 +29,7 @@
 <td> <a href="dections/f00003.md"> F00003 </a> </td>
 <TD> Exploiter la contre-intelligence vs de mauvais acteurs </td>
 <td> </td>
-<td> </td>
-<TD> TA01 Planification stratégique </td>
+<td> </td><TD> TA01 Planification stratégique </td>
 <TD> D01 </TD>
 </tr>
 <tr>
@@ -65,689 +64,663 @@
 <td>TA02 Objective Planning</td>
 <td>D01</td>
 </tr>
-<tr>
-<td><a href="detections/F00008.md">F00008</a></td>
-<td>Detect abnormal amplification</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00009.md">F00009</a></td>
-<td>Detect abnormal events</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00010.md">F00010</a></td>
-<td>Detect abnormal groups</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00011.md">F00011</a></td>
-<td>Detect abnormal pages</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00012.md">F00012</a></td>
-<td>Detect abnormal profiles, e.g. prolific pages/ groups/ people</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00013.md">F00013</a></td>
-<td>Identify fake news sites</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00014.md">F00014</a></td>
-<td>Trace connections</td>
-<td>for e.g. fake news sites</td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00015.md">F00015</a></td>
-<td>Detect anomalies in membership growth patterns</td>
-<td>I include Fake Experts as they may use funding campaigns such as Patreon to fund their operations and so these should be watched.</td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00016.md">F00016</a></td>
-<td>Identify fence-sitters</td>
-<td>Note: In each case, depending on the platform there may be a way to identify a fence-sitter. For example, online polls may have a neutral option or a "somewhat this-or-that" option, and may reveal who voted for that to all visitors. This information could be of use to data analysts. In TA08-11, the engagement level of victims could be identified to detect and respond to increasing engagement.</td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00017.md">F00017</a></td>
-<td>Measure emotional valence</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00018.md">F00018</a></td>
-<td>Follow the money</td>
-<td>track funding sources</td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00019.md">F00019</a></td>
-<td>Activity resurgence detection (alarm when dormant accounts become activated)</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00020.md">F00020</a></td>
-<td>Detect anomalous activity</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00021.md">F00021</a></td>
-<td>AI/ML automated early detection of campaign planning</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00022.md">F00022</a></td>
-<td>Digital authority - regulating body (united states)</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00023.md">F00023</a></td>
-<td>Periodic verification (counter to hijack legitimate account)</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00024.md">F00024</a></td>
-<td>Teach civics to kids/ adults/ seniors</td>
-<td></td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00025.md">F00025</a></td>
-<td>Boots-on-the-ground early narrative detection</td>
-<td></td>
-<td></td>
-<td>TA05 Microtargeting</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00026.md">F00026</a></td>
-<td>Language anomoly detection</td>
-<td></td>
-<td></td>
-<td>TA05 Microtargeting</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00027.md">F00027</a></td>
-<td>Unlikely correlation of sentiment on same topics</td>
-<td></td>
-<td></td>
-<td>TA05 Microtargeting</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00028.md">F00028</a></td>
-<td>Associate a public key signature with government documents</td>
-<td></td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00029.md">F00029</a></td>
-<td>Detect proto narratives, i.e. RT, Sputnik</td>
-<td></td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00030.md">F00030</a></td>
-<td>Early detection and warning - reporting of suspect content</td>
-<td></td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00031.md">F00031</a></td>
-<td>Educate on how to identify information pollution</td>
-<td>Strategic planning included as innoculating population has strategic value.</td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00032.md">F00032</a></td>
-<td>Educate on how to identify to pollution</td>
-<td>DUPLICATE - DELETE</td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00033.md">F00033</a></td>
-<td>Fake websites: add transparency on business model</td>
-<td></td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00034.md">F00034</a></td>
-<td>Flag the information spaces so people know about active flooding effort</td>
-<td></td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00035.md">F00035</a></td>
-<td>Identify repeated narrative DNA</td>
-<td></td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00036.md">F00036</a></td>
-<td>Looking for AB testing in unregulated channels</td>
-<td></td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00037.md">F00037</a></td>
-<td>News content provenance certification.</td>
-<td>Original Comment: Shortcomings: intentional falsehood. Doesn't solve accuracy. Can't be mandatory. Technique should be in terms of "strategic innoculation", raising the standards of what people expect in terms of evidence when consuming news.</td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00038.md">F00038</a></td>
-<td>Social capital as attack vector</td>
-<td>Unsure I understood the original intention or what it applied to. Therefore the techniques listed (10, 39, 43, 57, 61) are under my interpretation - which is that we want to track ignorant agents who fall into the enemy's trap and show a cost to financing/reposting/helping the adversary via public shaming or other means.</td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00039.md">F00039</a></td>
-<td>standards to track image/ video deep fakes - industry</td>
-<td></td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00040.md">F00040</a></td>
-<td>Unalterable metadata signature on origins of image and provenance</td>
-<td></td>
-<td></td>
-<td>TA06 Develop Content</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00041.md">F00041</a></td>
-<td>Bias detection</td>
-<td>Not technically left of boom</td>
-<td></td>
-<td>TA07 Channel Selection</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00042.md">F00042</a></td>
-<td>Categorise polls by intent</td>
-<td>Use T00029, but against the creators</td>
-<td></td>
-<td>TA07 Channel Selection</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00043.md">F00043</a></td>
-<td>Monitor for creation of fake known personas</td>
-<td>Platform companies and some information security companies (e.g. ZeroFox) do this.</td>
-<td></td>
-<td>TA07 Channel Selection</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00044.md">F00044</a></td>
-<td>Forensic analysis</td>
-<td>Can be used in all phases for all techniques.</td>
-<td></td>
-<td>TA08 Pump Priming</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00045.md">F00045</a></td>
-<td>Forensic linguistic analysis</td>
-<td>Can be used in all phases for all techniques.</td>
-<td></td>
-<td>TA08 Pump Priming</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00046.md">F00046</a></td>
-<td>Pump priming analytics</td>
-<td></td>
-<td></td>
-<td>TA08 Pump Priming</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00047.md">F00047</a></td>
-<td>trace involved parties</td>
-<td></td>
-<td></td>
-<td>TA08 Pump Priming</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00048.md">F00048</a></td>
-<td>Trace known operations and connection</td>
-<td></td>
-<td></td>
-<td>TA08 Pump Priming</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00049.md">F00049</a></td>
-<td>trace money</td>
-<td></td>
-<td></td>
-<td>TA08 Pump Priming</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00050.md">F00050</a></td>
-<td>Web cache analytics</td>
-<td></td>
-<td></td>
-<td>TA08 Pump Priming</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00051.md">F00051</a></td>
-<td>Challenge expertise</td>
-<td></td>
-<td></td>
-<td>TA09 Exposure</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00052.md">F00052</a></td>
-<td>Discover sponsors</td>
-<td>Discovering the sponsors behind a campaign, narrative, bot, a set of accounts, or a social media comment, or anything else is useful.</td>
-<td></td>
-<td>TA09 Exposure</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00053.md">F00053</a></td>
-<td>Government rumour control office (what can we learn?)</td>
-<td></td>
-<td></td>
-<td>TA09 Exposure</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00054.md">F00054</a></td>
-<td>Restrict people who can @ you on social networks</td>
-<td></td>
-<td></td>
-<td>TA09 Exposure</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00055.md">F00055</a></td>
-<td>Verify credentials</td>
-<td></td>
-<td></td>
-<td>TA09 Exposure</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00056.md">F00056</a></td>
-<td>Verify organisation legitimacy</td>
-<td></td>
-<td></td>
-<td>TA09 Exposure</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00057.md">F00057</a></td>
-<td>Verify personal credentials of experts</td>
-<td></td>
-<td></td>
-<td>TA09 Exposure</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00058.md">F00058</a></td>
-<td>Deplatform (cancel culture)</td>
-<td>*Deplatform People: This technique needs to be a bit more specific to distinguish it from "account removal" or DDOS and other techniques that get more specific when applied to content. For example, other ways of deplatforming people include attacking their sources of funds, their allies, their followers, etc.</td>
-<td></td>
-<td>TA10 Go Physical</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00059.md">F00059</a></td>
-<td>Identify susceptible demographics</td>
-<td>All techniques provide or are susceptible to being countered by, or leveraged for, knowledge about user demographics.</td>
-<td></td>
-<td>TA10 Go Physical</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00060.md">F00060</a></td>
-<td>Identify susceptible influencers</td>
-<td>I assume this was a transcript error. Otherwise, "Identify Susceptible Influences" as in the various methods of influences that may work against a victim could also be a technique. Nope, wasn't a transcript error: original note says influencers, as in find people of influence that might be targetted.</td>
-<td></td>
-<td>TA10 Go Physical</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00061.md">F00061</a></td>
-<td>Microtargeting</td>
-<td></td>
-<td></td>
-<td>TA10 Go Physical</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00062.md">F00062</a></td>
-<td>Detect when Dormant account turns active</td>
-<td></td>
-<td></td>
-<td>TA11 Persistence</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00063.md">F00063</a></td>
-<td>Linguistic change analysis</td>
-<td></td>
-<td></td>
-<td>TA11 Persistence</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00064.md">F00064</a></td>
-<td>Monitor reports of account takeover</td>
-<td></td>
-<td></td>
-<td>TA11 Persistence</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00065.md">F00065</a></td>
-<td>Sentiment change analysis</td>
-<td></td>
-<td></td>
-<td>TA11 Persistence</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00066.md">F00066</a></td>
-<td>Use language errors, time to respond to account bans and lawsuits, to indicate capabilities</td>
-<td></td>
-<td></td>
-<td>TA11 Persistence</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00067.md">F00067</a></td>
-<td>Data forensics</td>
-<td></td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00068.md">F00068</a></td>
-<td>Resonance analysis</td>
-<td>a developing methodology for identifying statistical differences in how social groups use language and quantifying how common those statistical differences are within a larger population. In essence, it hypothesises how much affinity might exist for a specific group within a general population, based on the language its members employ</td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00069.md">F00069</a></td>
-<td>Track Russian media and develop analytic methods.</td>
-<td>To effectively counter Russian propaganda, it will be critical to track Russian influence efforts. The information requirements are varied and include the following: • Identify fake-news stories and their sources. • Understand narrative themes and content that pervade various Russian media sources. • Understand the broader Russian strategy that underlies tactical propaganda messaging.</td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00070.md">F00070</a></td>
-<td>Full spectrum analytics</td>
-<td></td>
-<td></td>
-<td>ALL</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00071.md">F00071</a></td>
-<td>Network analysis Identify/cultivate/support influencers</td>
-<td>Local influencers detected via Twitter networks are likely local influencers in other online and off-line channels as well. In addition, the content and themes gleaned from Russia and Russia-supporting populations, as well as anti-Russia activists, likely swirl in other online and off-line mediums as well.</td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00072.md">F00072</a></td>
-<td>network analysis to identify central users in the pro-Russia activist community.</td>
-<td>It is possible that some of these are bots or trolls and could be flagged for suspension for violating Twitter’s terms of service.</td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00073.md">F00073</a></td>
-<td>collect intel/recon on black/covert content creators/manipulators</td>
-<td>Players at the level of covert attribution, referred to as “black” in the grayscale of deniability, produce content on user-generated media, such as YouTube, but also add fear-mongering commentary to and amplify content produced by others and supply exploitable content to data dump websites. These activities are conducted by a network of trolls, bots, honeypots, and hackers.</td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00074.md">F00074</a></td>
-<td>identify relevant fence-sitter communities</td>
-<td>brand ambassador programmes could be used with influencers across a variety of social media channels. It could also target other prominent experts, such as academics, business leaders, and other potentially prominent people. Authorities must ultimately take care in implementing such a programme given the risk that contact with U.S. or NATO authorities might damage influencer reputations. Engagements must consequently be made with care, and, if possible, government interlocutors should work through local NGOs.</td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00075.md">F00075</a></td>
-<td>leverage open-source information</td>
-<td>significant amounts of quality open-source information are now available and should be leveraged to build products and analysis prior to problem prioritisation in the areas of observation, attribution, and intent. Successfully distinguishing the grey zone campaign signal through the global noise requires action through the entirety of the national security community. Policy, process, and tools must all adapt and evolve to detect, discern, and act upon a new type of signal</td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00076.md">F00076</a></td>
-<td>Monitor/collect audience engagement data connected to “useful idiots”</td>
-<td>Target audience connected to "useful idiots rather than the specific profiles because - The active presence of such sources complicates targeting of Russian propaganda, given that it is often difficult to discriminate between authentic views and opinions on the internet and those disseminated by the Russian state.</td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00077.md">F00077</a></td>
-<td>Model for bot account behaviour</td>
-<td>Bot account: action based, people. Unsure which DISARM techniques.</td>
-<td></td>
-<td>TA15 - Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00078.md">F00078</a></td>
-<td>Monitor account level activity in social networks</td>
-<td>All techniques benefit from careful analysis and monitoring of activities on social network.</td>
-<td></td>
-<td>TA15 - Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00079.md">F00079</a></td>
-<td>Network anomaly detection</td>
-<td></td>
-<td></td>
-<td>TA05 Microtargeting</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00080.md">F00080</a></td>
-<td>Hack the polls/ content yourself</td>
-<td>Two wrongs don't make a right? But if you hack your own polls, you do learn how it could be done, and learn what to look for</td>
-<td></td>
-<td>TA07 Channel Selection</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00081.md">F00081</a></td>
-<td>Need way for end user to report operations</td>
-<td></td>
-<td></td>
-<td>TA09 Exposure</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00082.md">F00082</a></td>
-<td>Control the US "slang" translation boards</td>
-<td></td>
-<td></td>
-<td>TA11 Persistence</td>
-<td>D03</td>
-</tr>
-<tr>
-<td><a href="detections/F00083.md">F00083</a></td>
-<td>Build and own meme generator, then track and watermark contents</td>
-<td></td>
-<td></td>
-<td>TA11 Persistence</td>
-<td>D05</td>
-</tr>
-<tr>
-<td><a href="detections/F00084.md">F00084</a></td>
-<td>Track individual bad actors</td>
-<td></td>
-<td></td>
-<td>TA15 - Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00085.md">F00085</a></td>
-<td>detection of a weak signal through global noise</td>
-<td>Grey zone threats are challenging given that warning requires detection of a weak signal through global noise and across threat vectors and regional boundaries.Three interconnected grey zone elements characterise the nature of the activity: Temporality: The nature of grey zone threats truly requires a “big picture view” over long timescales and across regions and functional topics. Attribution: requiring an “almost certain” or “nearly certain analytic assessment before acting costs time and analytic effort Intent: judgement of adversarial intent to conduct grey zone activity. Indeed, the purpose of countering grey zone threats is to deter adversaries from fulfilling their intent to act. While attribution is one piece of the puzzle, closing the space around intent often means synthesising multiple relevant indicators and warnings, including the state’s geopolitical ambitions, military ties, trade and investment, level of corruption, and media landscape, among others.</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="detections/F00086.md">F00086</a></td>
-<td>Outpace Competitor Intelligence Capabilities</td>
-<td>Develop an intelligence-based understanding of foreign actors’ motivations, psychologies, and societal and geopolitical contexts. Leverage artificial intelligence to identify patterns and infer competitors’ intent</td>
-<td></td>
-<td>TA02 Objective planning</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00087.md">F00087</a></td>
-<td>Improve Indications and Warning</td>
-<td>United States has not adequately adapted its information indicators and thresholds for warning policymakers to account for grey zone tactics. Competitors have undertaken a marked shift to slow-burn, deceptive, non-military, and indirect challenges to U.S. interests. Relative to traditional security indicators and warnings, these are more numerous and harder to detect and make it difficult for analysts to infer intent.</td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00088.md">F00088</a></td>
-<td>Revitalise an “active measures working group,”</td>
-<td>Recognise campaigns from weak signals, including rivals’ intent, capability, impact, interactive effects, and impact on U.S. interests... focus on adversarial covert action aspects of campaigning.</td>
-<td></td>
-<td></td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00089.md">F00089</a></td>
-<td>target/name/flag "grey zone" website content</td>
-<td>"Grey zone" is second level of content producers and circulators, composed of outlets with uncertain attribution. This category covers conspiracy websites, far-right or far-left websites, news aggregators, and data dump websites</td>
-<td></td>
-<td>TA15 Establish Social Assets</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00090.md">F00090</a></td>
-<td>Match Punitive Tools with Third-Party Inducements</td>
-<td>Bring private sector and civil society into accord on U.S. interests</td>
-<td></td>
-<td>TA01 Strategic Planning</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00091.md">F00091</a></td>
-<td>Partner to develop analytic methods & tools</td>
-<td>This might include working with relevant technology firms to ensure that contracted analytic support is available. Contracted support is reportedly valuable because technology to monitor social media data is continually evolving, and such firms can provide the expertise to help identify and analyse trends, and they can more effectively stay abreast of the changing systems and develop new models as they are required</td>
-<td></td>
-<td>TA01 Strategic Planning</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00092.md">F00092</a></td>
-<td>daylight</td>
-<td>Warn social media companies about an ongoing campaign (e.g. antivax sites). Anyone with datasets or data summaries can help with this</td>
-<td></td>
-<td>TA09 Exposure</td>
-<td>D01</td>
-</tr>
-<tr>
-<td><a href="detections/F00093.md">F00093</a></td>
-<td>S4d detection and re-allocation approaches</td>
+<tr><td> <a href="dections/f00008.md"> f00008 </a> </td>
+<TD> détecter une amplification anormale </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00009.md"> F00009 </a> </td>
+<TD> détecter des événements anormaux </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00010.md"> f00010 </a> </td>
+<TD> détecter des groupes anormaux </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00011.md"> f00011 </a> </td>
+<TD> détecter des pages anormales </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00012.md"> f00012 </a> </td>
+<TD> détecter des profils anormaux, par ex.pages / groupes prolifiques </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00013.md"> f00013 </a> </td>
+<TD> Identifier les faux sites d'actualités </td>
+<td> </td>
+<td> </td><TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00014.md"> f00014 </a> </td>
+<TD> Connexions de trace </td>
+<td> pour par ex.Faux sites d'actualités </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00015.md"> f00015 </a> </td>
+<TD> détecter les anomalies dans les modèles de croissance des membres </td>
+<TD> J'inclus de faux experts car ils peuvent utiliser des campagnes de financement telles que Patreon pour financer leurs opérations et elles devraient donc être regardées. </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00016.md"> f00016 </a> </td>
+<TD> Identifier les sitters de clôture </td><TD> Remarque: Dans chaque cas, selon la plate-forme, il peut y avoir un moyen d'identifier une clôture.Par exemple, les sondages en ligne peuvent avoir une option neutre ou une option «quelque peu cette ou cette», et peut révéler qui a voté pour cela à tous les visiteurs.Ces informations pourraient être utiles aux analystes de données.Dans TA08-11, le niveau d'engagement des victimes pourrait être identifié pour détecter et répondre à l'augmentation de l'engagement. </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00017.md"> f00017 </a> </td>
+<TD> Mesurer la valence émotionnelle </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00018.md"> f00018 </a> </td>
+<TD> Suivez l'argent </td>
+<TD> Suivre les sources de financement </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00019.md"> f00019 </a> </td>
+<TD> Détection de résurgence de l'activité (alarme lorsque les comptes dormants deviennent activés) </td>
+<td> </td>
+<td> </td><TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00020.md"> f00020 </a> </td>
+<TD> détecter l'activité anormale </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00021.md"> f00021 </a> </td>
+<TD> AI / ML Détection précoce automatisée de la planification de la campagne </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00022.md"> f00022 </a> </td>
+<TD> Autorité numérique - Réglementation du corps (États-Unis) </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00023.md"> f00023 </a> </td>
+<TD> Vérification périodique (contraire au compte légitime de détournement) </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00024.md"> f00024 </a> </td>
+<TD> Enseigner la civique aux enfants / adultes / seniors </td>
+<td> </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr><tr>
+<td> <a href="dections/f00025.md"> f00025 </a> </td>
+<TD> Boots on-the-Aver Early Narrative Detection </td>
+<td> </td>
+<td> </td>
+<TD> TA05 Microt-ciblage </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00026.md"> f00026 </a> </td>
+<TD> Détection de l'anomole du langage </td>
+<td> </td>
+<td> </td>
+<TD> TA05 Microt-ciblage </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00027.md"> f00027 </a> </td>
+<TD> Corrélation improbable du sentiment sur les mêmes sujets </td>
+<td> </td>
+<td> </td>
+<TD> TA05 Microt-ciblage </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00028.md"> f00028 </a> </td>
+<TD> Associer une signature de clé publique aux documents gouvernementaux </td>
+<td> </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00029.md"> f00029 </a> </td>
+<TD> détecter les récits de proto, c'est-à-dire RT, Spoutnik </td>
+<td> </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00030.md"> f00030 </a> </td><TD> Détection et avertissement précoce - Rapports du contenu suspect </td>
+<td> </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00031.md"> f00031 </a> </td>
+<TD> éduquer sur la façon d'identifier la pollution de l'information </td>
+<TD> La planification stratégique incluse car la population innoculation a une valeur stratégique. </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00032.md"> f00032 </a> </td>
+<TD> éduquer sur la façon de s'identifier à la pollution </td>
+<TD> DUPLICATE - DELETE </TD>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00033.md"> f00033 </a> </td>
+<TD> Faux sites Web: Ajoutez la transparence sur le modèle commercial </td>
+<td> </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00034.md"> f00034 </a> </td>
+<TD> Frappez les espaces d'information afin que les gens connaissent l'effort d'inondation actif </td>
+<td> </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr><td> <a href="dections/f00035.md"> f00035 </a> </td>
+<TD> Identifier l'ADN narratif répété </td>
+<td> </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00036.md"> f00036 </a> </td>
+<TD> à la recherche de tests AB dans les canaux non réglementés </td>
+<td> </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00037.md"> f00037 </a> </td>
+<TD> Certification de provenance du contenu des nouvelles. </td>
+<TD> Commentaire original: Coffres: Faux intentionnels.Ne résout pas la précision.Ne peut pas être obligatoire.La technique devrait être en termes d '"inoculation stratégique", augmentant les normes de ce que les gens attendent en termes de preuves lors de la consommation de nouvelles. </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00038.md"> f00038 </a> </td>
+<TD> Capital social comme vecteur d'attaque </td><TD> incertain J'ai compris l'intention d'origine ou ce à quoi il s'appliquait.Par conséquent, les techniques énumérées (10, 39, 43, 57, 61) sont sous mon interprétation - à savoir que nous voulons suivre les agents ignorants qui tombent dans le piège ennemi et montrer un coût pour financer / republier / aider les adversaires via la honte publiqueou d'autres moyens. </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00039.md"> f00039 </a> </td>
+<TD> Normes pour suivre l'image / la vidéo Fausses profondes - Industrie </td>
+<td> </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00040.md"> f00040 </a> </td>
+<TD> Signature de métadonnées inaltérables sur les origines de l'image et de la provenance </td>
+<td> </td>
+<td> </td>
+<TD> TA06 Développer du contenu </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00041.md"> f00041 </a> </td>
+<TD> Détection du biais </td>
+<TD> Pas techniquement à gauche de Boom </td>
+<td> </td>
+<TD> Sélection de canaux TA07 </td>
+<TD> D01 </TD>
+</tr>
+<tr><td> <a href="dections/f00042.md"> f00042 </a> </td>
+<TD> Catégorisez les sondages par intention </td>
+<TD> Utilisez T00029, mais contre les créateurs </td>
+<td> </td>
+<TD> Sélection de canaux TA07 </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00043.md"> f00043 </a> </td>
+<TD> Surveiller pour la création de fausses personnalités connues </td>
+<TD> Les sociétés de plateformes et certaines sociétés de sécurité de l'information (par exemple Zerofox) le font. </td>
+<td> </td>
+<TD> Sélection de canaux TA07 </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00044.md"> f00044 </a> </td>
+<TD> Analyse médico-légale </td>
+<TD> peut être utilisé dans toutes les phases pour toutes les techniques. </td>
+<td> </td>
+<TD> TA08 POMPE POMPE </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00045.md"> f00045 </a> </td>
+<TD> Analyse linguistique médico-légale </td>
+<TD> peut être utilisé dans toutes les phases pour toutes les techniques. </td>
+<td> </td>
+<TD> TA08 POMPE POMPE </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00046.md"> f00046 </a> </td>
+<TD> Pump Priming Analytics </td>
+<td> </td>
+<td> </td>
+<TD> TA08 POMPE POMPE </TD><TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00047.md"> f00047 </a> </td>
+<TD> trace des parties impliquées </td>
+<td> </td>
+<td> </td>
+<TD> TA08 POMPE POMPE </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00048.md"> f00048 </a> </td>
+<TD> Trace les opérations et la connexion connues </td>
+<td> </td>
+<td> </td>
+<TD> TA08 POMPE POMPE </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00049.md"> f00049 </a> </td>
+<TD> Trace Money </td>
+<td> </td>
+<td> </td>
+<TD> TA08 POMPE POMPE </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00050.md"> f00050 </a> </td>
+<TD> Web Cache Analytics </td>
+<td> </td>
+<td> </td>
+<TD> TA08 POMPE POMPE </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00051.md"> f00051 </a> </td>
+<TD> Expertise défier </td>
+<td> </td>
+<td> </td>
+<TD> TA09 Exposition </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00052.md"> f00052 </a> </td>
+<TD> Découvrez les sponsors </td><TD> Découvrir les sponsors derrière une campagne, un récit, un bot, un ensemble de comptes ou un commentaire sur les réseaux sociaux, ou toute autre chose est utile. </td>
+<td> </td>
+<TD> TA09 Exposition </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00053.md"> f00053 </a> </td>
+<TD> Office de contrôle des rumeurs du gouvernement (que pouvons-nous apprendre?) </td>
+<td> </td>
+<td> </td>
+<TD> TA09 Exposition </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00054.md"> f00054 </a> </td>
+<TD> restreignez les personnes qui peuvent @ vous sur les réseaux sociaux </td>
+<td> </td>
+<td> </td>
+<TD> TA09 Exposition </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00055.md"> f00055 </a> </td>
+<TD> Vérifiez les informations d'identification </td>
+<td> </td>
+<td> </td>
+<TD> TA09 Exposition </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00056.md"> f00056 </a> </td>
+<TD> Vérifiez la légitimité de l'organisation </td>
+<td> </td>
+<td> </td>
+<TD> TA09 Exposition </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00057.md"> f00057 </a> </td>
+<TD> Vérifiez les informations d'identification personnelles des experts </td>
+<td> </td>
+<td> </td><TD> TA09 Exposition </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00058.md"> f00058 </a> </td>
+<TD> Déplatform (Annuler Culture) </td>
+<TD> * Déplaçant des personnes: cette technique doit être un peu plus spécifique pour la distinguer de la «suppression des comptes» ou des DDO et d'autres techniques qui sont plus spécifiques lorsqu'elles sont appliquées au contenu.Par exemple, d'autres façons de déplacer les gens comprennent l'attaque de leurs sources de fonds, leurs alliés, leurs partisans, etc. </td>
+<td> </td>
+<TD> TA10 GO Physical </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00059.md"> f00059 </a> </td>
+<TD> Identifier les données démographiques sensibles </td>
+<TD> Toutes les techniques fournissent ou sont susceptibles d'être contrées par ou exploitées pour les connaissances sur la démographie des utilisateurs. </td>
+<td> </td>
+<TD> TA10 GO Physical </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00060.md"> f00060 </a> </td>
+<TD> Identifier les influenceurs sensibles </td><TD> Je suppose qu'il s'agissait d'une erreur de transcription.Sinon, "identifier les influences sensibles" comme dans les différentes méthodes d'influences qui peuvent fonctionner contre une victime pourraient également être une technique.Non, ce n'était pas une erreur de transcription: la note originale indique les influenceurs, comme dans les personnes d'influence qui pourraient être ciblées. </td>
+<td> </td>
+<TD> TA10 GO Physical </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00061.md"> f00061 </a> </td>
+<TD> Microt-ciblage </td>
+<td> </td>
+<td> </td>
+<TD> TA10 GO Physical </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00062.md"> f00062 </a> </td>
+<td> détecter lorsque le compte dormant devient actif </td>
+<td> </td>
+<td> </td>
+<TD> TA11 Persistance </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00063.md"> f00063 </a> </td>
+<TD> Analyse des changements linguistiques </td>
+<td> </td>
+<td> </td>
+<TD> TA11 Persistance </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00064.md"> f00064 </a> </td>
+<TD> Surveiller les rapports de prise de contrôle du compte </td>
+<td> </td>
+<td> </td>
+<TD> TA11 Persistance </td>
+<TD> D01 </TD></tr>
+<tr>
+<td> <a href="dections/f00065.md"> f00065 </a> </td>
+<TD> Analyse du changement de sentiment </td>
+<td> </td>
+<td> </td>
+<TD> TA11 Persistance </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00066.md"> f00066 </a> </td>
+<TD> Utilisez des erreurs de langue, du temps pour répondre aux interdictions de compte et aux poursuites, pour indiquer les capacités </td>
+<td> </td>
+<td> </td>
+<TD> TA11 Persistance </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00067.md"> f00067 </a> </td>
+<TD> Data Forensics </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00068.md"> f00068 </a> </td>
+<TD> Analyse de résonance </td>
+<TD> Une méthodologie en développement pour identifier les différences statistiques dans la façon dont les groupes sociaux utilisent le langage et la quantification de la fréquence de ces différences statistiques au sein d'une population plus importante.Essentiellement, il émettait la quantité d'affinité pour un groupe spécifique au sein d'une population générale, en fonction de la langue que ses membres utilisent </td>
+<td> </td>
+<td> </td>
+<TD> D01 </TD>
+</tr>
+<tr><td> <a href="dections/f00069.md"> f00069 </a> </td>
+<TD> Suivez les médias russes et développez des méthodes analytiques. </td>
+<TD> Pour contrer efficacement la propagande russe, il sera essentiel de suivre les efforts d'influence russe.Les exigences d'information sont variées et incluent les éléments suivants: • Identifier les histoires fausses et leurs sources.• Comprendre les thèmes narratifs et le contenu qui imprègnent diverses sources de médias russes.• Comprendre la stratégie russe plus large qui sous-tend la messagerie de propagande tactique. </td>
+<td> </td>
+<td> </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00070.md"> f00070 </a> </td>
+<TD> Analyse du spectre complet </td>
+<td> </td>
+<td> </td>
+<td> Tous </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00071.md"> f00071 </a> </td>
+<TD> L'analyse du réseau identifie / cultivez / soutient les influenceurs </td> </td><TD> Les influenceurs locaux détectés via les réseaux Twitter sont probablement des influenceurs locaux dans d'autres canaux en ligne et hors ligne également.En outre, le contenu et les thèmes glanés de la Russie et des populations de support de Russie, ainsi que des militants anti-russes, tourbillonnent probablement également dans d'autres supports en ligne et hors ligne. </td>
+<td> </td>
+<td> </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00072.md"> f00072 </a> </td>
+<TD> Analyse du réseau pour identifier les utilisateurs centraux de la communauté activiste pro-russe. </td>
+<TD> Il est possible que certains d'entre eux soient des robots ou des trolls et puissent être signalés pour la suspension pour violer les conditions d'utilisation de Twitter. </td>
+<td> </td>
+<td> </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00073.md"> f00073 </a> </td>
+<TD> Collectez Intel / Recon sur les créateurs de contenu / manipulateurs noirs / couverts </td><TD> Les joueurs au niveau de l'attribution secrète, appelés «noirs» dans l'échelle de gris de déni, produisent du contenu sur les médias générés par les utilisateurs, tels que YouTube, mais ajoutent également des commentaires de peur et d'amplification du contenu produit par d'autres etFournir un contenu exploitable sur les sites Web de vidage de données.Ces activités sont menées par un réseau de trolls, de robots, de pots de miel et de pirates. </td>
+<td> </td>
+<td> </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00074.md"> f00074 </a> </td>
+<TD> Identifier les communautés pertinentes de clôture </td>Les programmes d'ambassadeur de la marque <TD> pourraient être utilisés avec des influenceurs dans une variété de réseaux sociaux.Il pourrait également cibler d'autres experts éminents, tels que les universitaires, les chefs d'entreprise et d'autres personnes potentiellement éminentes.Les autorités doivent finalement faire attention à la mise en œuvre d'un tel programme étant donné le risque que les contacts avec les autorités américaines ou de l'OTAN pourraient nuire à la réputation des influenceurs.Les engagements doivent par conséquent être faits avec soin et, si possible, les interlocuteurs du gouvernement devraient travailler sur des ONG locales. </td>
+<td> </td>
+<td> </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00075.md"> f00075 </a> </td>
+<TD> Tirez parti des informations open source </td><TD> Des quantités importantes d'informations sur les open source de qualité sont désormais disponibles et devraient être exploitées pour créer des produits et une analyse avant la hiérarchisation des problèmes dans les domaines d'observation, d'attribution et d'intention.La distinction avec succès du signal de la campagne de la zone grise à travers le bruit mondial nécessite une action à travers l'intégralité de la communauté de la sécurité nationale.La politique, le processus et les outils doivent tous s'adapter et évoluer pour détecter, discerner et agir sur un nouveau type de signal </td>
+<td> </td>
+<td> </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00076.md"> f00076 </a> </td>
+<TD> Surveiller / collecter des données d'engagement du public connectées aux «idiots utiles» </td>
+<TD> Le public cible lié aux "idiots utiles plutôt qu'aux profils spécifiques parce que - la présence active de telles sources complique le ciblage de la propagande russe, étant donné qu'il est souvent difficile de discriminer entre les vues et les opinions authentiques sur Internet et les personnes disséminées par lesÉtat russe. </td>
+<td> </td><td> </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00077.md"> f00077 </a> </td>
+<TD> Modèle pour le comportement du compte BOT </td>
+<TD> BOT Compte: Action, les gens.Incertain quelles techniques désarment. </td>
+<td> </td>
+<TD> TA15 - Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00078.md"> f00078 </a> </td>
+<TD> Surveiller l'activité du niveau du compte dans les réseaux sociaux </td>
+<TD> Toutes les techniques bénéficient d'une analyse minutieuse et d'une surveillance des activités sur le réseau social. </td>
+<td> </td>
+<TD> TA15 - Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00079.md"> f00079 </a> </td>
+<TD> Détection des anomalies du réseau </td>
+<td> </td>
+<td> </td>
+<TD> TA05 Microt-ciblage </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00080.md"> f00080 </a> </td>
+<TD> Pirater les sondages / Contenu vous-même </td>
+<TD> Deux torts ne font pas de bien?Mais si vous piratez vos propres sondages, vous apprenez comment cela pourrait être fait et apprenez quoi rechercher </td>
+<td> </td>
+<TD> Sélection de canaux TA07 </td><TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00081.md"> f00081 </a> </td>
+<TD> Besoin de moyen pour l'utilisateur final pour signaler les opérations </td>
+<td> </td>
+<td> </td>
+<TD> TA09 Exposition </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00082.md"> f00082 </a> </td>
+<TD> Contrôlez les tableaux de traduction "argot" américains </td>
+<td> </td>
+<td> </td>
+<TD> TA11 Persistance </td>
+<TD> D03 </td>
+</tr>
+<tr>
+<td> <a href="dections/f00083.md"> f00083 </a> </td>
+<TD> Builler et posséder un générateur de mèmes, puis suivre et faire un filigrane le contenu </td>
+<td> </td>
+<td> </td>
+<TD> TA11 Persistance </td>
+<TD> D05 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00084.md"> f00084 </a> </td>
+<TD> Suivre les mauvais acteurs individuels </td>
+<td> </td>
+<td> </td>
+<TD> TA15 - Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00085.md"> f00085 </a> </td>
+<TD> Détection d'un signal faible à travers le bruit global </td><TD> Les menaces de zone grise sont difficiles étant donné que l'avertissement nécessite la détection d'un signal faible à travers le bruit mondial et à travers les vecteurs de menace et les limites régionales.Une «vue d'ensemble» sur de longues échelles de temps et entre les régions et les sujets fonctionnels.Attribution: nécessitant une évaluation «presque certaine» ou «presque certaine analytique avant d'agir les coûts et l'effort analytique Intention: jugement de l'intention adversaire de mener une activité de la zone grise.En effet, le but de contrer les menaces de zone grise est de dissuader les adversaires de réaliser leur intention d'agir.Bien que l'attribution soit une pièce du puzzle, la fermeture de l'espace autour de l'intention signifie souvent synthétiser plusieurs indicateurs et avertissements pertinents, y compris les ambitions géopolitiques de l'État, les liens militaires, le commerce et l'investissement, le niveau de corruption et le paysage médiatique, entre autres. </ TD>
+<td> </td><td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href="dections/f00086.md"> f00086 </a> </td>
+<TD> Ossu les capacités d'intelligence des concurrents </td>
+<TD> Développez une compréhension basée sur l'intelligence des motivations, des psychologies et des contextes sociétaux et géopolitiques des acteurs étrangers.Tirez parti de l'intelligence artificielle pour identifier les modèles et déduire l'intention des concurrents </td>
+<td> </td>
+<TD> TA02 OBJECTIF PLANIFICATION </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00087.md"> f00087 </a> </td>
+<TD> Améliorer les indications et l'avertissement </td>
+<TD> Les États-Unis n'ont pas correctement adapté ses indicateurs d'information et ses seuils pour avertir les décideurs politiques pour tenir compte des tactiques de la zone grise.Les concurrents ont entrepris un changement marqué vers des défis ralentis, trompeurs, non militaires et indirects aux intérêts américains.Par rapport aux indicateurs et avertissements de sécurité traditionnels, ceux-ci sont plus nombreux et plus difficiles à détecter et à rendre difficile pour les analystes de déduire l'intention. </td>
+<td> </td>
+<td> </td>
+<TD> D01 </TD>
+</tr>
+<tr><td> <a href="dections/f00088.md"> f00088 </a> </td>
+<TD> Revitaliser un «groupe de travail des mesures actifs», </td>
+<TD> Reconnaître les campagnes de signaux faibles, notamment l'intention des rivaux, la capacité, l'impact, les effets interactifs et l'impact sur les intérêts américains ... se concentrer sur les aspects de l'action secrète adversaire de la campagne. </td>
+<td> </td>
+<td> </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00089.md"> f00089 </a> </td>
+<TD> Target / Name / Flag "Zone Gray" Contenu du site </td>
+<TD> "Zone grise" est le deuxième niveau de producteurs de contenu et de circulateurs, composés de prises avec une attribution incertaine.Cette catégorie couvre les sites Web de complot, les sites Web d'extrême droite ou d'extrême gauche, les agrégateurs de nouvelles et les sites Web de vidage de données </td>
+<td> </td>
+<TD> TA15 Établir des actifs sociaux </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00090.md"> f00090 </a> </td>
+<TD> Faire correspondre des outils punitifs avec des incitations tierces </td>
+<TD> Mettez en accord sur le secteur privé et la société civile sur les intérêts américains </td>
+<td> </td><TD> TA01 Planification stratégique </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00091.md"> f00091 </a> </td>
+<TD> Partenaire pour développer des méthodes et des outils analytiques </td>
+<TD> Cela pourrait inclure le travail avec les entreprises technologiques pertinentes pour garantir que le support analytique contracté est disponible.Le soutien contractuel serait précieux parce que la technologie pour surveiller les données sur les réseaux sociaux évolue continuellement, et ces entreprises peuvent fournir l'expertise pour aider à identifier et à analyser les tendances, et ils peuvent rester plus efficacement au courant des systèmes changeants et développer de nouveaux modèles tels qu'ils sont nécessaires </ td>
+<td> </td>
+<TD> TA01 Planification stratégique </td>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00092.md"> f00092 </a> </td>
+<TD> Daylight </td>
+<TD> avertissez les sociétés de médias sociaux d'une campagne en cours (par exemple, les sites antivax).Toute personne ayant des ensembles de données ou des résumés de données peut aider à ce </td>
+<td> </td>
+<TD> TA09 Exposition </TD>
+<TD> D01 </TD>
+</tr>
+<tr>
+<td> <a href="dections/f00093.md"> f00093 </a> </td><td>S4d detection and re-allocation approaches</td>
 <td>S4D is a way to separate out different speakers in text, audio.</td>
 <td>M004 - Friction</td>
 <TD> TA15 - Établir des actifs sociaux </td>

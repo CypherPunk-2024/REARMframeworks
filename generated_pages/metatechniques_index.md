@@ -1,79 +1,77 @@
-# DISARM Metatechniques:
+# Désarmer les métates:
 
-<table border="1">
+<table bordure = "1">
 <tr>
-<th>disarm_id</th>
-<th>name</th>
-<th>summary</th>
+<h> DISARM_ID </ TH>
+<th> nom </th>
+<h> Résumé </th>
 </tr>
 <tr>
-<td><a href="metatechniques/M001.md">M001</a></td>
-<td>Resilience</td>
-<td>Increase the resilience to disinformation of the end subjects or other parts of the underlying system</td>
+<td> <a href="MetateChniques/M001.md"> m001 </a> </td>
+<TD> RÉSILIENCE </TD>
+<TD> Augmentez la résilience à la désinformation des sujets finaux ou d'autres parties du système sous-jacent </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M002.md">M002</a></td>
-<td>Diversion</td>
-<td>Create alternative channels, messages etc in disinformation-prone systems</td>
+<td> <a href="MetateChniques/M002.md"> m002 </a> </td>
+<TD> Diversion </td>
+<TD> Créez des canaux alternatifs, des messages, etc. dans des systèmes sujets à la désinformation </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M003.md">M003</a></td>
-<td>Daylight</td>
-<td>Make disinformation objects, mechanisms, messaging etc visible</td>
+<td> <a href="MetateChniques/M003.md"> m003 </a> </td>
+<TD> Daylight </td>
+<TD> Faire des objets de désinformation, des mécanismes, la messagerie, etc. Visible </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M004.md">M004</a></td>
-<td>Friction</td>
-<td>Slow down transmission or uptake of disinformation objects, messaging etc</td>
+<td> <a href="MetateChniques/M004.md"> m004 </a> </td>
+<TD> Friction </td>
+<TD> Ralentissez la transmission ou l'absorption d'objets de désinformation, de messagerie, etc. </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M005.md">M005</a></td>
-<td>Removal</td>
-<td>Remove disinformation objects from the system</td>
+<td> <a href="MetateChniques/M005.md"> m005 </a> </td>
+<TD> REPLACE </TD>
+<td> supprimer les objets de désinformation du système </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M006.md">M006</a></td>
-<td>Scoring</td>
-<td>Use a rating system</td>
+<td> <a href="Metatechniques/M006.md"> m006 </a> </td>
+<TD> Scoring </td><TD> Utilisez un système de notation </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M007.md">M007</a></td>
-<td>Metatechnique</td>
-<td></td>
+<td> <a href="MetateChniques/M007.md"> m007 </a> </td>
+<TD> MetaTechnique </td>
+<td> </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M008.md">M008</a></td>
-<td>Data Pollution</td>
-<td>Add artefacts to the underlying system that deliberately confound disinformation monitoring</td>
+<td> <a href="Metatechniques/M008.md"> m008 </a> </td>
+<TD> Pollution des données </td>
+<TD> Ajouter des artefacts au système sous-jacent qui confonde délibérément la surveillance de la désinformation </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M009.md">M009</a></td>
-<td>Dilution</td>
-<td>Dilute disinformation artefacts and messaging with other content (kittens!)</td>
+<td> <a href="MetateChniques/M009.md"> m009 </a> </td>
+<TD> Dilution </td>
+<TD> Artefacts de désinformation dilués et messagerie avec d'autres contenus (chatons!) </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M010.md">M010</a></td>
-<td>Countermessaging</td>
-<td>Create and distribute alternative messages to disinformation</td>
+<td> <a href="Metatechniques/M010.md"> M010 </a> </td>
+<TD> CounterMessaging </td>
+<TD> Créer et distribuer des messages alternatifs à la désinformation </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M011.md">M011</a></td>
-<td>Verification</td>
-<td>Verify objects, content, connections etc. Includes fact-checking</td>
+<td> <a href="MetateChniques/M011.md"> M011 </a> </td>
+<TD> Vérification </td>
+<TD> Vérifiez les objets, le contenu, les connexions, etc. Inclut la vérification des faits </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M012.md">M012</a></td>
-<td>Cleaning</td>
-<td>Clean unneeded resources (accounts etc) from the underlying system so they can't be used in disinformation</td>
+<td> <a href="MetateChniques/M012.md"> M012 </a> </td>
+<TD> Nettoyage </td>
+<TD> Nettoyer des ressources inutiles (comptes etc.) du système sous-jacent afin qu'ils ne puissent pas être utilisés dans la désinformation </td>
+</tr>
+<tr><td> <a href="MetateChniques/M013.md"> M013 </a> </td>
+<TD> Cibler </td>
+<TD> cibler les composants d'une campagne de désinformation </td>
 </tr>
 <tr>
-<td><a href="metatechniques/M013.md">M013</a></td>
-<td>Targeting</td>
-<td>Target the components of a disinformation campaign</td>
+<td> <a href="MetateChniques/M014.md"> M014 </a> </td>
+<TD> Réduisez les ressources </td>
+<TD> Réduisez les ressources disponibles pour les créateurs de désinformation </td>
 </tr>
-<tr>
-<td><a href="metatechniques/M014.md">M014</a></td>
-<td>Reduce Resources</td>
-<td>Reduce the resources available to disinformation creators</td>
-</tr>
-</table>
+</ table>

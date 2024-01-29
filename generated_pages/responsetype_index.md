@@ -23,8 +23,7 @@
 </tr>
 <tr>
 <TD> <a href="Ponse Types/D04.md"> d04 </a> </td>
-<TD> Dégrader </td>
-<TD> Réduisez l'efficacité ou l'efficacité des systèmes de commande et de contrôle ou de communication des créateurs de désinformation, et les efforts de collecte d'informations ou les moyens, soit indéfiniment, soit pour une période limitée. </td>
+<TD> Dégrader </td><TD> Réduisez l'efficacité ou l'efficacité des systèmes de commande et de contrôle ou de communication des créateurs de désinformation, et les efforts de collecte d'informations ou les moyens, soit indéfiniment, soit pour une période limitée. </td>
 </tr>
 <tr>
 <TD> <a href="Ponse Types/D05.md"> d05 </a> </td>
