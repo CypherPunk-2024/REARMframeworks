@@ -1,44 +1,44 @@
-# DISARM Response types:
+| [Désarmer les types de réponse:
 
-<table border="1">
+<table bordure = "1">
 <tr>
-<th>disarm_id</th>
-<th>name</th>
-<th>summary</th>
+<h> DISARM_ID </ TH>
+<th> nom </th>
+<h> Résumé </th>
 </tr>
 <tr>
-<td><a href="response types/D01.md">D01</a></td>
-<td>Detect</td>
-<td>Discover or discern the existence, presence, or fact of an intrusion into information systems.</td>
+<TD> <a href="Ponse Types/d01.md"> d01 </a> </td>
+<TD> détecter </td>
+<TD> Découvrez ou discernant l'existence, la présence ou les faits d'une intrusion dans les systèmes d'information. </td>
 </tr>
 <tr>
-<td><a href="response types/D02.md">D02</a></td>
-<td>Deny</td>
-<td>Prevent disinformation creators from accessing and using critical information, systems, and services. Deny is for an indefinite time period.</td>
+<Td> <a href="Ponse Types/D02.MD"> d02 </a> </td>
+<td> nier </td>
+<TD> Empêcher les créateurs de désinformation d'accéder et d'utiliser des informations, des systèmes et des services critiques.Refuser est pour une période de temps indéfinie. </td>
 </tr>
 <tr>
-<td><a href="response types/D03.md">D03</a></td>
-<td>Disrupt</td>
-<td>Completely break or interrupt the flow of information, for a fixed amount of time. (Deny, for a limited time period). Not allowing any efficacy, for a short amount of time.</td>
+<Td> <a href="Ponse Types/d03.md"> d03 </a> </td>
+<TD> Disrupter </td>
+<TD> casser ou interrompre complètement le flux d'informations, pendant une durée fixe.(Nier, pour une période limitée).Ne permettant aucune efficacité, pendant un court laps de temps. </td>
 </tr>
 <tr>
-<td><a href="response types/D04.md">D04</a></td>
-<td>Degrade</td>
-<td>Reduce the effectiveness or efficiency of disinformation creators’ command and control or communications systems, and information collection efforts or means, either indefinitely, or for a limited time period.</td>
+<TD> <a href="Ponse Types/D04.md"> d04 </a> </td>
+<TD> Dégrader </td>
+<TD> Réduisez l'efficacité ou l'efficacité des systèmes de commande et de contrôle ou de communication des créateurs de désinformation, et les efforts de collecte d'informations ou les moyens, soit indéfiniment, soit pour une période limitée. </td>
 </tr>
 <tr>
-<td><a href="response types/D05.md">D05</a></td>
-<td>Deceive</td>
-<td>Cause a person to believe what is not true. military deception seeks to mislead adversary decision makers by manipulating their perception of reality.</td>
+<TD> <a href="Ponse Types/D05.md"> d05 </a> </td>
+<TD> Deceive </td>
+<TD> Faire croire à une personne ce qui n'est pas vrai.La tromperie militaire cherche à induire en erreur les décideurs adversaires en manipulant leur perception de la réalité. </td>
 </tr>
 <tr>
-<td><a href="response types/D06.md">D06</a></td>
-<td>Destroy</td>
-<td>Damage a system or entity so badly that it cannot perform any function or be restored to a usable condition without being entirely rebuilt. Destroy is permanent, e.g. you can rebuild a website, but it’s not the same website.</td>
+<Td> <a href="Ponse Types/d06.md"> d06 </a> </td>
+<TD> Détruiser </td>
+<TD> endommage si mal un système ou une entité qu'il ne peut exécuter aucune fonction ou être restauré dans une condition utilisable sans être entièrement reconstruit.Detrère est permanente, par ex.Vous pouvez reconstruire un site Web, mais ce n'est pas le même site Web. </td>
 </tr>
 <tr>
-<td><a href="response types/D07.md">D07</a></td>
-<td>Deter</td>
-<td>Discourage.</td>
+<Td> <a href="Ponse Types/d07.md"> d07 </a> </td>
+<TD> Déterminer </td>
+<td> décourage. </td>
 </tr>
-</table>
+</ table>
