@@ -15,7 +15,7 @@ REAMframeworks est un fork de DISARMframework en version française.
 
 | Incidents Recensés |
 |-------------------|
-| [Liste d'Incidents](../../generated_pages/incidents_index.md) |
+| [Liste d'Incidents](generated_pages/incidents_index.md) |
 
 # Désarmer la désinformation TTP (tactiques, techniques et procédures)
 
