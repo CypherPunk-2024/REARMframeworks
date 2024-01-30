@@ -1,4 +1,4 @@
-# <code style="color : red">REARM frameworks - Armez-vous contre la désinformation</span>
+# <code style="color : red">REARM frameworks - Armez-vous contre la désinformation</code>
 
 REAMframeworks est un fork de DISARMframework en Version Française
 
