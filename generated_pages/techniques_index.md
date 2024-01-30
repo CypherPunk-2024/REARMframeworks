@@ -1591,7 +1591,7 @@ La suppression <TD> URL se produit lorsqu'une opération d'influence supprime co
 </tr>
 <tr>
 <td> <a href="techniques/T0138.002.md"> T0138.002 </a> </td>
-<TD> PROVOT </TD><TD> Icigate, inciter ou susciter une cible pour agir.Les manipulateurs des médias sociaux exploitent l'indignation morale pour propulser des objectifs pour répandre la haine, descendre dans les rues pour protester ou s'engager dans des actes de violence.</td>
+<TD> Provoquez </TD><TD> Icigate, inciter ou susciter une cible pour agir.Les manipulateurs des médias sociaux exploitent l'indignation morale pour propulser des objectifs pour répandre la haine, descendre dans les rues pour protester ou s'engager dans des actes de violence.</td>
 <TD> TA02 </TD>
 </tr>
 <tr>
