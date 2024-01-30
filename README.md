@@ -1,8 +1,29 @@
+# REARM frameworks - Armez-vous contre la désinformation
+
+REAM Framework est un fork de DISARMframework en Version Française.
+
+## MENU
+|Liens |Catégorie |
+|-------- |-------------- |
+|Blue TEAM :[Se Défendre contre la Désinformation](../../generated_pages/disarm_blue_framework.md) |Défense |
+|Red  TEAM :[Méthodes d'attaques de Désinformation](../../generated_pages/disarm_blue_framework.md) |Attaque |
+|--[ Les Techniques ](../../generated_pages/techniques_index.md) |Techniques|
+|--[ Les Tactiques ](../../generated_pages/techniques_index.md) |Tactiques|
+|--[ Les Tâches ](../../generated_pages/tasks_index.md) |Tâches |
+|--[ Les Phases ](../../generated_pages/tasks_index.md) |Phases |
+|--[ Identifier ](../../generated_pages/tasks_index.md) |Détection | 
+
+
+|Incidents Recencés |
+|-------------------|
+|[ Liste d'Incidents ](../../generated_pages/tasks_index.md) |
+
 # Désarmer la désinformation TTP (tactiques, techniques et procédures)
 
 Le désarmement est un cadre conçu pour décrire et comprendre les incidents de désinformation.Disarm fait partie des travaux sur l'adaptation des pratiques de sécurité de l'information (INFOSEC) pour aider à suivre et à contrer la désinformation et à d'autres dommages à l'information, et est conçu pour s'adapter aux pratiques et outils Infosec existants.
 
 Le style de Disarm est basé sur le [mitre att & amp; ck framework](https://github.com/mitre-attack/attack-website/).Les modèles STIX pour les objets de désarmement sont disponibles dans le [DISARM_CTI Repo](https://github.com/DISARMFoundation/DISARM_cti) - Celles-ci facilitent le désarmement de données entre Isaos et des corps similaires en utilisant des normes comme les taxi.
+
 
 ## Qu'y a-t-il dans ce dossier
 
