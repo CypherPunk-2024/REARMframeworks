@@ -10,8 +10,7 @@ REAMframeworks est un fork de DISARMframework en Version Française.
 |--[ Les Techniques ](../../generated_pages/techniques_index.md) |Techniques|
 |--[ Les Tactiques ](../../generated_pages/techniques_index.md) |Tactiques|
 |--[ Les Tâches ](../../generated_pages/tasks_index.md) |Tâches |
-|--[ Les Phases ](../../generated_pages/phases_index.md) |Phases |
-|--[ Identifier ](../../generated_pages/detections_index.md) |Détection | 
+|--[ Les Phases ](../../generated_pages/phases_index.md) |Phases | 
 
 
 |Incidents Recencés |
