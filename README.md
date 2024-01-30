@@ -46,9 +46,9 @@ Désarmer des objets: toutes les entités utilisées pour créer l'équipe <span
 
 * 2020: **[miter](https://www.mitre.org/) et [fiu: Florida International University](https://www.fiu.edu/)** a fourré le modèle Amitt Red pour créer le cadre d'épice,Dirigé par Mark Finlayson à la CRF.
 
-* 2020-2022: **[cogseccollab](http://cogsec-collab.org/)** a maintenu et mis à jour les modèles Amitt originaux.Cogseccollab est l'organisme à but non lucratif qui a sorti de Misinfosecwg.
+* 2020-2022: **[cogseccollab]([http://cogsec-collab.org/](https://github.com/cogsec-collaborative/AMITT))** a maintenu et mis à jour les modèles Amitt originaux.Cogseccollab est l'organisme à but non lucratif qui a sorti de Misinfosecwg.
 
-<a href="https://cogsec-collab.org](https://github.com/cogsec-collaborative/AMITT)">Cogseccollab</a> <span style="color:yellow">a utilisé Amitt dans les réponses Covid-19 de la <span style="color:red">*Ligue CTI*</span> et l'a testée en essais avec l'OTAN, l'UE et les unités de désinformation de plusieurs autres pays.</span>
+**[cogseccollab]([http://cogsec-collab.org/](https://github.com/cogsec-collaborative/AMITT))** <span style="color:yellow">a utilisé Amitt dans les réponses Covid-19 de la <span style="color:red">*Ligue CTI*</span> et l'a testée en essais avec l'OTAN, l'UE et les unités de désinformation de plusieurs autres pays.</span>
 
 SJ Terp et Pablo Breuer ont tenu l'autorité de conception des modèles Amitt.
 
