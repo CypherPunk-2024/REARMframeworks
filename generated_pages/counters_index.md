@@ -26,14 +26,14 @@
 <TD> D04 </td>
 </tr>
 <tr>
-<td> <a href="Counters/C00009.md"> C00009 </a> </td>
+<td> <a href="counters/C00009.md"> C00009 </a> </td>
 <TD> éduquer les influenceurs de haut niveau sur les meilleures pratiques </td><TD> Trouvez des influenceurs en ligne.Fournir une formation dans les mécanismes de désinformation, comment repérer les campagnes et / ou comment contribuer aux réponses en contrevenant, en stimulant les sites d'information, etc. </td>
 <TD> M001 - RÉSILIENCE </TD>
 <TD> TA02 OBJECTIF PLANIFICATION </TD>
 <Td> D02 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00010.md"> c00010 </a> </td>
+<td> <a href="counters/c00010.md"> c00010 </a> </td>
 <TD> Règlement amélioré de la confidentialité pour les médias sociaux </td>
 <TD> Implémentez les normes de confidentialité plus fortes, pour réduire la capacité de microt cible les membres de la communauté. </td>
 <TD> M004 - Friction </td>
@@ -64,7 +64,7 @@ Framework de notation <TD> pour les nouvelles </td>
 <TD> TA01 Planification stratégique </td>
 <Td> D02 </td>
 </tr>
-<tr><td> <a href="Counters/c00014.md"> C00014 </a> </td>
+<tr><td> <a href="counters/c00014.md"> C00014 </a> </td>
 <TD> Mises à jour en temps réel de la base de données de vérification des faits </td>
 <TD> Mettez à jour les bases de données et les ressources de vérification des faits en temps réel.En particulier l'importation des événements limitées dans le temps comme les catastrophes naturelles. </td>
 <TD> M006 - Score </td>
@@ -87,7 +87,7 @@ Framework de notation <TD> pour les nouvelles </td>
 <TD> TA01 Planification stratégique </td>
 <TD> D03 </td>
 </tr>
-<tr><td> <a href="Counters/c00019.md"> C00019 </a> </td>
+<tr><td> <a href="counters/c00019.md"> C00019 </a> </td>
 <TD> Réduisez l'effet de division-interprètes </td>
 <TD> Comprend la promotion de la communication constructive en faisant honte aux installateurs de division et promouvoir des manuels pour appeler les instructions de division </td>
 <TD> M003 - Daylight </td>
@@ -111,7 +111,7 @@ Framework de notation <TD> pour les nouvelles </td>
 <TD> D04 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00024.md"> c00024 </a> </td>
+<td> <a href="counters/c00024.md"> c00024 </a> </td>
 <TD> Promouvoir des récits sains </td><TD> comprend la promotion de récits constructifs, c'est-à-dire non polarisants (par exemple pro-vie, pro-choix, pro-USA).Comprend la promotion des récits neutres de l'identité. </td>
 <TD> M001 - RÉSILIENCE </TD>
 <TD> TA01 Planification stratégique </td>
@@ -141,14 +141,14 @@ Framework de notation <TD> pour les nouvelles </td>
 <TD> D03 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00029.md"> C00029 </a> </td>
+<td> <a href="counters/c00029.md"> C00029 </a> </td>
 <TD> Créer un faux site Web pour émettre un contre-récit et un contre-récit à travers des marchandises physiques </td>
 <TD> Créer des sites Web dans les vides de désinformation - Espaces où les gens recherchent une désinformation connue. </td>
 <TD> M002 - Diversion </td>
 <TD> TA02 OBJECTIF PLANIFICATION </TD><TD> D03 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00030.md"> c00030 </a> </td>
+<td> <a href="counters/c00030.md"> c00030 </a> </td>
 <TD> Développer un compteur convaincant (basé sur la vérité) </td>
 <td> </td>
 <TD> M002 - Diversion </td>
@@ -172,7 +172,7 @@ Framework de notation <TD> pour les nouvelles </td>
 <TD> D03 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00034.md"> c00034 </a> </td>
+<td> <a href="counters/c00034.md"> c00034 </a> </td>
 <TD> Créez plus de frottement à la création de compte </td>
 <TD> compteurs faux compte </td><TD> M004 - Friction </td>
 <TD> TA15 - Établir des actifs sociaux </td>
@@ -187,7 +187,7 @@ Framework de notation <TD> pour les nouvelles </td>
 <Td> D02 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00040.md"> c00040 </a> </td>
+<td> <a href="counters/c00040.md"> c00040 </a> </td>
 <TD> Vérification des tiers pour les personnes </td>
 <TD> compte les faux experts </td>
 <TD> M011 - Vérification </td>
@@ -203,7 +203,7 @@ Framework de notation <TD> pour les nouvelles </td>
 <TD> D04 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00044.md"> c00044 </a> </td><TD> empêcher les gens de publier immédiatement les médias sociaux </td>
+<td> <a href="counters/c00044.md"> c00044 </a> </td><TD> empêcher les gens de publier immédiatement les médias sociaux </td>
 Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activités, forcer un petit retard entre les publications ou les réponses aux publications. </td>
 <TD> M004 - Friction </td>
 <TD> TA15 - Établir des actifs sociaux </td>
@@ -240,7 +240,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <Td> D02 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00052.md"> c00052 </a> </td>
+<td> <a href="counters/c00052.md"> c00052 </a> </td>
 <TD> Infiltrat Plateformes </td>
 <td> détecter et dégrader </td>
 <TD> M013 - Cibler </td>
@@ -248,7 +248,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <TD> D04 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00053.md"> c00053 </a> </td>
+<td> <a href="counters/c00053.md"> c00053 </a> </td>
 <TD> Supprimer les anciens comptes / Supprimer les comptes de médias sociaux inutilisés </td>
 <TD> supprimer ou supprimer l'accès à (par exemple, arrêter la possibilité de mettre à jour) d'anciens comptes de médias sociaux, pour réduire le pool de comptes disponibles pour la prise de contrôle, les botnets, etc. </td>
 <TD> M012 - Nettoyage </td>
@@ -271,7 +271,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <Td> D02 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00059.md"> c00059 </a> </td>
+<td> <a href="counters/c00059.md"> c00059 </a> </td>
 <TD> Vérification du projet avant de publier des demandes de fonds </td>
 <TD> Vérification tierce des projets affichant des campagnes de financement avant que ces campagnes puissent être publiées. </td>
 <TD> M011 - Vérification </td>
@@ -287,7 +287,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <TD> D03 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00062.md"> c00062 </a> </td>
+<td> <a href="counters/c00062.md"> c00062 </a> </td>
 <TD> Sources de bibliothèque ouverte gratuites dans le monde </td>Les bibliothèques <TD> Open-source pourraient être créées qui aident d'une manière ou d'une autre pour chaque technique.Même pour la planification stratégique, certains cadres open source tels que le désarmement peuvent être créés pour contrer les efforts contradictoires. </td>
 <TD> M010 - CounterMessaging </td>
 <TD> TA15 Établir des actifs sociaux </td>
@@ -393,14 +393,14 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <TD> D03 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00081.md"> c00081 </a> </td>
+<td> <a href="counters/c00081.md"> c00081 </a> </td>
 <TD> Mettez en évidence les inondations et le bruit et expliquez les motivations </td>
 <TD> discrédit en soulignant le "bruit" et en informant le public que "les inondations" est une technique de campagnes de désinformation;Soulignez l'objectif prévu de "bruit" </td>
 <TD> M003 - Daylight </td>
 <TD> TA06 Développer du contenu </td>
 <TD> D03 </td>
 </tr>
-<tr><td> <a href="Counters/c00082.md"> c00082 </a> </td>
+<tr><td> <a href="counters/c00082.md"> c00082 </a> </td>
 <TD> Ground Trutting comme réponse automatisée à la pollution </td>
 <td> Inoculation. </td>
 <TD> M010 - CounterMessaging </td>
@@ -453,7 +453,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <TD> D05 </TD>
 </tr>
 <tr>
-<td> <a href="Counters/c00092.md"> c00092 </a> </td>
+<td> <a href="counters/c00092.md"> c00092 </a> </td>
 <TD> Établissez un score de réputation de la diseuse de vérité pour les influenceurs </td>
 <TD> comprend «Établir un score de réputation de la conduite de vérité pour les influenceurs» et «les scores de réputation pour les utilisateurs de médias sociaux». Les influenceurs sont des individus ou des comptes avec de nombreux abonnés. </td>
 <TD> M006 - Score </td>
@@ -461,7 +461,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <TD> D07 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00093.md"> c00093 </a> </td>
+<td> <a href="counters/c00093.md"> c00093 </a> </td>
 <TD> Code de conduite d'influence </td>
 <TD> Établir un code de conduite sur mesure pour les personnes avec de nombreux abonnés.Peut être le code de conduite de la plate-forme;peut également être le code communautaire. </td>
 <TD> M001 - RÉSILIENCE </TD>
@@ -476,7 +476,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <TD> D04 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00096.md"> c00096 </a> </td>
+<td> <a href="counters/c00096.md"> c00096 </a> </td>
 <TD> Renforce les institutions qui sont toujours des conselleurs de vérité </td>
 <TD> Augmentez la crédibilité, la visibilité et la portée des influenceurs positifs dans l'espace d'information. </td>
 <TD> M006 - Score </td>
@@ -499,7 +499,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <TD> Sélection de canaux TA07 </td><Td> D02 </td>
 </tr>
 <tr>
-<td> <a href="Counters/c00099.md"> C00099 </a> </td>
+<td> <a href="counters/c00099.md"> C00099 </a> </td>
 <TD> Renforcer les méthodes de vérification </td>
 <TD> Améliorer les méthodes de veérification du contenu disponibles pour les groupes, les individus, etc. </td>
 <TD> M004 - Friction </td>
@@ -553,7 +553,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <TD> TA06 Développer du contenu </td>
 <Td> D02 </td>
 </tr>
-<tr><td> <a href="Counters/C00109.md"> C00109 </a> </td>
+<tr><td> <a href="counters/C00109.md"> C00109 </a> </td>
 <TD> amortir la réaction émotionnelle </td>
 <TD> Réduisez les réponses émotionnelles à la désinformation à travers des messages apaisants, etc. </td>
 <TD> M001 - RÉSILIENCE </TD>
@@ -577,14 +577,14 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <Td> D02 </td>
 </tr>
 <tr>
-<td> <a href="Counters/C00113.md"> C00113 </a> </td>
+<td> <a href="counters/C00113.md"> C00113 </a> </td>
 <td> démystifier et désamorcer un faux expert / des informations d'identification. </td>
 <TD> Débanner les faux experts, leurs références et potentiellement aussi leur qualité d'audience </td>
 <TD> M003 - Daylight </td>
 <TD> TA08 POMPE POMPE </TD>
 <Td> D02 </td></tr>
 <tr>
-<td> <a href="Counters/C00114.md"> C00114 </a> </td>
+<td> <a href="counters/C00114.md"> C00114 </a> </td>
 <TD> Ne vous engagez pas avec les charges utiles </td>
 <TD> Arrêtez de passer de la désinformation </td>
 <TD> M004 - Friction </td>
@@ -592,7 +592,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <Td> D02 </td>
 </tr>
 <tr>
-<td> <a href="Counters/C00115.md"> C00115 </a> </td>
+<td> <a href="counters/C00115.md"> C00115 </a> </td>
 <TD> Exposez l'acteur et les intentions </td>
 <TD> Débrune des créateurs et affiches de désinformation. </td>
 <TD> M003 - Daylight </td>
@@ -623,7 +623,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <TD> D04 </td>
 </tr>
 <tr>
-<td> <a href="Counters/C00119.md"> C00119 </a> </td>
+<td> <a href="counters/C00119.md"> C00119 </a> </td>
 <TD> Engagez la charge utile et démystiser. </td>
 <TD> Débondre le contenu de désinformation.Fournir un lien vers les faits. </td>
 <TD> M010 - CounterMessaging </td>
@@ -732,7 +732,7 @@ Les plates-formes <TD> peuvent introduire des frictions pour ralentir les activi
 <TD> D03 </td>
 </tr>
 <tr>
-<td> <a href="Counters/C00136.md"> C00136 </a> </td>
+<td> <a href="counters/C00136.md"> C00136 </a> </td>
 <TD> Microtarget Cibles très probablement, puis les envoyer des contre-mesures </td><TD> Trouvez des communautés susceptibles d'être ciblées par des campagnes de désinformation et les envoyer des contre-mesures ou des pointeurs vers des sources d'information. </td>
 <TD> M010 - CounterMessaging </td>
 <TD> TA08 POMPE POMPE </TD>
@@ -823,7 +823,7 @@ La plate-forme <TD> ajoute l'étiquette d'avertissement et le point de décision
 <TD> TA08 POMPE POMPE </TD><Td> D02 </td>
 </tr>
 <tr>
-<td> <a href="Counters/C00155.md"> C00155 </a> </td>
+<td> <a href="counters/C00155.md"> C00155 </a> </td>
 <TD> Interdire les acteurs incidents de financement des sites </td>
 <TD> Interdire les créateurs de désinformation et les affiches des sites de financement </td>
 <TD> M005 - Retrait </td>
@@ -839,7 +839,7 @@ La plate-forme <TD> ajoute l'étiquette d'avertissement et le point de décision
 <TD> D03 </td>
 </tr>
 <tr>
-<td> <a href="Counters/C00159.md"> C00159 </a> </td>
+<td> <a href="counters/C00159.md"> C00159 </a> </td>
 <TD> ont un plan de réponse de désinformation </td><TD> par exemple.Créez un plan de campagne et une boîte à outils pour la compétition à court de conflits armés (cela s'appelait «la zone grise»).Le plan de campagne doit tenir compte des vulnérabilités et des forces propres, et ne pas reliez sur un seul outil de statecraft ou de ligne d'effort.Il identifiera et utilisera un large éventail de pouvoir national pour dissuader, rivaliser et contrer (le cas échéant) les approches d'autres pays, et comprendra la compréhension des propres capacités, les capacités des créateurs de désinformation et les normes de conduite internationales pour concurrencer, rétractablela taille, et finalement dissuader l'utilisation de la concurrence à court de conflits armés. </td>
 <TD> M007 - MetaTechnique </td>
 <TD> TA01 Planification stratégique </td>
@@ -1019,7 +1019,7 @@ La plate-forme <TD> ajoute l'étiquette d'avertissement et le point de décision
 <TD> D07 </td>
 </tr>
 <tr>
-<td> <a href="Counters/C00211.md"> C00211 </a> </td>
+<td> <a href="counters/C00211.md"> C00211 </a> </td>
 <TD> Utilisez des contre-narratifs humoristiques </td>
 <td> </td>
 <TD> M010 - CounterMessaging </td>
@@ -1042,7 +1042,7 @@ La plate-forme <TD> ajoute l'étiquette d'avertissement et le point de décision
 <Td> D02 </td>
 </tr>
 <tr>
-<Td> <a href="Counters/C00219.md"> C00219 </a> </td>
+<Td> <a href="counters/C00219.md"> C00219 </a> </td>
 <TD> Ajoutez des métadonnées au contenu qui est hors du contrôle des créateurs de désinformation </td>
 <TD> Steganography.Ajout de la date, des signatures, etc. pour arrêter le problème de la photo de la photo, etc. </td>
 <TD> M003 - Daylight </td>
