@@ -1,3 +1,0 @@
-pandas
-openpyxl
-stix2
