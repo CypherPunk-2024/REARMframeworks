@@ -1,22 +1,22 @@
 # REARM frameworks - Armez-vous contre la désinformation
 
-REAM Framework est un fork de DISARMframework en Version Française.
+REAMframeworks est un fork de DISARMframework en Version Française.
 
 ## MENU
 |Liens |Catégorie |
 |-------- |-------------- |
 |Blue TEAM :[Se Défendre contre la Désinformation](../../generated_pages/disarm_blue_framework.md) |Défense |
-|Red  TEAM :[Méthodes d'attaques de Désinformation](../../generated_pages/disarm_blue_framework.md) |Attaque |
+|Red TEAM :[Méthodes d'attaques de Désinformation](../../generated_pages/disarm_blue_framework.md) |Attaque |
 |--[ Les Techniques ](../../generated_pages/techniques_index.md) |Techniques|
 |--[ Les Tactiques ](../../generated_pages/techniques_index.md) |Tactiques|
 |--[ Les Tâches ](../../generated_pages/tasks_index.md) |Tâches |
-|--[ Les Phases ](../../generated_pages/tasks_index.md) |Phases |
-|--[ Identifier ](../../generated_pages/tasks_index.md) |Détection | 
+|--[ Les Phases ](../../generated_pages/phases_index.md) |Phases |
+|--[ Identifier ](../../generated_pages/detections_index.md) |Détection | 
 
 
 |Incidents Recencés |
 |-------------------|
-|[ Liste d'Incidents ](../../generated_pages/tasks_index.md) |
+|[ Liste d'Incidents ](../../generated_pages/incidents_index.md) |
 
 # Désarmer la désinformation TTP (tactiques, techniques et procédures)
 
