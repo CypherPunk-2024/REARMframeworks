@@ -58,8 +58,8 @@ def translate_file(input_file, output_file):
             f_failure.write(f"Une erreur est survenue lors de la traduction du fichier {input_file}: {e}")
 
 # Utilisation du script pour traduire tous les fichiers dans le dossier spécifié
-input_folder = "/home/user/REARMframeworks/generated_pages/"
-output_folder = "/home/user/REARMframeworks/generated_pages/"
+input_folder = "/home/shell/Documents/SAM/REARMframeworks/generated_pages/actortypes/"
+output_folder = "/home/shell/Documents/SAM/REARMframeworks/generated_pages/actortypes/"
 
 # Parcours de tous les fichiers dans le dossier d'entrée
 for filename in os.listdir(input_folder):
