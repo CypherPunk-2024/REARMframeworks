@@ -47,7 +47,7 @@ Désarmer des objets: toutes les entités utilisées pour créer l'équipe <span
 
 * 2020-2022: **[cogseccollab](http://cogsec-collab.org/)** a maintenu et mis à jour les modèles Amitt originaux.Cogseccollab est l'organisme à but non lucratif qui a sorti de Misinfosecwg.
 
-<a href="https://cogsec-collab.org">Cogseccollab</a> <span style="color:yellow">a utilisé Amitt dans les réponses \color{red} Covid19 \color de la <span style="color:red">*Ligue CTI*</span> et l'a testée en essais avec l'OTAN, l'UE et les unités de désinformation de plusieurs autres pays.</span>
+<a href="https://cogsec-collab.org">Cogseccollab</a> <span style="color:yellow">a utilisé Amitt dans les réponses $${\color{red}Covid19}$$ de la <span style="color:red">*Ligue CTI*</span> et l'a testée en essais avec l'OTAN, l'UE et les unités de désinformation de plusieurs autres pays.</span>
 
 SJ Terp et Pablo Breuer ont tenu l'autorité de conception des modèles Amitt.
 
