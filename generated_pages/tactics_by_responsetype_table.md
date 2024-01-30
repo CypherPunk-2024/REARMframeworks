@@ -10,7 +10,7 @@
 <TD> D06 </td>
 <TD> D07 </td>
 <td> totaux </td> </tr> <tr>
-<td> <a href="../generated_pages/tactics/ta01.md"> stratégie de plan ta01 </a> </td>
+<td> <a href="../generated_pages/tactics/TA01.md"> stratégie de plan TA01 </a> </td>
 <td> 7 </td>
 <td> 11 </td>
 <td> 6 </td>
@@ -20,7 +20,7 @@
 <td> 28 </td>
 </tr>
 <tr>
-<td> <a href="../generated_pages/tactics/ta02.md"> Objectifs du plan ta02 </a> </td>
+<td> <a href="../generated_pages/tactics/TA02.md"> Objectifs du plan TA02 </a> </td>
 <td> 3 </td>
 <td> 9 </td>
 <td> 1 </td>
@@ -30,7 +30,7 @@
 <td> 15 </td>
 </tr>
 <tr>
-<td> <a href="../generated_pages/tactics/ta05.md"> TA05 Microtarget </a> </td>
+<td> <a href="../generated_pages/tactics/TA05.md"> TA05 Microtarget </a> </td>
 <td> 1 </td>
 <td> 2 </td>
 <td> 1 </td>
@@ -40,7 +40,7 @@
 <td> 5 </td>
 </tr>
 <tr>
-<td> <a href="../Generated_pages/tactics/ta06.md"> ta06 Développer du contenu </a> </td>
+<td> <a href="../Generated_pages/tactics/TA06.md"> TA06 Développer du contenu </a> </td>
 <td> 8 </td>
 <td> 8 </td>
 <td> 6 </td>
@@ -49,7 +49,7 @@
 <td> 0 </td>
 <td> 23 </td>
 </tr>
-<tr><td> <a href="../generated_pages/tactics/ta07.md"> Ta07 Select Channels et adterieurs </a> </td>
+<tr><td> <a href="../generated_pages/tactics/TA07.md"> Ta07 Select Channels et adterieurs </a> </td>
 <td> 4 </td>
 <td> 1 </td>
 <td> 1 </td>
@@ -59,7 +59,7 @@
 <td> 8 </td>
 </tr>
 <tr>
-<td> <a href="../generated_pages/tactics/ta08.md"> ta08 conduisant l'amorçage de la pompe </a> </td>
+<td> <a href="../generated_pages/tactics/TA08.md"> TA08 conduisant l'amorçage de la pompe </a> </td>
 <td> 6 </td>
 <td> 3 </td>
 <td> 3 </td>
@@ -69,7 +69,7 @@
 <td> 15 </td>
 </tr>
 <tr>
-<td> <a href="../Generated_pages/tactics/ta09.md"> TA09 Livrer du Contenu </a> </td>
+<td> <a href="../Generated_pages/tactics/TA09.md"> TA09 Livrer du Contenu </a> </td>
 <td> 3 </td>
 <td> 9 </td>
 <td> 0 </td>
@@ -79,7 +79,7 @@
 <td> 12 </td>
 </tr>
 <tr>
-<td> <a href="../generated_pages/tactics/ta11.md"> ta11 persiste dans l'environnement d'information </a> </td>
+<td> <a href="../generated_pages/tactics/TA11.md"> TA11 persiste dans l'environnement d'information </a> </td>
 <td> 1 </td>
 <td> 2 </td>
 <td> 1 </td>
@@ -89,7 +89,7 @@
 <td> 4 </td>
 </tr>
 <tr>
-<td> <a href="../Generated_pages/tactics/ta12.md"> ta12 évaluer L'Efficacité </a> </td>
+<td> <a href="../Generated_pages/tactics/TA12.md"> TA12 évaluer L'Efficacité </a> </td>
 <td> 0 </td>
 <td> 1 </td>
 <td> 2 </td>
@@ -98,7 +98,7 @@
 <td> 0 </td>
 <td> 3 </td>
 </tr>
-<tr><td> <a href="../Generated_pages/tactics/ta15.md"> ta15 établir des actifs social </a> </td>
+<tr><td> <a href="../Generated_pages/tactics/TA15.md"> TA15 établir des actifs social </a> </td>
 <td> 10 </td>
 <td> 7 </td>
 <td> 6 </td>
