@@ -3,13 +3,13 @@
 <table bordure = "1">
 <tr>
 <tr style = "fond de fond: bleu; couleur: blanc;">
-<td> <a href="tactics/ta01.md"> stratégie de plan TA01 </a> </td>
-<td> <a href="tactics/ta02.md"> Objectifs du plan TA02 </a> </td>
-<td> <a href="tactics/ta05.md"> TA05 microtarget </a> </td>
-<td> <a href="tactics/ta06.md"> TA06 développer du contenu </a> </td>
-<td> <a href="tactics/ta07.md"> TA07 Select Channels and Awardsances </a> </td>
-<td> <a href="tactics/ta08.md"> TA08 conduisant l'amorçage de la pompe </a> </td>
-<td> <a href="tactics/ta09.md"> TA09 livrer du contenu </a> </td>
+<td> <a href="tactics/TA01.md"> stratégie de plan TA01 </a> </td>
+<td> <a href="tactics/TA02.md"> Objectifs du plan TA02 </a> </td>
+<td> <a href="tactics/TA05.md"> TA05 microtarget </a> </td>
+<td> <a href="tactics/TA06.md"> TA06 développer du contenu </a> </td>
+<td> <a href="tactics/TA07.md"> TA07 Select Channels and Awardsances </a> </td>
+<td> <a href="tactics/TA08.md"> TA08 conduisant l'amorçage de la pompe </a> </td>
+<td> <a href="tactics/TA09.md"> TA09 livrer du contenu </a> </td>
 <td> <a href="tactics/ta10.md"> TA10 conduisez l'activité hors ligne </a> </td>
 <td> <a href="tactics/ta11.md"> ta11 persiste dans l'environnement d'information </a> </td>
 <td> <a href="tactics/ta12.md"> TA12 évaluer l'efficacité </a> </td>
