@@ -13,7 +13,7 @@
 | -- [Les Tactiques](generated_pages/techniques_index.md) | Tactiques |
 | -- [Les Tâches](generated_pages/tasks_index.md) | Tâches |
 | -- [Les Phases](generated_pages/phases_index.md) | Phases |
-<<<<<<< HEAD
+
 
 ## Techniques les plus utilisés
 |Techniques|CODE|
