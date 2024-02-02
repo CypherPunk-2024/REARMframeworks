@@ -21,8 +21,10 @@ REAMframeworks est un fork de <a href="https://www.disarm.foundation">DISARMfram
 |Techniques|CODE|
 |----|----|
 |Développer des récits concurrents|[T0004](/generated_pages/techniques/T0004.md)|
-|justifications académiques / pseudoscientifiques|[T0009.001](/generated_pages/techniques/T0009.001.md)|
 |Pollution informationnelle (flood)|[T0019](/generated_pages/techniques/T0019.md)|
+|Faux Experts|[T0009](/generated_pages/techniques/T0009.md)|
+|Fausse Etudes|[T0009.001](/generated_pages/techniques/T0009.001.md)|
+|Faux Sondages|[T0029](/generated_pages/techniques/T0029.md)|
 
 
 ==========================================================
