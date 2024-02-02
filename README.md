@@ -24,7 +24,6 @@
 
 =======
 
->>>>>>> 856033ed46b2dbdb18cda878b27737fd178c98cb
 | Incidents Recensés |
 |-------------------|
 | [Liste d'Incidents](generated_pages/incidents_index.md) |
