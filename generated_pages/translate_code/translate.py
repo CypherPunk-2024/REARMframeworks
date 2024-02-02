@@ -1,3 +1,5 @@
+|[< MENU](../README.md)|
+|---|
 import os
 import time
 from googletrans import Translator

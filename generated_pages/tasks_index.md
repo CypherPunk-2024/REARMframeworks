@@ -1,3 +1,5 @@
+|[< MENU](../README.md)|
+|---|
 # Désarmer les tâches:
 
 <table bordure = "1">

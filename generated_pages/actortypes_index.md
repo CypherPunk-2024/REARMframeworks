@@ -1,3 +1,5 @@
+|[< MENU](../README.md)|
+|---|
 # Désarmer les actes d'action:
 
 <table bordure = "1">

@@ -1,3 +1,5 @@
+|[< MENU](../README.md)|
+|---|
 | [Désarmer les types de réponse:
 
 <table bordure = "1">

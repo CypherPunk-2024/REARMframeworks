@@ -1,3 +1,5 @@
+|[< MENU](../README.md)|
+|---|
 from googletrans import Translator
 import re
 

@@ -1,3 +1,5 @@
+|[< MENU](../README.md)|
+|---|
 # Désarmer les métates:
 
 <table bordure = "1">

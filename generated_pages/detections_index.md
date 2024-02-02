@@ -1,3 +1,5 @@
+|[< MENU](../README.md)|
+|---|
 # Désarmez les détections:
 
 <table bordure = "1">
