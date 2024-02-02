@@ -1,7 +1,9 @@
 # <code style="color: red;">REARMframeworks</code>
-# <code style="color: red;">Armez-vous contre la désinformation</code>
+Nous vivons un Guerre d'informations et de désinformation
+## Armez-vous contre la désinformation
 
-## REAMframeworks est un fork de <a href="https://www.disarm.foundation">DISARMframework</a> en version française
+REAMframeworks est un fork de <a href="https://www.disarm.foundation">DISARMframework</a> en version française
+
 *(La traduction de cette base de données a été générée par une IA. Il se peut qu'il y ait des erreurs)*
 
 ## MENU RAPIDE
@@ -20,6 +22,7 @@
 |----|----|
 |Développer des récits concurrents|[T0004](/generated_pages/techniques/T0004.md)|
 |justifications académiques / pseudoscientifiques|[T0009.001](/generated_pages/techniques/T0009.001.md)|
+|Pollution informationnelle (flood)|[T0019](/generated_pages/techniques/T0019.md)|
 
 
 ==========================================================
