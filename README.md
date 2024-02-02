@@ -13,6 +13,7 @@
 | -- [Les Tactiques](generated_pages/techniques_index.md) | Tactiques |
 | -- [Les Tâches](generated_pages/tasks_index.md) | Tâches |
 | -- [Les Phases](generated_pages/phases_index.md) | Phases |
+<<<<<<< HEAD
 
 ## Techniques les plus utilisés
 |Techniques|CODE|
@@ -21,6 +22,9 @@
 |justifications académiques / pseudoscientifiques|[T0009.001](/generated_pages/techniques/T0009.001.md)|
 
 
+=======
+
+>>>>>>> 856033ed46b2dbdb18cda878b27737fd178c98cb
 | Incidents Recensés |
 |-------------------|
 | [Liste d'Incidents](generated_pages/incidents_index.md) |

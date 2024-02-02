@@ -267,7 +267,7 @@ Les campagnes de collecte de fonds <TD> se réfèrent à l'effort systématique 
 </tr>
 <tr>
 <td> <a href="techniques/T0049.004.md"> T0049.004 </a> </td>
-<TD> Utiliser Spamoflauge </td><TD> Spamoflauge fait référence à la pratique du déguisement des messages de spam comme légitimes.Le spam fait référence à l'utilisation de systèmes de messagerie électronique pour envoyer des messages non proposés ou indésirables en vrac.Les méthodes simples de Spamoflauge incluent le remplacement des lettres par des chiffres pour tromper les filtres de spam par e-mail basés sur les mots clés, par exemple, "Vous avez w0n notre jackp0t!".Spamoflauge peut s'étendre à des techniques plus complexes telles que la modification de la grammaire ou du choix de mots de la langue, en jetant des messages comme des images que les détecteurs de spam ne peuvent pas lire automatiquement ou encapsulant des messages dans des pièces jointes protégées par mot de passe, telles que les fichiers .pdf ou .zip.Les opérations d'influence peuvent utiliser le spamoflauge pour éviter les systèmes de filtrage des spams et augmenter la probabilité que le public cible reçoive la messagerie d'opération. </td>
+<TD> Utiliser le Spam </td><TD> Le Spam fait référence à la pratique du déguisement des messages de spam comme légitimes.Le spam fait référence à l'utilisation de systèmes de messagerie électronique pour envoyer des messages non proposés ou indésirables en vrac.Les méthodes simples de Spamoflauge incluent le remplacement des lettres par des chiffres pour tromper les filtres de spam par e-mail basés sur les mots clés, par exemple, "Vous avez w0n notre jackp0t!".Spamoflauge peut s'étendre à des techniques plus complexes telles que la modification de la grammaire ou du choix de mots de la langue, en jetant des messages comme des images que les détecteurs de spam ne peuvent pas lire automatiquement ou encapsulant des messages dans des pièces jointes protégées par mot de passe, telles que les fichiers .pdf ou .zip.Les opérations d'influence peuvent utiliser le spamoflauge pour éviter les systèmes de filtrage des spams et augmenter la probabilité que le public cible reçoive la messagerie d'opération. </td>
 <TD> TA17 </TD>
 </tr>
 <tr>
@@ -1591,7 +1591,7 @@ La suppression <TD> URL se produit lorsqu'une opération d'influence supprime co
 </tr>
 <tr>
 <td> <a href="techniques/T0138.002.md"> T0138.002 </a> </td>
-<TD> PROVOT </TD><TD> Icigate, inciter ou susciter une cible pour agir.Les manipulateurs des médias sociaux exploitent l'indignation morale pour propulser des objectifs pour répandre la haine, descendre dans les rues pour protester ou s'engager dans des actes de violence.</td>
+<TD> Provoquez </TD><TD> Icigate, inciter ou susciter une cible pour agir.Les manipulateurs des médias sociaux exploitent l'indignation morale pour propulser des objectifs pour répandre la haine, descendre dans les rues pour protester ou s'engager dans des actes de violence.</td>
 <TD> TA02 </TD>
 </tr>
 <tr>

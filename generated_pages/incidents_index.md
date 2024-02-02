@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td> <a href="incidents/I00002.md"> I00002 </a> </td>
-<td> #vaccinateus </td>
+<td> #VaccinateUS </td>
 <TD> Campagne </td>
 <TD> 2014 </td>
 <TD> World </td>
@@ -113,7 +113,7 @@
 </tr>
 <tr>
 <td> <a href="incidents/I00014.md"> I00014 </a> </td>
-<TD> giletsjaunepileon </td>
+<TD> Gilets jaune </td>
 <TD> Incident </td>
 <TD> 2018 </td>
 <TD> France </td>
