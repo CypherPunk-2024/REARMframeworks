@@ -1,5 +1,5 @@
 # <code style="color: red;">REARMframeworks</code>
-Nous vivons un Guerre d'informations et de désinformation
+Nous vivons une Guerre d'informations et de désinformation
 ## Armez-vous contre la désinformation
 
 REAMframeworks est un fork de <a href="https://www.disarm.foundation">DISARMframework</a> en version française
