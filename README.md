@@ -59,7 +59,7 @@ Désarmer des objets: toutes les entités utilisées pour créer l'équipe <span
 
 * Maintenant: **[Disarm Foundation](https://www.disarm.foundation/)** maintient et met à jour la famille de désarmement des modèles: Disarm-Stix, le framework rouge désarme (de la création de désinformation), et le Disarm BlueCadre (des contre-mesures de désinformation et des atténuations).* En 2022, **Mitre, FIU et Cogseccollab Teams** ont travaillé ensemble pour fusionner les modèles de cadre Amitt et Spice pour créer les cadres de désarme, dirigés par SJ, Pablo, Mark et Jon Brewer (qui nous maintient tous organisés).Cette équipe a créé la Fondation Disarm.
 
-* 2020: **[miter](https://www.mitre.org/) et [fiu: Florida International University](https://www.fiu.edu/)** a fourré le modèle Amitt Red pour créer le cadre d'épice,Dirigé par Mark Finlayson à la CRF.
+* 2020: **[mitre](https://www.mitre.org/) et [fiu: Florida International University](https://www.fiu.edu/)** a fourré le modèle Amitt Red pour créer le cadre d'épice,Dirigé par Mark Finlayson à la CRF.
 
 * 2020-2022: **[cogseccollab]([http://cogsec-collab.org/](https://github.com/cogsec-collaborative/AMITT))** a maintenu et mis à jour les modèles Amitt originaux.Cogseccollab est l'organisme à but non lucratif qui a sorti de Misinfosecwg.
 
